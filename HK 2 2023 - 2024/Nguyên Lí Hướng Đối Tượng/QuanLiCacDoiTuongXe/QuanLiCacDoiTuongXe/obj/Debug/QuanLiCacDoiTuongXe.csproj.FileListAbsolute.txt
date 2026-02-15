@@ -1,0 +1,7 @@
+D:\Bài lab\Nguyên Lí Hướng Đối Tượngg\QuanLiCacDoiTuongXe\QuanLiCacDoiTuongXe\bin\Debug\QuanLiCacDoiTuongXe.exe.config
+D:\Bài lab\Nguyên Lí Hướng Đối Tượngg\QuanLiCacDoiTuongXe\QuanLiCacDoiTuongXe\bin\Debug\QuanLiCacDoiTuongXe.exe
+D:\Bài lab\Nguyên Lí Hướng Đối Tượngg\QuanLiCacDoiTuongXe\QuanLiCacDoiTuongXe\bin\Debug\QuanLiCacDoiTuongXe.pdb
+D:\Bài lab\Nguyên Lí Hướng Đối Tượngg\QuanLiCacDoiTuongXe\QuanLiCacDoiTuongXe\obj\Debug\QuanLiCacDoiTuongXe.csproj.AssemblyReference.cache
+D:\Bài lab\Nguyên Lí Hướng Đối Tượngg\QuanLiCacDoiTuongXe\QuanLiCacDoiTuongXe\obj\Debug\QuanLiCacDoiTuongXe.csproj.CoreCompileInputs.cache
+D:\Bài lab\Nguyên Lí Hướng Đối Tượngg\QuanLiCacDoiTuongXe\QuanLiCacDoiTuongXe\obj\Debug\QuanLiCacDoiTuongXe.exe
+D:\Bài lab\Nguyên Lí Hướng Đối Tượngg\QuanLiCacDoiTuongXe\QuanLiCacDoiTuongXe\obj\Debug\QuanLiCacDoiTuongXe.pdb

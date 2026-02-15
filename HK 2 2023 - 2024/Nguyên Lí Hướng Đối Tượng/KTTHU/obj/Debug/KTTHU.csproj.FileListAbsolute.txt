@@ -1,0 +1,8 @@
+D:\Bài lab\Nguyên Lí Hướng Đối Tượng\KTTHU\bin\Debug\dsanpham.txt
+D:\Bài lab\Nguyên Lí Hướng Đối Tượng\KTTHU\bin\Debug\KTTHU.exe.config
+D:\Bài lab\Nguyên Lí Hướng Đối Tượng\KTTHU\bin\Debug\KTTHU.exe
+D:\Bài lab\Nguyên Lí Hướng Đối Tượng\KTTHU\bin\Debug\KTTHU.pdb
+D:\Bài lab\Nguyên Lí Hướng Đối Tượng\KTTHU\obj\Debug\KTTHU.csproj.AssemblyReference.cache
+D:\Bài lab\Nguyên Lí Hướng Đối Tượng\KTTHU\obj\Debug\KTTHU.csproj.CoreCompileInputs.cache
+D:\Bài lab\Nguyên Lí Hướng Đối Tượng\KTTHU\obj\Debug\KTTHU.exe
+D:\Bài lab\Nguyên Lí Hướng Đối Tượng\KTTHU\obj\Debug\KTTHU.pdb

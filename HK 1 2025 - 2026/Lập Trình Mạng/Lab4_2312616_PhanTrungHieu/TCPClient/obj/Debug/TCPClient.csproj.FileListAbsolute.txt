@@ -1,0 +1,15 @@
+Z:\Lab4_2312616_PhanTrungHieu\TCPClient\bin\Debug\TCPClient.exe.config
+Z:\Lab4_2312616_PhanTrungHieu\TCPClient\bin\Debug\TCPClient.exe
+Z:\Lab4_2312616_PhanTrungHieu\TCPClient\bin\Debug\TCPClient.pdb
+Z:\Lab4_2312616_PhanTrungHieu\TCPClient\obj\Debug\TCPClient.csproj.AssemblyReference.cache
+Z:\Lab4_2312616_PhanTrungHieu\TCPClient\obj\Debug\TCPClient.csproj.CoreCompileInputs.cache
+Z:\Lab4_2312616_PhanTrungHieu\TCPClient\obj\Debug\TCPClient.exe
+Z:\Lab4_2312616_PhanTrungHieu\TCPClient\obj\Debug\TCPClient.pdb
+C:\Users\Admin\Documents\Data\Bài lab\Lập Trình Mạng\Lab4_2312616_PhanTrungHieu\TCPClient\bin\Debug\TCPClient.exe.config
+C:\Users\Admin\Documents\Data\Bài lab\Lập Trình Mạng\Lab4_2312616_PhanTrungHieu\TCPClient\bin\Debug\TCPClient.exe
+C:\Users\Admin\Documents\Data\Bài lab\Lập Trình Mạng\Lab4_2312616_PhanTrungHieu\TCPClient\bin\Debug\TCPClient.pdb
+C:\Users\Admin\Documents\Data\Bài lab\Lập Trình Mạng\Lab4_2312616_PhanTrungHieu\TCPClient\obj\Debug\TCPClient.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Data\Bài lab\Lập Trình Mạng\Lab4_2312616_PhanTrungHieu\TCPClient\obj\Debug\TCPClient.exe.config
+C:\Users\Admin\Documents\Data\Bài lab\Lập Trình Mạng\Lab4_2312616_PhanTrungHieu\TCPClient\obj\Debug\TCPClient.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Data\Bài lab\Lập Trình Mạng\Lab4_2312616_PhanTrungHieu\TCPClient\obj\Debug\TCPClient.exe
+C:\Users\Admin\Documents\Data\Bài lab\Lập Trình Mạng\Lab4_2312616_PhanTrungHieu\TCPClient\obj\Debug\TCPClient.pdb

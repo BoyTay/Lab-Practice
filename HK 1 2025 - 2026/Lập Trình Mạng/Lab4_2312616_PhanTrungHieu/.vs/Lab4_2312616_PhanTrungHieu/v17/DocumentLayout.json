@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\Data\\B\u00E0i lab\\L\u1EADp Tr\u00ECnh M\u1EA1ng\\Lab4_2312616_PhanTrungHieu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3189369C-4239-41A3-8637-2DFEC1FD4584}|B\u00E0i 3.UDP Client\\B\u00E0i 3.UDP Client.csproj|c:\\users\\admin\\documents\\data\\b\u00E0i lab\\l\u1EADp tr\u00ECnh m\u1EA1ng\\lab4_2312616_phantrunghieu\\b\u00E0i 3.udp client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3189369C-4239-41A3-8637-2DFEC1FD4584}|B\u00E0i 3.UDP Client\\B\u00E0i 3.UDP Client.csproj|solutionrelative:b\u00E0i 3.udp client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E0A666C-0CDD-472C-A0CD-0EEF456CD3A5}|B\u00E0i 3.UDP Sever\\B\u00E0i 3.UDP Sever.csproj|C:\\Users\\Admin\\Documents\\Data\\B\u00E0i lab\\L\u1EADp Tr\u00ECnh M\u1EA1ng\\Lab4_2312616_PhanTrungHieu\\b\u00E0i 3.udp sever\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E0A666C-0CDD-472C-A0CD-0EEF456CD3A5}|B\u00E0i 3.UDP Sever\\B\u00E0i 3.UDP Sever.csproj|solutionrelative:b\u00E0i 3.udp sever\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3189369C-4239-41A3-8637-2DFEC1FD4584}|B\u00E0i 3.UDP Client\\B\u00E0i 3.UDP Client.csproj|c:\\users\\admin\\documents\\data\\b\u00E0i lab\\l\u1EADp tr\u00ECnh m\u1EA1ng\\lab4_2312616_phantrunghieu\\b\u00E0i 3.udp client\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3189369C-4239-41A3-8637-2DFEC1FD4584}|B\u00E0i 3.UDP Client\\B\u00E0i 3.UDP Client.csproj|solutionrelative:b\u00E0i 3.udp client\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Data\\B\u00E0i lab\\L\u1EADp Tr\u00ECnh M\u1EA1ng\\Lab4_2312616_PhanTrungHieu\\B\u00E0i 3.UDP Sever\\Program.cs",
+              "RelativeDocumentMoniker": "B\u00E0i 3.UDP Sever\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Data\\B\u00E0i lab\\L\u1EADp Tr\u00ECnh M\u1EA1ng\\Lab4_2312616_PhanTrungHieu\\B\u00E0i 3.UDP Sever\\Program.cs",
+              "RelativeToolTip": "B\u00E0i 3.UDP Sever\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAswDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T15:41:44.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Data\\B\u00E0i lab\\L\u1EADp Tr\u00ECnh M\u1EA1ng\\Lab4_2312616_PhanTrungHieu\\B\u00E0i 3.UDP Client\\Program.cs",
+              "RelativeDocumentMoniker": "B\u00E0i 3.UDP Client\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Data\\B\u00E0i lab\\L\u1EADp Tr\u00ECnh M\u1EA1ng\\Lab4_2312616_PhanTrungHieu\\B\u00E0i 3.UDP Client\\Program.cs",
+              "RelativeToolTip": "B\u00E0i 3.UDP Client\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwDAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T16:01:24.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Data\\B\u00E0i lab\\L\u1EADp Tr\u00ECnh M\u1EA1ng\\Lab4_2312616_PhanTrungHieu\\B\u00E0i 3.UDP Client\\Employee.cs",
+              "RelativeDocumentMoniker": "B\u00E0i 3.UDP Client\\Employee.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Data\\B\u00E0i lab\\L\u1EADp Tr\u00ECnh M\u1EA1ng\\Lab4_2312616_PhanTrungHieu\\B\u00E0i 3.UDP Client\\Employee.cs",
+              "RelativeToolTip": "B\u00E0i 3.UDP Client\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T16:01:23.836Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

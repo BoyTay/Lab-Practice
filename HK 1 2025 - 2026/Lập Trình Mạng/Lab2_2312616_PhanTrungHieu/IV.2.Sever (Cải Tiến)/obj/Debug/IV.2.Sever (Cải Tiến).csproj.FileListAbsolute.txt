@@ -1,0 +1,8 @@
+C:\Users\Admin\Documents\Data\Bài lab\Lập Trình Mạng\Lab2_2312616_PhanTrungHieu\IV.2.Sever (Cải Tiến)\bin\Debug\IV.2.Sever (Cải Tiến).exe.config
+C:\Users\Admin\Documents\Data\Bài lab\Lập Trình Mạng\Lab2_2312616_PhanTrungHieu\IV.2.Sever (Cải Tiến)\bin\Debug\IV.2.Sever (Cải Tiến).exe
+C:\Users\Admin\Documents\Data\Bài lab\Lập Trình Mạng\Lab2_2312616_PhanTrungHieu\IV.2.Sever (Cải Tiến)\bin\Debug\IV.2.Sever (Cải Tiến).pdb
+C:\Users\Admin\Documents\Data\Bài lab\Lập Trình Mạng\Lab2_2312616_PhanTrungHieu\IV.2.Sever (Cải Tiến)\obj\Debug\IV.2.Sever (Cải Tiến).csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Data\Bài lab\Lập Trình Mạng\Lab2_2312616_PhanTrungHieu\IV.2.Sever (Cải Tiến)\obj\Debug\IV.2.Sever (Cải Tiến).csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Data\Bài lab\Lập Trình Mạng\Lab2_2312616_PhanTrungHieu\IV.2.Sever (Cải Tiến)\obj\Debug\IV.2.Sever (Cải Tiến).exe
+C:\Users\Admin\Documents\Data\Bài lab\Lập Trình Mạng\Lab2_2312616_PhanTrungHieu\IV.2.Sever (Cải Tiến)\obj\Debug\IV.2.Sever (Cải Tiến).pdb
+C:\Users\Admin\Documents\Data\Bài lab\Lập Trình Mạng\Lab2_2312616_PhanTrungHieu\IV.2.Sever (Cải Tiến)\obj\Debug\IV.2.Sever (Cải Tiến).exe.config

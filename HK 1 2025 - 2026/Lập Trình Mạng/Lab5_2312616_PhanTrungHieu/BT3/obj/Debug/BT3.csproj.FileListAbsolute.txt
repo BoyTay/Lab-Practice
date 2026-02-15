@@ -1,0 +1,7 @@
+C:\Users\PC602\Downloads\Lab5_2312616_PhanTrungHieu\BT3\bin\Debug\BT3.exe.config
+C:\Users\PC602\Downloads\Lab5_2312616_PhanTrungHieu\BT3\bin\Debug\BT3.exe
+C:\Users\PC602\Downloads\Lab5_2312616_PhanTrungHieu\BT3\bin\Debug\BT3.pdb
+C:\Users\PC602\Downloads\Lab5_2312616_PhanTrungHieu\BT3\obj\Debug\BT3.csproj.AssemblyReference.cache
+C:\Users\PC602\Downloads\Lab5_2312616_PhanTrungHieu\BT3\obj\Debug\BT3.csproj.CoreCompileInputs.cache
+C:\Users\PC602\Downloads\Lab5_2312616_PhanTrungHieu\BT3\obj\Debug\BT3.exe
+C:\Users\PC602\Downloads\Lab5_2312616_PhanTrungHieu\BT3\obj\Debug\BT3.pdb

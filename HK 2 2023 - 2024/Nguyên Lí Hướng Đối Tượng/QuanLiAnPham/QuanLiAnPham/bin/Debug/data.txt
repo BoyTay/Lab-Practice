@@ -1,0 +1,5 @@
+﻿Sach,2022,NXB Tre,Lap Trinh C#,123-4567890123,Nguyen Van A
+Tap Chi,2023,NXB Kim Dong,Tap Chi Khoa Hoc,12,4
+Tap Chi,2019,NXB Kim Đong,Chuyen tinh Ha Noi,13,9			
+Sach,2015,NXB Viet Nam,Tieng Viet,123-4567890121,Nguyen Van B
+Sach,2012,NXB Kim Đong,Kham pha vu tru,123-4567890131,Nguyen Van C

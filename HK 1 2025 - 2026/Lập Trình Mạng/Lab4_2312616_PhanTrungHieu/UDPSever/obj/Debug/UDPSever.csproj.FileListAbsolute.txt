@@ -1,0 +1,15 @@
+Z:\Lab4_2312616_PhanTrungHieu\UDPSever\bin\Debug\UDPSever.exe.config
+Z:\Lab4_2312616_PhanTrungHieu\UDPSever\bin\Debug\UDPSever.exe
+Z:\Lab4_2312616_PhanTrungHieu\UDPSever\bin\Debug\UDPSever.pdb
+Z:\Lab4_2312616_PhanTrungHieu\UDPSever\obj\Debug\UDPSever.csproj.AssemblyReference.cache
+Z:\Lab4_2312616_PhanTrungHieu\UDPSever\obj\Debug\UDPSever.csproj.CoreCompileInputs.cache
+Z:\Lab4_2312616_PhanTrungHieu\UDPSever\obj\Debug\UDPSever.exe
+Z:\Lab4_2312616_PhanTrungHieu\UDPSever\obj\Debug\UDPSever.pdb
+C:\Users\Admin\Documents\Data\Bài lab\Lập Trình Mạng\Lab4_2312616_PhanTrungHieu\UDPSever\bin\Debug\UDPSever.exe.config
+C:\Users\Admin\Documents\Data\Bài lab\Lập Trình Mạng\Lab4_2312616_PhanTrungHieu\UDPSever\bin\Debug\UDPSever.exe
+C:\Users\Admin\Documents\Data\Bài lab\Lập Trình Mạng\Lab4_2312616_PhanTrungHieu\UDPSever\bin\Debug\UDPSever.pdb
+C:\Users\Admin\Documents\Data\Bài lab\Lập Trình Mạng\Lab4_2312616_PhanTrungHieu\UDPSever\obj\Debug\UDPSever.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Data\Bài lab\Lập Trình Mạng\Lab4_2312616_PhanTrungHieu\UDPSever\obj\Debug\UDPSever.exe.config
+C:\Users\Admin\Documents\Data\Bài lab\Lập Trình Mạng\Lab4_2312616_PhanTrungHieu\UDPSever\obj\Debug\UDPSever.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Data\Bài lab\Lập Trình Mạng\Lab4_2312616_PhanTrungHieu\UDPSever\obj\Debug\UDPSever.exe
+C:\Users\Admin\Documents\Data\Bài lab\Lập Trình Mạng\Lab4_2312616_PhanTrungHieu\UDPSever\obj\Debug\UDPSever.pdb

@@ -1,0 +1,14 @@
+﻿  Program.cpp
+C:\Bài lab\2312616_PTHieu_Lab3PhanE\Bai 8\Program.cpp(50,9): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Bài lab\2312616_PTHieu_Lab3PhanE\Bai 8\Program.cpp(60,9): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Bài lab\2312616_PTHieu_Lab3PhanE\Bai 8\Program.cpp(72,9): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Bài lab\2312616_PTHieu_Lab3PhanE\Bai 8\Program.cpp(84,9): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Bài lab\2312616_PTHieu_Lab3PhanE\Bai 8\Program.cpp(94,9): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Bài lab\2312616_PTHieu_Lab3PhanE\Bai 8\Program.cpp(105,9): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Bài lab\2312616_PTHieu_Lab3PhanE\Bai 8\Program.cpp(115,9): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Bài lab\2312616_PTHieu_Lab3PhanE\Bai 8\Program.cpp(125,9): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Bài lab\2312616_PTHieu_Lab3PhanE\Bai 8\Program.cpp(136,9): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Bài lab\2312616_PTHieu_Lab3PhanE\Bai 8\Program.cpp(146,9): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Bài lab\2312616_PTHieu_Lab3PhanE\Bai 8\Program.cpp(156,9): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Bài lab\2312616_PTHieu_Lab3PhanE\Bai 8\Program.cpp(167,9): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Bai 8.vcxproj -> C:\Bài lab\2312616_PTHieu_Lab3PhanE\x64\Debug\Bai 8.exe

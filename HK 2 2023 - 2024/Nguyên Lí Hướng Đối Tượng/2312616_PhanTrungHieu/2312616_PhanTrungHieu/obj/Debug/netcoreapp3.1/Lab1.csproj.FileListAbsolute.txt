@@ -1,0 +1,38 @@
+C:\Users\CICT\Downloads\2312616_PhanTrungHieu\2312616_PhanTrungHieu\bin\Debug\netcoreapp3.1\Lab1.exe
+C:\Users\CICT\Downloads\2312616_PhanTrungHieu\2312616_PhanTrungHieu\bin\Debug\netcoreapp3.1\Lab1.deps.json
+C:\Users\CICT\Downloads\2312616_PhanTrungHieu\2312616_PhanTrungHieu\bin\Debug\netcoreapp3.1\Lab1.runtimeconfig.json
+C:\Users\CICT\Downloads\2312616_PhanTrungHieu\2312616_PhanTrungHieu\bin\Debug\netcoreapp3.1\Lab1.runtimeconfig.dev.json
+C:\Users\CICT\Downloads\2312616_PhanTrungHieu\2312616_PhanTrungHieu\bin\Debug\netcoreapp3.1\Lab1.dll
+C:\Users\CICT\Downloads\2312616_PhanTrungHieu\2312616_PhanTrungHieu\bin\Debug\netcoreapp3.1\Lab1.pdb
+C:\Users\CICT\Downloads\2312616_PhanTrungHieu\2312616_PhanTrungHieu\obj\Debug\netcoreapp3.1\Lab1.AssemblyInfoInputs.cache
+C:\Users\CICT\Downloads\2312616_PhanTrungHieu\2312616_PhanTrungHieu\obj\Debug\netcoreapp3.1\Lab1.AssemblyInfo.cs
+C:\Users\CICT\Downloads\2312616_PhanTrungHieu\2312616_PhanTrungHieu\obj\Debug\netcoreapp3.1\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\CICT\Downloads\2312616_PhanTrungHieu\2312616_PhanTrungHieu\obj\Debug\netcoreapp3.1\Lab1.dll
+C:\Users\CICT\Downloads\2312616_PhanTrungHieu\2312616_PhanTrungHieu\obj\Debug\netcoreapp3.1\Lab1.pdb
+C:\Users\CICT\Downloads\2312616_PhanTrungHieu\2312616_PhanTrungHieu\obj\Debug\netcoreapp3.1\Lab1.genruntimeconfig.cache
+C:\Bài lab\Nguyên Lí Hướng Đối Tượngg\2312616_PhanTrungHieu\2312616_PhanTrungHieu\bin\Debug\netcoreapp3.1\Lab1.exe
+C:\Bài lab\Nguyên Lí Hướng Đối Tượngg\2312616_PhanTrungHieu\2312616_PhanTrungHieu\bin\Debug\netcoreapp3.1\Lab1.deps.json
+C:\Bài lab\Nguyên Lí Hướng Đối Tượngg\2312616_PhanTrungHieu\2312616_PhanTrungHieu\bin\Debug\netcoreapp3.1\Lab1.runtimeconfig.json
+C:\Bài lab\Nguyên Lí Hướng Đối Tượngg\2312616_PhanTrungHieu\2312616_PhanTrungHieu\bin\Debug\netcoreapp3.1\Lab1.runtimeconfig.dev.json
+C:\Bài lab\Nguyên Lí Hướng Đối Tượngg\2312616_PhanTrungHieu\2312616_PhanTrungHieu\bin\Debug\netcoreapp3.1\Lab1.dll
+C:\Bài lab\Nguyên Lí Hướng Đối Tượngg\2312616_PhanTrungHieu\2312616_PhanTrungHieu\bin\Debug\netcoreapp3.1\Lab1.pdb
+C:\Bài lab\Nguyên Lí Hướng Đối Tượngg\2312616_PhanTrungHieu\2312616_PhanTrungHieu\obj\Debug\netcoreapp3.1\Lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Bài lab\Nguyên Lí Hướng Đối Tượngg\2312616_PhanTrungHieu\2312616_PhanTrungHieu\obj\Debug\netcoreapp3.1\Lab1.AssemblyInfoInputs.cache
+C:\Bài lab\Nguyên Lí Hướng Đối Tượngg\2312616_PhanTrungHieu\2312616_PhanTrungHieu\obj\Debug\netcoreapp3.1\Lab1.AssemblyInfo.cs
+C:\Bài lab\Nguyên Lí Hướng Đối Tượngg\2312616_PhanTrungHieu\2312616_PhanTrungHieu\obj\Debug\netcoreapp3.1\Lab1.csproj.CoreCompileInputs.cache
+C:\Bài lab\Nguyên Lí Hướng Đối Tượngg\2312616_PhanTrungHieu\2312616_PhanTrungHieu\obj\Debug\netcoreapp3.1\Lab1.dll
+C:\Bài lab\Nguyên Lí Hướng Đối Tượngg\2312616_PhanTrungHieu\2312616_PhanTrungHieu\obj\Debug\netcoreapp3.1\Lab1.pdb
+C:\Bài lab\Nguyên Lí Hướng Đối Tượngg\2312616_PhanTrungHieu\2312616_PhanTrungHieu\obj\Debug\netcoreapp3.1\Lab1.genruntimeconfig.cache
+Z:\2312616_PhanTrungHieu\2312616_PhanTrungHieu\bin\Debug\netcoreapp3.1\Lab1.exe
+Z:\2312616_PhanTrungHieu\2312616_PhanTrungHieu\bin\Debug\netcoreapp3.1\Lab1.deps.json
+Z:\2312616_PhanTrungHieu\2312616_PhanTrungHieu\bin\Debug\netcoreapp3.1\Lab1.runtimeconfig.json
+Z:\2312616_PhanTrungHieu\2312616_PhanTrungHieu\bin\Debug\netcoreapp3.1\Lab1.runtimeconfig.dev.json
+Z:\2312616_PhanTrungHieu\2312616_PhanTrungHieu\bin\Debug\netcoreapp3.1\Lab1.dll
+Z:\2312616_PhanTrungHieu\2312616_PhanTrungHieu\bin\Debug\netcoreapp3.1\Lab1.pdb
+Z:\2312616_PhanTrungHieu\2312616_PhanTrungHieu\obj\Debug\netcoreapp3.1\Lab1.csprojAssemblyReference.cache
+Z:\2312616_PhanTrungHieu\2312616_PhanTrungHieu\obj\Debug\netcoreapp3.1\Lab1.AssemblyInfoInputs.cache
+Z:\2312616_PhanTrungHieu\2312616_PhanTrungHieu\obj\Debug\netcoreapp3.1\Lab1.AssemblyInfo.cs
+Z:\2312616_PhanTrungHieu\2312616_PhanTrungHieu\obj\Debug\netcoreapp3.1\Lab1.csproj.CoreCompileInputs.cache
+Z:\2312616_PhanTrungHieu\2312616_PhanTrungHieu\obj\Debug\netcoreapp3.1\Lab1.dll
+Z:\2312616_PhanTrungHieu\2312616_PhanTrungHieu\obj\Debug\netcoreapp3.1\Lab1.pdb
+Z:\2312616_PhanTrungHieu\2312616_PhanTrungHieu\obj\Debug\netcoreapp3.1\Lab1.genruntimeconfig.cache

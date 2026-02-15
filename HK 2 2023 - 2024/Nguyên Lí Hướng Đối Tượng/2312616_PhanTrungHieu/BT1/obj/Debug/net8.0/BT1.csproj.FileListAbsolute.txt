@@ -1,0 +1,14 @@
+C:\Bài lab\Nguyên Lí Hướng Đối Tượngg\2312616_PhanTrungHieu\BT1\bin\Debug\net8.0\BT1.exe
+C:\Bài lab\Nguyên Lí Hướng Đối Tượngg\2312616_PhanTrungHieu\BT1\bin\Debug\net8.0\BT1.deps.json
+C:\Bài lab\Nguyên Lí Hướng Đối Tượngg\2312616_PhanTrungHieu\BT1\bin\Debug\net8.0\BT1.runtimeconfig.json
+C:\Bài lab\Nguyên Lí Hướng Đối Tượngg\2312616_PhanTrungHieu\BT1\bin\Debug\net8.0\BT1.dll
+C:\Bài lab\Nguyên Lí Hướng Đối Tượngg\2312616_PhanTrungHieu\BT1\bin\Debug\net8.0\BT1.pdb
+C:\Bài lab\Nguyên Lí Hướng Đối Tượngg\2312616_PhanTrungHieu\BT1\obj\Debug\net8.0\BT1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Bài lab\Nguyên Lí Hướng Đối Tượngg\2312616_PhanTrungHieu\BT1\obj\Debug\net8.0\BT1.AssemblyInfoInputs.cache
+C:\Bài lab\Nguyên Lí Hướng Đối Tượngg\2312616_PhanTrungHieu\BT1\obj\Debug\net8.0\BT1.AssemblyInfo.cs
+C:\Bài lab\Nguyên Lí Hướng Đối Tượngg\2312616_PhanTrungHieu\BT1\obj\Debug\net8.0\BT1.csproj.CoreCompileInputs.cache
+C:\Bài lab\Nguyên Lí Hướng Đối Tượngg\2312616_PhanTrungHieu\BT1\obj\Debug\net8.0\BT1.dll
+C:\Bài lab\Nguyên Lí Hướng Đối Tượngg\2312616_PhanTrungHieu\BT1\obj\Debug\net8.0\refint\BT1.dll
+C:\Bài lab\Nguyên Lí Hướng Đối Tượngg\2312616_PhanTrungHieu\BT1\obj\Debug\net8.0\BT1.pdb
+C:\Bài lab\Nguyên Lí Hướng Đối Tượngg\2312616_PhanTrungHieu\BT1\obj\Debug\net8.0\BT1.genruntimeconfig.cache
+C:\Bài lab\Nguyên Lí Hướng Đối Tượngg\2312616_PhanTrungHieu\BT1\obj\Debug\net8.0\ref\BT1.dll

@@ -1,0 +1,5 @@
+﻿2310001|Nguyen Van|Huy|15/03/2002|CTK23|Nam|123456789|0912345678|123 Le Loi, Q1, HCM|Mạng máy tính;Hệ điều hành
+2310002|Tran Thi|Bich|20/08/2002|CTK23|Nữ|234567891|0987654321|45 Tran Hung Dao, Q5, HCM|Lập trình CSDL;Đồ án cơ sở
+2310003|Le Hoang|Cuong|05/12/2001|CTK23|Nam|345678912|0909123456|67 Nguyen Trai, Q3, HCM|Lập trình mạng;An toàn và bảo mật hệ thống
+2310004|Pham Ngoc|Dung|11/07/2003|CTK23|Nữ|456789123|0938123456|89 Cach Mang Thang 8, Q10, HCM|Phương pháp NCKH;Lập trình trên thiết bị di động
+2310005|Vo Quang|Em|25/01/2002|CTK23|Nam|567891234|0977123456|12 Vo Van Tan, Q3, HCM|Mạng máy tính;Lập trình mạng;An toàn và bảo mật hệ thống

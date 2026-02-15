@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\Data\\B\u00E0i lab\\L\u1EADp Tr\u00ECnh M\u1EA1ng\\Lab3_2312616_PhanTrungHieu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75253EBE-6A93-4DA3-9ADB-AE75B57F7E1C}|III.7.UDP Client\\III.7.UDP Client.csproj|c:\\users\\admin\\documents\\data\\b\u00E0i lab\\l\u1EADp tr\u00ECnh m\u1EA1ng\\lab3_2312616_phantrunghieu\\iii.7.udp client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75253EBE-6A93-4DA3-9ADB-AE75B57F7E1C}|III.7.UDP Client\\III.7.UDP Client.csproj|solutionrelative:iii.7.udp client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Data\\B\u00E0i lab\\L\u1EADp Tr\u00ECnh M\u1EA1ng\\Lab3_2312616_PhanTrungHieu\\III.7.UDP Client\\Program.cs",
+              "RelativeDocumentMoniker": "III.7.UDP Client\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Data\\B\u00E0i lab\\L\u1EADp Tr\u00ECnh M\u1EA1ng\\Lab3_2312616_PhanTrungHieu\\III.7.UDP Client\\Program.cs",
+              "RelativeToolTip": "III.7.UDP Client\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T03:48:32.471Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "IV.3.Sever\\IV.3.Sever.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "IV.3.Client (Cải Tiến)\\IV.3.Client.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

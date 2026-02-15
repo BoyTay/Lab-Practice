@@ -1,0 +1,7 @@
+C:\Users\PC602\Downloads\Lab2_2312616_PhanTrungHieu\III.6\bin\Debug\III.6.exe.config
+C:\Users\PC602\Downloads\Lab2_2312616_PhanTrungHieu\III.6\bin\Debug\III.6.exe
+C:\Users\PC602\Downloads\Lab2_2312616_PhanTrungHieu\III.6\bin\Debug\III.6.pdb
+C:\Users\PC602\Downloads\Lab2_2312616_PhanTrungHieu\III.6\obj\Debug\III.6.Sever.csproj.AssemblyReference.cache
+C:\Users\PC602\Downloads\Lab2_2312616_PhanTrungHieu\III.6\obj\Debug\III.6.Sever.csproj.CoreCompileInputs.cache
+C:\Users\PC602\Downloads\Lab2_2312616_PhanTrungHieu\III.6\obj\Debug\III.6.exe
+C:\Users\PC602\Downloads\Lab2_2312616_PhanTrungHieu\III.6\obj\Debug\III.6.pdb

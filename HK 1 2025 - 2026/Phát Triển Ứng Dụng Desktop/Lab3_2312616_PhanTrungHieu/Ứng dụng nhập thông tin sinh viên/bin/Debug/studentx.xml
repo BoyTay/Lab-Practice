@@ -1,0 +1,94 @@
+<?xml version="1.0"?>
+<ArrayOfStudent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Student>
+    <MSSV>2310001</MSSV>
+    <HoLot>Nguyen Van</HoLot>
+    <Ten>An</Ten>
+    <NgaySinh>2002-03-15T00:00:00</NgaySinh>
+    <Lop>CTK23</Lop>
+    <GioiTinh>Nam</GioiTinh>
+    <CMND>123456789</CMND>
+    <DienThoai>0912345678</DienThoai>
+    <DiaChi>123 Le Loi, Q1, HCM</DiaChi>
+    <MonHoc>
+      <string>Mạng máy tính</string>
+      <string>Hệ điều hành</string>
+    </MonHoc>
+  </Student>
+  <Student>
+    <MSSV>2310002</MSSV>
+    <HoLot>Tran Thi</HoLot>
+    <Ten>Bich</Ten>
+    <NgaySinh>2002-08-20T00:00:00</NgaySinh>
+    <Lop>CTK23</Lop>
+    <GioiTinh>Nữ</GioiTinh>
+    <CMND>234567891</CMND>
+    <DienThoai>0987654321</DienThoai>
+    <DiaChi>45 Tran Hung Dao, Q5, HCM</DiaChi>
+    <MonHoc>
+      <string>Lập trình CSDL</string>
+      <string>Đồ án cơ sở</string>
+    </MonHoc>
+  </Student>
+  <Student>
+    <MSSV>2310003</MSSV>
+    <HoLot>Le Hoang</HoLot>
+    <Ten>Cuong</Ten>
+    <NgaySinh>2001-12-05T00:00:00</NgaySinh>
+    <Lop>CTK23</Lop>
+    <GioiTinh>Nam</GioiTinh>
+    <CMND>345678912</CMND>
+    <DienThoai>0909123456</DienThoai>
+    <DiaChi>67 Nguyen Trai, Q3, HCM</DiaChi>
+    <MonHoc>
+      <string>Lập trình mạng</string>
+      <string>An toàn và bảo mật hệ thống</string>
+    </MonHoc>
+  </Student>
+  <Student>
+    <MSSV>2310004</MSSV>
+    <HoLot>Pham Ngoc</HoLot>
+    <Ten>Dung</Ten>
+    <NgaySinh>2003-07-11T00:00:00</NgaySinh>
+    <Lop>CTK23</Lop>
+    <GioiTinh>Nữ</GioiTinh>
+    <CMND>456789123</CMND>
+    <DienThoai>0938123456</DienThoai>
+    <DiaChi>89 Cach Mang Thang 8, Q10, HCM</DiaChi>
+    <MonHoc>
+      <string>Phương pháp NCKH</string>
+      <string>Lập trình trên thiết bị di động</string>
+    </MonHoc>
+  </Student>
+  <Student>
+    <MSSV>2310005</MSSV>
+    <HoLot>Vo Quang</HoLot>
+    <Ten>Em</Ten>
+    <NgaySinh>2002-01-25T00:00:00</NgaySinh>
+    <Lop>CTK23</Lop>
+    <GioiTinh>Nam</GioiTinh>
+    <CMND>567891234</CMND>
+    <DienThoai>0977123456</DienThoai>
+    <DiaChi>12 Vo Van Tan, Q3, HCM</DiaChi>
+    <MonHoc>
+      <string>Mạng máy tính</string>
+      <string>Lập trình mạng</string>
+      <string>An toàn và bảo mật hệ thống</string>
+    </MonHoc>
+  </Student>
+  <Student>
+    <MSSV>2310006</MSSV>
+    <HoLot>Phan Trung</HoLot>
+    <Ten>Hieu</Ten>
+    <NgaySinh>2005-03-18T00:00:00</NgaySinh>
+    <Lop>CTK23</Lop>
+    <GioiTinh>Nam</GioiTinh>
+    <CMND>421842184</CMND>
+    <DienThoai>0947636963</DienThoai>
+    <DiaChi>5 Khe Sanh</DiaChi>
+    <MonHoc>
+      <string>Mạng máy tính</string>
+      <string>Lập trình mạng</string>
+    </MonHoc>
+  </Student>
+</ArrayOfStudent>

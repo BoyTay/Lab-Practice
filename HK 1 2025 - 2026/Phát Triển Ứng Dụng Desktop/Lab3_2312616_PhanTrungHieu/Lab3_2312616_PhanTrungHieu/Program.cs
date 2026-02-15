@@ -1,0 +1,15 @@
+{
+  "languageLocale": "pl",
+  "syncProductNameLong": "Microsoft OneDrive",
+  "errorPageTryAgainButton": "Spróbuj ponownie",
+  "importScreenshotSyncBtn": "Wybierz foldery",
+  "optinBtnCancel": "Anulowanie",
+  "reportABugTitle": "Masz problemy? Wyślij opinię do firmy Microsoft",
+  "reportABugCategoryText": "Czego to dotyczy? (Wymagane)",
+  "reportABugDescriptionText": "Poinformuj nas o problemie. Czy zawsze tak było? (Wymagane)",
+  "reportABugPlaceholderText": "Nie umieszczaj informacji poufnych ani danych osobowych w komentarzu.",
+  "reportABugPrivacyStatementBusiness": "Gdy naciśniesz pozycję „prześlij”, Twoja opinia zostanie użyta do ulepszania produktów i usług firmy Microsoft. Twój administrator IT będzie mógł zbierać te dane.",
+  "reportABugPrivacyLink": "Oświadczenie o ochronie prywatności",
+  "reportABugObfuscationKeyToggleOn": "Tak",
+  "reportABugObfuscationKeyToggleOff": "Nie",
+  "reportABugObfuscationKeyTitle": "Zezwolić firmie Microsoft na używan

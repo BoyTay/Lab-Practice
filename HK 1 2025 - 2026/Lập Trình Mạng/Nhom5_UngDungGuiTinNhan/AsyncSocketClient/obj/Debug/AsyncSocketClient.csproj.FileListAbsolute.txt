@@ -1,0 +1,61 @@
+C:\Users\Admin\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\Nhom5_UngDungGuiTinNhan\AsyncSocketClient\bin\Debug\AsyncSocketClient.exe.config
+C:\Users\Admin\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\Nhom5_UngDungGuiTinNhan\AsyncSocketClient\bin\Debug\AsyncSocketClient.exe
+C:\Users\Admin\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\Nhom5_UngDungGuiTinNhan\AsyncSocketClient\bin\Debug\AsyncSocketClient.pdb
+C:\Users\Admin\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\Nhom5_UngDungGuiTinNhan\AsyncSocketClient\bin\Debug\AsyncSocketTCP.dll
+C:\Users\Admin\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\Nhom5_UngDungGuiTinNhan\AsyncSocketClient\bin\Debug\AsyncSocketTCP.pdb
+C:\Users\Admin\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\Nhom5_UngDungGuiTinNhan\AsyncSocketClient\obj\Debug\AsyncSocketClient.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\Nhom5_UngDungGuiTinNhan\AsyncSocketClient\obj\Debug\AsyncSocketClient.frmClient.resources
+C:\Users\Admin\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\Nhom5_UngDungGuiTinNhan\AsyncSocketClient\obj\Debug\AsyncSocketClient.Properties.Resources.resources
+C:\Users\Admin\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\Nhom5_UngDungGuiTinNhan\AsyncSocketClient\obj\Debug\AsyncSocketClient.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\Nhom5_UngDungGuiTinNhan\AsyncSocketClient\obj\Debug\AsyncSocketClient.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\Nhom5_UngDungGuiTinNhan\AsyncSocketClient\obj\Debug\AsyncSoc.75C4534A.Up2Date
+C:\Users\Admin\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\Nhom5_UngDungGuiTinNhan\AsyncSocketClient\obj\Debug\AsyncSocketClient.exe
+C:\Users\Admin\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\Nhom5_UngDungGuiTinNhan\AsyncSocketClient\obj\Debug\AsyncSocketClient.pdb
+C:\Users\Admin\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\Nhom5_UngDungGuiTinNhan\AsyncSocketClient\obj\Debug\AsyncSocketClient.exe.config
+C:\Users\Admin\Documents\Data\Nhom5_UngDungGuiTinNhan\AsyncSocketClient\bin\Debug\AsyncSocketClient.exe.config
+C:\Users\Admin\Documents\Data\Nhom5_UngDungGuiTinNhan\AsyncSocketClient\bin\Debug\AsyncSocketClient.exe
+C:\Users\Admin\Documents\Data\Nhom5_UngDungGuiTinNhan\AsyncSocketClient\bin\Debug\AsyncSocketClient.pdb
+C:\Users\Admin\Documents\Data\Nhom5_UngDungGuiTinNhan\AsyncSocketClient\bin\Debug\AsyncSocketTCP.dll
+C:\Users\Admin\Documents\Data\Nhom5_UngDungGuiTinNhan\AsyncSocketClient\bin\Debug\Guna.UI2.dll
+C:\Users\Admin\Documents\Data\Nhom5_UngDungGuiTinNhan\AsyncSocketClient\bin\Debug\AsyncSocketTCP.pdb
+C:\Users\Admin\Documents\Data\Nhom5_UngDungGuiTinNhan\AsyncSocketClient\obj\Debug\AsyncSocketClient.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Data\Nhom5_UngDungGuiTinNhan\AsyncSocketClient\obj\Debug\AsyncSocketClient.exe.config
+C:\Users\Admin\Documents\Data\Nhom5_UngDungGuiTinNhan\AsyncSocketClient\obj\Debug\AsyncSocketClient.frmClient.resources
+C:\Users\Admin\Documents\Data\Nhom5_UngDungGuiTinNhan\AsyncSocketClient\obj\Debug\AsyncSocketClient.Properties.Resources.resources
+C:\Users\Admin\Documents\Data\Nhom5_UngDungGuiTinNhan\AsyncSocketClient\obj\Debug\AsyncSocketClient.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\Data\Nhom5_UngDungGuiTinNhan\AsyncSocketClient\obj\Debug\AsyncSocketClient.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Data\Nhom5_UngDungGuiTinNhan\AsyncSocketClient\obj\Debug\AsyncSoc.75C4534A.Up2Date
+C:\Users\Admin\Documents\Data\Nhom5_UngDungGuiTinNhan\AsyncSocketClient\obj\Debug\AsyncSocketClient.exe
+C:\Users\Admin\Documents\Data\Nhom5_UngDungGuiTinNhan\AsyncSocketClient\obj\Debug\AsyncSocketClient.pdb
+C:\Users\Admin\Documents\Data\Bài lab\Nhom5_UngDungGuiTinNhan\AsyncSocketClient\bin\Debug\AsyncSocketClient.exe.config
+C:\Users\Admin\Documents\Data\Bài lab\Nhom5_UngDungGuiTinNhan\AsyncSocketClient\bin\Debug\AsyncSocketClient.exe
+C:\Users\Admin\Documents\Data\Bài lab\Nhom5_UngDungGuiTinNhan\AsyncSocketClient\bin\Debug\AsyncSocketClient.pdb
+C:\Users\Admin\Documents\Data\Bài lab\Nhom5_UngDungGuiTinNhan\AsyncSocketClient\bin\Debug\AsyncSocketTCP.dll
+C:\Users\Admin\Documents\Data\Bài lab\Nhom5_UngDungGuiTinNhan\AsyncSocketClient\bin\Debug\Guna.UI2.dll
+C:\Users\Admin\Documents\Data\Bài lab\Nhom5_UngDungGuiTinNhan\AsyncSocketClient\bin\Debug\AsyncSocketTCP.pdb
+C:\Users\Admin\Documents\Data\Bài lab\Nhom5_UngDungGuiTinNhan\AsyncSocketClient\obj\Debug\AsyncSocketClient.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Data\Bài lab\Nhom5_UngDungGuiTinNhan\AsyncSocketClient\obj\Debug\AsyncSocketClient.frmClient.resources
+C:\Users\Admin\Documents\Data\Bài lab\Nhom5_UngDungGuiTinNhan\AsyncSocketClient\obj\Debug\AsyncSocketClient.Properties.Resources.resources
+C:\Users\Admin\Documents\Data\Bài lab\Nhom5_UngDungGuiTinNhan\AsyncSocketClient\obj\Debug\AsyncSocketClient.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\Data\Bài lab\Nhom5_UngDungGuiTinNhan\AsyncSocketClient\obj\Debug\AsyncSocketClient.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Data\Bài lab\Nhom5_UngDungGuiTinNhan\AsyncSocketClient\obj\Debug\AsyncSoc.75C4534A.Up2Date
+C:\Users\Admin\Documents\Data\Bài lab\Nhom5_UngDungGuiTinNhan\AsyncSocketClient\obj\Debug\AsyncSocketClient.exe
+C:\Users\Admin\Documents\Data\Bài lab\Nhom5_UngDungGuiTinNhan\AsyncSocketClient\obj\Debug\AsyncSocketClient.pdb
+C:\Users\Admin\Documents\Data\Bài lab\Nhom5_UngDungGuiTinNhan\AsyncSocketClient\obj\Debug\AsyncSocketClient.frmAuth.resources
+C:\Users\Admin\Documents\Data\Bài lab\Nhom5_UngDungGuiTinNhan\AsyncSocketClient\obj\Debug\AsyncSocketClient.exe.config
+C:\Users\Admin\Documents\Nhom5_UngDungGuiTinNhan\AsyncSocketClient\bin\Debug\AsyncSocketClient.exe.config
+C:\Users\Admin\Documents\Nhom5_UngDungGuiTinNhan\AsyncSocketClient\bin\Debug\AsyncSocketClient.exe
+C:\Users\Admin\Documents\Nhom5_UngDungGuiTinNhan\AsyncSocketClient\bin\Debug\AsyncSocketClient.pdb
+C:\Users\Admin\Documents\Nhom5_UngDungGuiTinNhan\AsyncSocketClient\bin\Debug\AsyncSocketTCP.dll
+C:\Users\Admin\Documents\Nhom5_UngDungGuiTinNhan\AsyncSocketClient\bin\Debug\Guna.UI2.dll
+C:\Users\Admin\Documents\Nhom5_UngDungGuiTinNhan\AsyncSocketClient\bin\Debug\AsyncSocketTCP.pdb
+C:\Users\Admin\Documents\Nhom5_UngDungGuiTinNhan\AsyncSocketClient\obj\Debug\AsyncSocketClient.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Nhom5_UngDungGuiTinNhan\AsyncSocketClient\obj\Debug\AsyncSocketClient.exe.config
+C:\Users\Admin\Documents\Nhom5_UngDungGuiTinNhan\AsyncSocketClient\obj\Debug\AsyncSocketClient.frmClient.resources
+C:\Users\Admin\Documents\Nhom5_UngDungGuiTinNhan\AsyncSocketClient\obj\Debug\AsyncSocketClient.frmAuth.resources
+C:\Users\Admin\Documents\Nhom5_UngDungGuiTinNhan\AsyncSocketClient\obj\Debug\AsyncSocketClient.Properties.Resources.resources
+C:\Users\Admin\Documents\Nhom5_UngDungGuiTinNhan\AsyncSocketClient\obj\Debug\AsyncSocketClient.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\Nhom5_UngDungGuiTinNhan\AsyncSocketClient\obj\Debug\AsyncSocketClient.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Nhom5_UngDungGuiTinNhan\AsyncSocketClient\obj\Debug\AsyncSoc.75C4534A.Up2Date
+C:\Users\Admin\Documents\Nhom5_UngDungGuiTinNhan\AsyncSocketClient\obj\Debug\AsyncSocketClient.exe
+C:\Users\Admin\Documents\Nhom5_UngDungGuiTinNhan\AsyncSocketClient\obj\Debug\AsyncSocketClient.pdb

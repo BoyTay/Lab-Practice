@@ -1,0 +1,6 @@
+C:\Users\Admin\Documents\Data\Bài lab\Lập Trình Mạng\Example\Share\obj\Debug\Share.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Data\Bài lab\Lập Trình Mạng\Example\Share\obj\Debug\Share.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Data\Bài lab\Lập Trình Mạng\Example\Share\bin\Debug\Share.dll
+C:\Users\Admin\Documents\Data\Bài lab\Lập Trình Mạng\Example\Share\bin\Debug\Share.pdb
+C:\Users\Admin\Documents\Data\Bài lab\Lập Trình Mạng\Example\Share\obj\Debug\Share.dll
+C:\Users\Admin\Documents\Data\Bài lab\Lập Trình Mạng\Example\Share\obj\Debug\Share.pdb

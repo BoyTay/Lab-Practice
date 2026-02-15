@@ -1,0 +1,16 @@
+D:\Bài lab\Nguyên Lí Hướng Đối Tượngg\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\data.txt
+D:\Bài lab\Nguyên Lí Hướng Đối Tượngg\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\QuanLyNhanVien.exe.config
+D:\Bài lab\Nguyên Lí Hướng Đối Tượngg\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\QuanLyNhanVien.exe
+D:\Bài lab\Nguyên Lí Hướng Đối Tượngg\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\QuanLyNhanVien.pdb
+D:\Bài lab\Nguyên Lí Hướng Đối Tượngg\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.csproj.AssemblyReference.cache
+D:\Bài lab\Nguyên Lí Hướng Đối Tượngg\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.csproj.CoreCompileInputs.cache
+D:\Bài lab\Nguyên Lí Hướng Đối Tượngg\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.exe
+D:\Bài lab\Nguyên Lí Hướng Đối Tượngg\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.pdb
+D:\Bài lab\Nguyên Lí Hướng Đối Tượng\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\data.txt
+D:\Bài lab\Nguyên Lí Hướng Đối Tượng\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\QuanLyNhanVien.exe.config
+D:\Bài lab\Nguyên Lí Hướng Đối Tượng\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\QuanLyNhanVien.exe
+D:\Bài lab\Nguyên Lí Hướng Đối Tượng\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\QuanLyNhanVien.pdb
+D:\Bài lab\Nguyên Lí Hướng Đối Tượng\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.csproj.AssemblyReference.cache
+D:\Bài lab\Nguyên Lí Hướng Đối Tượng\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.csproj.CoreCompileInputs.cache
+D:\Bài lab\Nguyên Lí Hướng Đối Tượng\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.exe
+D:\Bài lab\Nguyên Lí Hướng Đối Tượng\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.pdb

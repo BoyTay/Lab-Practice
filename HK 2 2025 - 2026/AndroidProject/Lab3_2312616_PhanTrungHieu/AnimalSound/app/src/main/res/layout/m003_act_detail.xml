@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="10dp">
+
+    <!-- Hàng trên: tên + tim -->
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/tv_animal_name"
+            android:background="@drawable/bg_radius"
+            android:paddingHorizontal="20dp"
+            android:text="@string/txt_name"
+            android:textColor="@color/white"
+            android:textSize="34sp"/>
+
+        <View
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"/>
+
+        <ImageView
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:src="@drawable/ic_heart_empty"
+            android:tint="#FF0000"/>
+    </TableRow>
+
+    <!-- Mô tả (scroll) -->
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="300dp">
+
+        <TextView
+            android:id="@+id/tv_animal_desc"
+            android:text="@string/txt_desc"
+            android:textSize="18sp"
+            android:padding="10dp"/>
+    </ScrollView>
+
+    <!-- Ảnh con vật -->
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:scaleType="centerCrop"
+        android:src="@drawable/bg_rabbit"/>
+</LinearLayout>

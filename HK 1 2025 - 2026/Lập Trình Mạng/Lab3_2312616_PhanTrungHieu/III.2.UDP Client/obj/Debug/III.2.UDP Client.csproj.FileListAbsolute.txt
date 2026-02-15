@@ -1,0 +1,7 @@
+Z:\Lab3_2312616_PhanTrungHieu\III.2.UDP Client\bin\Debug\III.2.UDP Client.exe.config
+Z:\Lab3_2312616_PhanTrungHieu\III.2.UDP Client\bin\Debug\III.2.UDP Client.exe
+Z:\Lab3_2312616_PhanTrungHieu\III.2.UDP Client\bin\Debug\III.2.UDP Client.pdb
+Z:\Lab3_2312616_PhanTrungHieu\III.2.UDP Client\obj\Debug\III.2.UDP Client.csproj.AssemblyReference.cache
+Z:\Lab3_2312616_PhanTrungHieu\III.2.UDP Client\obj\Debug\III.2.UDP Client.csproj.CoreCompileInputs.cache
+Z:\Lab3_2312616_PhanTrungHieu\III.2.UDP Client\obj\Debug\III.2.UDP Client.exe
+Z:\Lab3_2312616_PhanTrungHieu\III.2.UDP Client\obj\Debug\III.2.UDP Client.pdb

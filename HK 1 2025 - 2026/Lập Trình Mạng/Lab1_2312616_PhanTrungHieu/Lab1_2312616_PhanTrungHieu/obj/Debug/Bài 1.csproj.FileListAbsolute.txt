@@ -1,0 +1,22 @@
+Z:\Lab1_2312616_PhanTrungHieu\Lab1_2312616_PhanTrungHieu\bin\Debug\Lab1_2312616_PhanTrungHieu.exe.config
+Z:\Lab1_2312616_PhanTrungHieu\Lab1_2312616_PhanTrungHieu\bin\Debug\Lab1_2312616_PhanTrungHieu.exe
+Z:\Lab1_2312616_PhanTrungHieu\Lab1_2312616_PhanTrungHieu\bin\Debug\Lab1_2312616_PhanTrungHieu.pdb
+Z:\Lab1_2312616_PhanTrungHieu\Lab1_2312616_PhanTrungHieu\obj\Debug\Bài 1.csprojAssemblyReference.cache
+Z:\Lab1_2312616_PhanTrungHieu\Lab1_2312616_PhanTrungHieu\obj\Debug\Bài 1.csproj.CoreCompileInputs.cache
+Z:\Lab1_2312616_PhanTrungHieu\Lab1_2312616_PhanTrungHieu\obj\Debug\Lab1_2312616_PhanTrungHieu.exe
+Z:\Lab1_2312616_PhanTrungHieu\Lab1_2312616_PhanTrungHieu\obj\Debug\Lab1_2312616_PhanTrungHieu.pdb
+C:\Users\CICT\Downloads\Lab1_2312616_PhanTrungHieu\Lab1_2312616_PhanTrungHieu\bin\Debug\Lab1_2312616_PhanTrungHieu.exe.config
+C:\Users\CICT\Downloads\Lab1_2312616_PhanTrungHieu\Lab1_2312616_PhanTrungHieu\bin\Debug\Lab1_2312616_PhanTrungHieu.exe
+C:\Users\CICT\Downloads\Lab1_2312616_PhanTrungHieu\Lab1_2312616_PhanTrungHieu\bin\Debug\Lab1_2312616_PhanTrungHieu.pdb
+C:\Users\CICT\Downloads\Lab1_2312616_PhanTrungHieu\Lab1_2312616_PhanTrungHieu\obj\Debug\Bài 1.csprojAssemblyReference.cache
+C:\Users\CICT\Downloads\Lab1_2312616_PhanTrungHieu\Lab1_2312616_PhanTrungHieu\obj\Debug\Bài 1.csproj.CoreCompileInputs.cache
+C:\Users\CICT\Downloads\Lab1_2312616_PhanTrungHieu\Lab1_2312616_PhanTrungHieu\obj\Debug\Lab1_2312616_PhanTrungHieu.exe
+C:\Users\CICT\Downloads\Lab1_2312616_PhanTrungHieu\Lab1_2312616_PhanTrungHieu\obj\Debug\Lab1_2312616_PhanTrungHieu.pdb
+C:\Users\Admin\Documents\Data\Bài lab\Lập Trình Mạng\Lab1_2312616_PhanTrungHieu\Lab1_2312616_PhanTrungHieu\bin\Debug\Lab1_2312616_PhanTrungHieu.exe.config
+C:\Users\Admin\Documents\Data\Bài lab\Lập Trình Mạng\Lab1_2312616_PhanTrungHieu\Lab1_2312616_PhanTrungHieu\bin\Debug\Lab1_2312616_PhanTrungHieu.exe
+C:\Users\Admin\Documents\Data\Bài lab\Lập Trình Mạng\Lab1_2312616_PhanTrungHieu\Lab1_2312616_PhanTrungHieu\bin\Debug\Lab1_2312616_PhanTrungHieu.pdb
+C:\Users\Admin\Documents\Data\Bài lab\Lập Trình Mạng\Lab1_2312616_PhanTrungHieu\Lab1_2312616_PhanTrungHieu\obj\Debug\Bài 1.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Data\Bài lab\Lập Trình Mạng\Lab1_2312616_PhanTrungHieu\Lab1_2312616_PhanTrungHieu\obj\Debug\Lab1_2312616_PhanTrungHieu.exe.config
+C:\Users\Admin\Documents\Data\Bài lab\Lập Trình Mạng\Lab1_2312616_PhanTrungHieu\Lab1_2312616_PhanTrungHieu\obj\Debug\Bài 1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Data\Bài lab\Lập Trình Mạng\Lab1_2312616_PhanTrungHieu\Lab1_2312616_PhanTrungHieu\obj\Debug\Lab1_2312616_PhanTrungHieu.exe
+C:\Users\Admin\Documents\Data\Bài lab\Lập Trình Mạng\Lab1_2312616_PhanTrungHieu\Lab1_2312616_PhanTrungHieu\obj\Debug\Lab1_2312616_PhanTrungHieu.pdb

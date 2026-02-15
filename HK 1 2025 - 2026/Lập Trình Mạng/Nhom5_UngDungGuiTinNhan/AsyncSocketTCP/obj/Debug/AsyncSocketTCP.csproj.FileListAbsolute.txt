@@ -1,0 +1,30 @@
+C:\Users\Admin\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\Nhom5_UngDungGuiTinNhan\AsyncSocketTCP\bin\Debug\AsyncSocketTCP.dll
+C:\Users\Admin\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\Nhom5_UngDungGuiTinNhan\AsyncSocketTCP\bin\Debug\AsyncSocketTCP.pdb
+C:\Users\Admin\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\Nhom5_UngDungGuiTinNhan\AsyncSocketTCP\obj\Debug\AsyncSocketTCP.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\Nhom5_UngDungGuiTinNhan\AsyncSocketTCP\obj\Debug\AsyncSocketTCP.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\Nhom5_UngDungGuiTinNhan\AsyncSocketTCP\obj\Debug\AsyncSocketTCP.dll
+C:\Users\Admin\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\Nhom5_UngDungGuiTinNhan\AsyncSocketTCP\obj\Debug\AsyncSocketTCP.pdb
+C:\Users\Admin\Documents\Data\Nhom5_UngDungGuiTinNhan\AsyncSocketTCP\bin\Debug\AsyncSocketTCP.dll
+C:\Users\Admin\Documents\Data\Nhom5_UngDungGuiTinNhan\AsyncSocketTCP\bin\Debug\AsyncSocketTCP.pdb
+C:\Users\Admin\Documents\Data\Nhom5_UngDungGuiTinNhan\AsyncSocketTCP\bin\Debug\Guna.UI2.dll
+C:\Users\Admin\Documents\Data\Nhom5_UngDungGuiTinNhan\AsyncSocketTCP\obj\Debug\AsyncSocketTCP.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Data\Nhom5_UngDungGuiTinNhan\AsyncSocketTCP\obj\Debug\AsyncSocketTCP.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Data\Nhom5_UngDungGuiTinNhan\AsyncSocketTCP\obj\Debug\AsyncSoc.EB2F6FF1.Up2Date
+C:\Users\Admin\Documents\Data\Nhom5_UngDungGuiTinNhan\AsyncSocketTCP\obj\Debug\AsyncSocketTCP.dll
+C:\Users\Admin\Documents\Data\Nhom5_UngDungGuiTinNhan\AsyncSocketTCP\obj\Debug\AsyncSocketTCP.pdb
+C:\Users\Admin\Documents\Data\Bài lab\Nhom5_UngDungGuiTinNhan\AsyncSocketTCP\bin\Debug\AsyncSocketTCP.dll
+C:\Users\Admin\Documents\Data\Bài lab\Nhom5_UngDungGuiTinNhan\AsyncSocketTCP\bin\Debug\AsyncSocketTCP.pdb
+C:\Users\Admin\Documents\Data\Bài lab\Nhom5_UngDungGuiTinNhan\AsyncSocketTCP\bin\Debug\Guna.UI2.dll
+C:\Users\Admin\Documents\Data\Bài lab\Nhom5_UngDungGuiTinNhan\AsyncSocketTCP\obj\Debug\AsyncSocketTCP.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Data\Bài lab\Nhom5_UngDungGuiTinNhan\AsyncSocketTCP\obj\Debug\AsyncSocketTCP.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Data\Bài lab\Nhom5_UngDungGuiTinNhan\AsyncSocketTCP\obj\Debug\AsyncSoc.EB2F6FF1.Up2Date
+C:\Users\Admin\Documents\Data\Bài lab\Nhom5_UngDungGuiTinNhan\AsyncSocketTCP\obj\Debug\AsyncSocketTCP.dll
+C:\Users\Admin\Documents\Data\Bài lab\Nhom5_UngDungGuiTinNhan\AsyncSocketTCP\obj\Debug\AsyncSocketTCP.pdb
+C:\Users\Admin\Documents\Nhom5_UngDungGuiTinNhan\AsyncSocketTCP\bin\Debug\AsyncSocketTCP.dll
+C:\Users\Admin\Documents\Nhom5_UngDungGuiTinNhan\AsyncSocketTCP\bin\Debug\AsyncSocketTCP.pdb
+C:\Users\Admin\Documents\Nhom5_UngDungGuiTinNhan\AsyncSocketTCP\bin\Debug\Guna.UI2.dll
+C:\Users\Admin\Documents\Nhom5_UngDungGuiTinNhan\AsyncSocketTCP\obj\Debug\AsyncSocketTCP.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Nhom5_UngDungGuiTinNhan\AsyncSocketTCP\obj\Debug\AsyncSocketTCP.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Nhom5_UngDungGuiTinNhan\AsyncSocketTCP\obj\Debug\AsyncSoc.EB2F6FF1.Up2Date
+C:\Users\Admin\Documents\Nhom5_UngDungGuiTinNhan\AsyncSocketTCP\obj\Debug\AsyncSocketTCP.dll
+C:\Users\Admin\Documents\Nhom5_UngDungGuiTinNhan\AsyncSocketTCP\obj\Debug\AsyncSocketTCP.pdb

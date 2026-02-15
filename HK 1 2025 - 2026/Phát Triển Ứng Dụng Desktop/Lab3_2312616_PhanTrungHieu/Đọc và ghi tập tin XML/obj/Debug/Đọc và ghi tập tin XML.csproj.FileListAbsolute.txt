@@ -1,0 +1,7 @@
+C:\Users\Admin\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\Lab3_2312616_PhanTrungHieu\Đọc và ghi tập tin XML\bin\Debug\Đọc và ghi tập tin XML.exe.config
+C:\Users\Admin\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\Lab3_2312616_PhanTrungHieu\Đọc và ghi tập tin XML\bin\Debug\Đọc và ghi tập tin XML.exe
+C:\Users\Admin\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\Lab3_2312616_PhanTrungHieu\Đọc và ghi tập tin XML\bin\Debug\Đọc và ghi tập tin XML.pdb
+C:\Users\Admin\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\Lab3_2312616_PhanTrungHieu\Đọc và ghi tập tin XML\obj\Debug\Đọc và ghi tập tin XML.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\Lab3_2312616_PhanTrungHieu\Đọc và ghi tập tin XML\obj\Debug\Đọc và ghi tập tin XML.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\Lab3_2312616_PhanTrungHieu\Đọc và ghi tập tin XML\obj\Debug\Đọc và ghi tập tin XML.exe
+C:\Users\Admin\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\Lab3_2312616_PhanTrungHieu\Đọc và ghi tập tin XML\obj\Debug\Đọc và ghi tập tin XML.pdb

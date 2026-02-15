@@ -1,0 +1,29 @@
+Z:\Lab5_Advanced_Command\Lab5_Advanced_Command\bin\Debug\Lab5_Advanced_Command.exe.config
+Z:\Lab5_Advanced_Command\Lab5_Advanced_Command\bin\Debug\Lab5_Advanced_Command.exe
+Z:\Lab5_Advanced_Command\Lab5_Advanced_Command\bin\Debug\Lab5_Advanced_Command.pdb
+Z:\Lab5_Advanced_Command\Lab5_Advanced_Command\obj\Debug\Lab5_Advanced_Command.csproj.AssemblyReference.cache
+Z:\Lab5_Advanced_Command\Lab5_Advanced_Command\obj\Debug\Lab5_Advanced_Command.FoodForm.resources
+Z:\Lab5_Advanced_Command\Lab5_Advanced_Command\obj\Debug\Lab5_Advanced_Command.Properties.Resources.resources
+Z:\Lab5_Advanced_Command\Lab5_Advanced_Command\obj\Debug\Lab5_Advanced_Command.csproj.GenerateResource.cache
+Z:\Lab5_Advanced_Command\Lab5_Advanced_Command\obj\Debug\Lab5_Advanced_Command.csproj.CoreCompileInputs.cache
+Z:\Lab5_Advanced_Command\Lab5_Advanced_Command\obj\Debug\Lab5_Advanced_Command.exe
+Z:\Lab5_Advanced_Command\Lab5_Advanced_Command\obj\Debug\Lab5_Advanced_Command.pdb
+C:\Users\Admin\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\Lab5_Advanced_Command\Lab5_Advanced_Command\bin\Debug\Lab5_Advanced_Command.exe.config
+C:\Users\Admin\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\Lab5_Advanced_Command\Lab5_Advanced_Command\bin\Debug\Lab5_Advanced_Command.exe
+C:\Users\Admin\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\Lab5_Advanced_Command\Lab5_Advanced_Command\bin\Debug\Lab5_Advanced_Command.pdb
+C:\Users\Admin\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\Lab5_Advanced_Command\Lab5_Advanced_Command\obj\Debug\Lab5_Advanced_Command.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\Lab5_Advanced_Command\Lab5_Advanced_Command\obj\Debug\Lab5_Advanced_Command.exe.config
+C:\Users\Admin\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\Lab5_Advanced_Command\Lab5_Advanced_Command\obj\Debug\Lab5_Advanced_Command.FoodForm.resources
+C:\Users\Admin\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\Lab5_Advanced_Command\Lab5_Advanced_Command\obj\Debug\Lab5_Advanced_Command.Properties.Resources.resources
+C:\Users\Admin\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\Lab5_Advanced_Command\Lab5_Advanced_Command\obj\Debug\Lab5_Advanced_Command.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\Lab5_Advanced_Command\Lab5_Advanced_Command\obj\Debug\Lab5_Advanced_Command.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\Lab5_Advanced_Command\Lab5_Advanced_Command\obj\Debug\Lab5_Advanced_Command.exe
+C:\Users\Admin\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\Lab5_Advanced_Command\Lab5_Advanced_Command\obj\Debug\Lab5_Advanced_Command.pdb
+C:\Users\Admin\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\Lab5_Advanced_Command\Lab5_Advanced_Command\obj\Debug\Lab5_Advanced_Command.FoodInfoForm.resources
+C:\Users\Admin\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\Lab5_Advanced_Command\Lab5_Advanced_Command\obj\Debug\Lab5_Advanced_Command.AddCategoryForm.resources
+C:\Users\Admin\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\Lab5_Advanced_Command\Lab5_Advanced_Command\obj\Debug\Lab5_Advanced_Command.OrdersForm.resources
+C:\Users\Admin\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\Lab5_Advanced_Command\Lab5_Advanced_Command\obj\Debug\Lab5_Advanced_Command.OrderDetailsForm.resources
+C:\Users\Admin\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\Lab5_Advanced_Command\Lab5_Advanced_Command\obj\Debug\Lab5_Advanced_Command.AccountForm.resources
+C:\Users\Admin\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\Lab5_Advanced_Command\Lab5_Advanced_Command\obj\Debug\Lab5_Advanced_Command.AddRoleForm.resources
+C:\Users\Admin\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\Lab5_Advanced_Command\Lab5_Advanced_Command\obj\Debug\Lab5_Advanced_Command.RoleListForm.resources
+C:\Users\Admin\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\Lab5_Advanced_Command\Lab5_Advanced_Command\obj\Debug\Lab5_Advanced_Command.AccountLogForm.resources

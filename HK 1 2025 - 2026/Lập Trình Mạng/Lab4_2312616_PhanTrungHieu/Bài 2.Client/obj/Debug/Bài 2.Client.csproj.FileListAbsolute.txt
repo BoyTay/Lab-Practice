@@ -1,0 +1,7 @@
+Z:\Lab4_2312616_PhanTrungHieu\Bài 2.Client\bin\Debug\Bài 2.Client.exe.config
+Z:\Lab4_2312616_PhanTrungHieu\Bài 2.Client\bin\Debug\Bài 2.Client.exe
+Z:\Lab4_2312616_PhanTrungHieu\Bài 2.Client\bin\Debug\Bài 2.Client.pdb
+Z:\Lab4_2312616_PhanTrungHieu\Bài 2.Client\obj\Debug\Bài 2.Client.csproj.AssemblyReference.cache
+Z:\Lab4_2312616_PhanTrungHieu\Bài 2.Client\obj\Debug\Bài 2.Client.csproj.CoreCompileInputs.cache
+Z:\Lab4_2312616_PhanTrungHieu\Bài 2.Client\obj\Debug\Bài 2.Client.exe
+Z:\Lab4_2312616_PhanTrungHieu\Bài 2.Client\obj\Debug\Bài 2.Client.pdb

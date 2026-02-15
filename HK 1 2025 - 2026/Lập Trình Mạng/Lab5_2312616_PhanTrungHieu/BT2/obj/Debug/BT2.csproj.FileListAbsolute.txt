@@ -1,0 +1,14 @@
+Z:\Lab5_2312616_PhanTrungHieu\BT2\bin\Debug\BT2.exe.config
+Z:\Lab5_2312616_PhanTrungHieu\BT2\bin\Debug\BT2.exe
+Z:\Lab5_2312616_PhanTrungHieu\BT2\bin\Debug\BT2.pdb
+Z:\Lab5_2312616_PhanTrungHieu\BT2\obj\Debug\BT2.csprojAssemblyReference.cache
+Z:\Lab5_2312616_PhanTrungHieu\BT2\obj\Debug\BT2.csproj.CoreCompileInputs.cache
+Z:\Lab5_2312616_PhanTrungHieu\BT2\obj\Debug\BT2.exe
+Z:\Lab5_2312616_PhanTrungHieu\BT2\obj\Debug\BT2.pdb
+C:\Users\PC602\Downloads\Lab5_2312616_PhanTrungHieu\BT2\bin\Debug\BT2.exe.config
+C:\Users\PC602\Downloads\Lab5_2312616_PhanTrungHieu\BT2\bin\Debug\BT2.exe
+C:\Users\PC602\Downloads\Lab5_2312616_PhanTrungHieu\BT2\bin\Debug\BT2.pdb
+C:\Users\PC602\Downloads\Lab5_2312616_PhanTrungHieu\BT2\obj\Debug\BT2.csproj.AssemblyReference.cache
+C:\Users\PC602\Downloads\Lab5_2312616_PhanTrungHieu\BT2\obj\Debug\BT2.csproj.CoreCompileInputs.cache
+C:\Users\PC602\Downloads\Lab5_2312616_PhanTrungHieu\BT2\obj\Debug\BT2.exe
+C:\Users\PC602\Downloads\Lab5_2312616_PhanTrungHieu\BT2\obj\Debug\BT2.pdb

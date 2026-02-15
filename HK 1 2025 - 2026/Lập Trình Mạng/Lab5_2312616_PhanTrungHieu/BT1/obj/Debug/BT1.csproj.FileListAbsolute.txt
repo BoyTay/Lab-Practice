@@ -1,0 +1,7 @@
+Z:\Lab5_2312616_PhanTrungHieu\BT1\bin\Debug\BT1.exe.config
+Z:\Lab5_2312616_PhanTrungHieu\BT1\bin\Debug\BT1.exe
+Z:\Lab5_2312616_PhanTrungHieu\BT1\bin\Debug\BT1.pdb
+Z:\Lab5_2312616_PhanTrungHieu\BT1\obj\Debug\BT1.csprojAssemblyReference.cache
+Z:\Lab5_2312616_PhanTrungHieu\BT1\obj\Debug\BT1.csproj.CoreCompileInputs.cache
+Z:\Lab5_2312616_PhanTrungHieu\BT1\obj\Debug\BT1.exe
+Z:\Lab5_2312616_PhanTrungHieu\BT1\obj\Debug\BT1.pdb

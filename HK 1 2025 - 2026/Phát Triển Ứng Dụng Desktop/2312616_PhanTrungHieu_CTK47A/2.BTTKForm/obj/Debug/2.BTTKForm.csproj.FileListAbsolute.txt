@@ -1,0 +1,14 @@
+C:\Users\Admin\OneDrive\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\2312616_PhanTrungHieu_CTK47A\2.BTTKForm\bin\Debug\2.BTTKForm.exe.config
+C:\Users\Admin\OneDrive\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\2312616_PhanTrungHieu_CTK47A\2.BTTKForm\bin\Debug\2.BTTKForm.exe
+C:\Users\Admin\OneDrive\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\2312616_PhanTrungHieu_CTK47A\2.BTTKForm\bin\Debug\2.BTTKForm.pdb
+C:\Users\Admin\OneDrive\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\2312616_PhanTrungHieu_CTK47A\2.BTTKForm\obj\Debug\2.BTTKForm.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\2312616_PhanTrungHieu_CTK47A\2.BTTKForm\obj\Debug\_2.BTTKForm.frmBai1.resources
+C:\Users\Admin\OneDrive\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\2312616_PhanTrungHieu_CTK47A\2.BTTKForm\obj\Debug\_2.BTTKForm.frmBai2.resources
+C:\Users\Admin\OneDrive\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\2312616_PhanTrungHieu_CTK47A\2.BTTKForm\obj\Debug\_2.BTTKForm.frmBai3.resources
+C:\Users\Admin\OneDrive\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\2312616_PhanTrungHieu_CTK47A\2.BTTKForm\obj\Debug\_2.BTTKForm.frmBai4.resources
+C:\Users\Admin\OneDrive\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\2312616_PhanTrungHieu_CTK47A\2.BTTKForm\obj\Debug\_2.BTTKForm.frmChinh.resources
+C:\Users\Admin\OneDrive\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\2312616_PhanTrungHieu_CTK47A\2.BTTKForm\obj\Debug\_2.BTTKForm.Properties.Resources.resources
+C:\Users\Admin\OneDrive\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\2312616_PhanTrungHieu_CTK47A\2.BTTKForm\obj\Debug\2.BTTKForm.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\2312616_PhanTrungHieu_CTK47A\2.BTTKForm\obj\Debug\2.BTTKForm.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\2312616_PhanTrungHieu_CTK47A\2.BTTKForm\obj\Debug\2.BTTKForm.exe
+C:\Users\Admin\OneDrive\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\2312616_PhanTrungHieu_CTK47A\2.BTTKForm\obj\Debug\2.BTTKForm.pdb

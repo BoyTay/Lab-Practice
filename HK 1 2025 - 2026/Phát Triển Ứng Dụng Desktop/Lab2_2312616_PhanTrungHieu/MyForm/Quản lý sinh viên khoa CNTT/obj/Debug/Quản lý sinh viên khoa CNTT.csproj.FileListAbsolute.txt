@@ -1,0 +1,11 @@
+C:\Users\Admin\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\MyForm\Quản lý sinh viên khoa CNTT\bin\Debug\Quản lý sinh viên khoa CNTT.exe.config
+C:\Users\Admin\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\MyForm\Quản lý sinh viên khoa CNTT\bin\Debug\Quản lý sinh viên khoa CNTT.exe
+C:\Users\Admin\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\MyForm\Quản lý sinh viên khoa CNTT\bin\Debug\Quản lý sinh viên khoa CNTT.pdb
+C:\Users\Admin\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\MyForm\Quản lý sinh viên khoa CNTT\obj\Debug\Quản lý sinh viên khoa CNTT.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\MyForm\Quản lý sinh viên khoa CNTT\obj\Debug\Quản_lý_sinh_viên_khoa_CNTT.frmChinh.resources
+C:\Users\Admin\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\MyForm\Quản lý sinh viên khoa CNTT\obj\Debug\Quản_lý_sinh_viên_khoa_CNTT.Properties.Resources.resources
+C:\Users\Admin\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\MyForm\Quản lý sinh viên khoa CNTT\obj\Debug\Quản lý sinh viên khoa CNTT.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\MyForm\Quản lý sinh viên khoa CNTT\obj\Debug\Quản lý sinh viên khoa CNTT.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\MyForm\Quản lý sinh viên khoa CNTT\obj\Debug\Quản lý sinh viên khoa CNTT.exe
+C:\Users\Admin\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\MyForm\Quản lý sinh viên khoa CNTT\obj\Debug\Quản lý sinh viên khoa CNTT.pdb
+C:\Users\Admin\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\MyForm\Quản lý sinh viên khoa CNTT\obj\Debug\Quản lý sinh viên khoa CNTT.exe.config

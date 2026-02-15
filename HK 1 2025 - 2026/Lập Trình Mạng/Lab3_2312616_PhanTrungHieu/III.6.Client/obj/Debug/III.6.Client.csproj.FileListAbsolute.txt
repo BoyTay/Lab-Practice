@@ -1,0 +1,6 @@
+Z:\Lab3_2312616_PhanTrungHieu\III.6.Client\bin\Debug\III.6.Client.exe.config
+Z:\Lab3_2312616_PhanTrungHieu\III.6.Client\bin\Debug\III.6.Client.exe
+Z:\Lab3_2312616_PhanTrungHieu\III.6.Client\bin\Debug\III.6.Client.pdb
+Z:\Lab3_2312616_PhanTrungHieu\III.6.Client\obj\Debug\III.6.Client.csproj.CoreCompileInputs.cache
+Z:\Lab3_2312616_PhanTrungHieu\III.6.Client\obj\Debug\III.6.Client.exe
+Z:\Lab3_2312616_PhanTrungHieu\III.6.Client\obj\Debug\III.6.Client.pdb

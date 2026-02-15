@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfBook xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Book>
+    <ISBN>9831123212</ISBN>
+    <Title>Visual C# Programming</Title>
+    <Author>Mahesh Chand</Author>
+    <Price>44.95</Price>
+    <YearPublished>2002</YearPublished>
+  </Book>
+  <Book>
+    <ISBN>9831123213</ISBN>
+    <Title>Mastering ASP.NET</Title>
+    <Author>Kogent Learning Solutions Inc.</Author>
+    <Price>49.95</Price>
+    <YearPublished>2001</YearPublished>
+  </Book>
+  <Book>
+    <ISBN>9831123214</ISBN>
+    <Title>Beginning Visual C# 2012</Title>
+    <Author>Benjamin Perkins</Author>
+    <Price>39.99</Price>
+    <YearPublished>2012</YearPublished>
+  </Book>
+</ArrayOfBook>

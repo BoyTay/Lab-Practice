@@ -1,0 +1,15 @@
+Z:\Lab4_2312616_PhanTrungHieu\Bài 3.UDP Client\bin\Debug\Bài 3.UDP Client.exe.config
+Z:\Lab4_2312616_PhanTrungHieu\Bài 3.UDP Client\bin\Debug\Bài 3.UDP Client.exe
+Z:\Lab4_2312616_PhanTrungHieu\Bài 3.UDP Client\bin\Debug\Bài 3.UDP Client.pdb
+Z:\Lab4_2312616_PhanTrungHieu\Bài 3.UDP Client\obj\Debug\Bài 3.UDP Client.csproj.AssemblyReference.cache
+Z:\Lab4_2312616_PhanTrungHieu\Bài 3.UDP Client\obj\Debug\Bài 3.UDP Client.csproj.CoreCompileInputs.cache
+Z:\Lab4_2312616_PhanTrungHieu\Bài 3.UDP Client\obj\Debug\Bài 3.UDP Client.exe
+Z:\Lab4_2312616_PhanTrungHieu\Bài 3.UDP Client\obj\Debug\Bài 3.UDP Client.pdb
+C:\Users\Admin\Documents\Data\Bài lab\Lập Trình Mạng\Lab4_2312616_PhanTrungHieu\Bài 3.UDP Client\bin\Debug\Bài 3.UDP Client.exe.config
+C:\Users\Admin\Documents\Data\Bài lab\Lập Trình Mạng\Lab4_2312616_PhanTrungHieu\Bài 3.UDP Client\bin\Debug\Bài 3.UDP Client.exe
+C:\Users\Admin\Documents\Data\Bài lab\Lập Trình Mạng\Lab4_2312616_PhanTrungHieu\Bài 3.UDP Client\bin\Debug\Bài 3.UDP Client.pdb
+C:\Users\Admin\Documents\Data\Bài lab\Lập Trình Mạng\Lab4_2312616_PhanTrungHieu\Bài 3.UDP Client\obj\Debug\Bài 3.UDP Client.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Data\Bài lab\Lập Trình Mạng\Lab4_2312616_PhanTrungHieu\Bài 3.UDP Client\obj\Debug\Bài 3.UDP Client.exe.config
+C:\Users\Admin\Documents\Data\Bài lab\Lập Trình Mạng\Lab4_2312616_PhanTrungHieu\Bài 3.UDP Client\obj\Debug\Bài 3.UDP Client.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Data\Bài lab\Lập Trình Mạng\Lab4_2312616_PhanTrungHieu\Bài 3.UDP Client\obj\Debug\Bài 3.UDP Client.exe
+C:\Users\Admin\Documents\Data\Bài lab\Lập Trình Mạng\Lab4_2312616_PhanTrungHieu\Bài 3.UDP Client\obj\Debug\Bài 3.UDP Client.pdb

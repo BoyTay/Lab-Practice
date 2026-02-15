@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+
+<html>
+
+
+
+<head>
+
+    <meta charset="utf-8">
+
+    <title>Đăng ký nhận tin</title>
+
+</head>
+
+
+
+<body>
+
+    <h1>Đăng ký nhận tin</h1>
+
+    <form action="/dang-ky.php" method="post">
+
+        <fieldset>
+
+            <legend>Gửi thông tin của bạn cho chúng tôi</legend>
+
+            <p>Đăng ký để nhận được các thông tin định kì về giá nông sản</p>
+
+            <ol>
+
+                <li><label for="ho-ten">Tên:</label>
+
+                    <input type="text" name="ten" id="ho-ten">
+                </li>
+
+                <li><label for="email">Email:</label>
+
+                    <input type="text" name="email" id="email">
+                </li>
+
+            </ol>
+
+            <input type="submit" value="Đăng ký">
+
+        </fieldset>
+
+    </form>
+
+    <form action="" method="get">
+
+        <label for="form-sach">
+
+            Các cuốn sách bạn đã đọc khi là sinh viên:
+
+            <input type="text" list="sach" id="form-sach">
+
+            <datalist id="sach">
+
+                <option value="Khuyến học"></option>
+
+                <option value="Đúng việc"></option>
+
+                <option value="Khởi hành"></option>
+
+                <option value="Trên đường băng"></option>
+
+                <option value="Nhà giả kim"></option>
+
+            </datalist>
+
+        </label>
+
+    </form>
+    <fieldset>
+
+        <legend>Bạn bao nhiêu tuổi?</legend>
+
+        <ol>
+
+            <li><label><input type="radio" name="tuoi" value="duoi24" checked> dưới
+
+                    24</label></li>
+
+            <li><label><input type="radio" name="tuoi" value="25-34"> 25 tới 34</label></li>
+
+            <li><label><input type="radio" name="tuoi" value="35-44"> 35 tới 44</label></li>
+
+            <li><label><input type="radio" name="tuoi" value="tren45"> 45+</label></li>
+
+        </ol>
+
+    </fieldset>
+
+    <fieldset>
+
+        <legend>Thói quen đọc của bạn là gì?</legend>
+
+        <ol>
+
+            <li><label><input type="checkbox" name="nguon" value="sach-giay" checked> sách giấy</label></li>
+
+            <li><label><input type="checkbox" name="nguon" value="ebook" checked> sách điện tử</label></li>
+
+            <li><label><input type="checkbox" name="nguon" value="mang-xa-hoi"> mạng xã hội</label></li>
+
+            <li><label><input type="checkbox" name="nguon" value="nghe-doc"> nghe người khác đọc</label></li>
+
+        </ol>
+
+    </fieldset>
+    <p>Trong các quyển sách sau, bạn thích quyển nào nhất?
+
+        <select name="thich-nhat">
+
+            <option value=“khuyen-hoc”>Khuyến học</option>
+
+            <option>Đúng việc</option>
+
+            <option>Khởi hành</option>
+
+            <option>Trên đường băng</option>
+
+            <option>Nhà giả kim</option>
+
+        </select>
+    </p>
+    <p>Trong các quyển sách sau, bạn thích quyển nào?
+
+        <select name="thich-nhat" size="4" multiple>
+
+            <option>Khuyến học</option>
+
+            <option selected>Đúng việc</option>
+
+            <option selected>Khởi hành</option>
+
+            <option>Trên đường băng</option>
+
+            <option>Nhà giả kim</option>
+
+        </select>
+    </p>
+
+    <p>Trong các quyển sách sau, bạn thích quyển nào?
+
+        <select name="thich-nhat" size="7" multiple>
+
+            <optgroup label="Sách dịch">
+
+                <option>Khuyến học</option>
+
+                <option selected>Khởi hành</option>
+
+                <option>Nhà giả kim</option>
+
+            </optgroup>
+
+            <optgroup label="Sách Việt">
+
+                <option>Trên đường băng</option>
+
+                <option selected>Đúng việc</option>
+
+            </optgroup>
+
+        </select>
+    </p>
+
+</body>
+
+</html>

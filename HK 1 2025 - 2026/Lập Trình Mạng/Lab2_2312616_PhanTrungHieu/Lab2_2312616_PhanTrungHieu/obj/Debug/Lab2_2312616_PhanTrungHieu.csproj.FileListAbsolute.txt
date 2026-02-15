@@ -1,0 +1,14 @@
+C:\Users\CICT\Downloads\Lab2_2312616_PhanTrungHieu\Lab2_2312616_PhanTrungHieu\bin\Debug\Lab2_2312616_PhanTrungHieu.exe.config
+C:\Users\CICT\Downloads\Lab2_2312616_PhanTrungHieu\Lab2_2312616_PhanTrungHieu\bin\Debug\Lab2_2312616_PhanTrungHieu.exe
+C:\Users\CICT\Downloads\Lab2_2312616_PhanTrungHieu\Lab2_2312616_PhanTrungHieu\bin\Debug\Lab2_2312616_PhanTrungHieu.pdb
+C:\Users\CICT\Downloads\Lab2_2312616_PhanTrungHieu\Lab2_2312616_PhanTrungHieu\obj\Debug\Lab2_2312616_PhanTrungHieu.csprojAssemblyReference.cache
+C:\Users\CICT\Downloads\Lab2_2312616_PhanTrungHieu\Lab2_2312616_PhanTrungHieu\obj\Debug\Lab2_2312616_PhanTrungHieu.csproj.CoreCompileInputs.cache
+C:\Users\CICT\Downloads\Lab2_2312616_PhanTrungHieu\Lab2_2312616_PhanTrungHieu\obj\Debug\Lab2_2312616_PhanTrungHieu.exe
+C:\Users\CICT\Downloads\Lab2_2312616_PhanTrungHieu\Lab2_2312616_PhanTrungHieu\obj\Debug\Lab2_2312616_PhanTrungHieu.pdb
+C:\Users\PC602\Downloads\Lab2_2312616_PhanTrungHieu\Lab2_2312616_PhanTrungHieu\bin\Debug\Lab2_2312616_PhanTrungHieu.exe.config
+C:\Users\PC602\Downloads\Lab2_2312616_PhanTrungHieu\Lab2_2312616_PhanTrungHieu\bin\Debug\Lab2_2312616_PhanTrungHieu.exe
+C:\Users\PC602\Downloads\Lab2_2312616_PhanTrungHieu\Lab2_2312616_PhanTrungHieu\bin\Debug\Lab2_2312616_PhanTrungHieu.pdb
+C:\Users\PC602\Downloads\Lab2_2312616_PhanTrungHieu\Lab2_2312616_PhanTrungHieu\obj\Debug\Lab2_2312616_PhanTrungHieu.csproj.AssemblyReference.cache
+C:\Users\PC602\Downloads\Lab2_2312616_PhanTrungHieu\Lab2_2312616_PhanTrungHieu\obj\Debug\Lab2_2312616_PhanTrungHieu.csproj.CoreCompileInputs.cache
+C:\Users\PC602\Downloads\Lab2_2312616_PhanTrungHieu\Lab2_2312616_PhanTrungHieu\obj\Debug\Lab2_2312616_PhanTrungHieu.exe
+C:\Users\PC602\Downloads\Lab2_2312616_PhanTrungHieu\Lab2_2312616_PhanTrungHieu\obj\Debug\Lab2_2312616_PhanTrungHieu.pdb

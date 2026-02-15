@@ -1,0 +1,299 @@
+<!DOCTYPE html>
+<html lang="vi">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Học HTML - Trang Web Giáo Dục Công Nghệ</title>
+</head>
+
+<body>
+    <!-- Header của trang học HTML -->
+    <header>
+        <h1>HỌC HTML CƠ BẢN</h1>
+        <p><em>Trang web giáo dục công nghệ - Học HTML từ cơ bản đến nâng cao</em></p>
+
+        <nav>
+            <ul>
+                <li><a href="#gioi-thieu">Giới thiệu</a></li>
+                <li><a href="#co-ban">HTML Cơ bản</a></li>
+                <li><a href="#phan-tu">Các phần tử</a></li>
+                <li><a href="#thuoc-tinh">Thuộc tính</a></li>
+                <li><a href="#bai-tap">Bài tập</a></li>
+                <li><a href="#tham-khao">Tham khảo</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Nội dung chính -->
+    <main>
+        <!-- Phần giới thiệu -->
+        <section id="gioi-thieu">
+            <header>
+                <h2>Giới thiệu về HTML</h2>
+                <p><small>Cập nhật lần cuối: <time datetime="2024-01-15">15/01/2024</time></small></p>
+            </header>
+
+            <article>
+                <h3>HTML là gì?</h3>
+                <p><strong>HTML</strong> (HyperText Markup Language) là ngôn ngữ đánh dấu chuẩn để tạo ra các trang web.
+                    HTML mô tả cấu trúc của một trang web bằng cách sử dụng các thẻ (tags) đánh dấu.</p>
+
+                <blockquote>
+                    <p>"HTML là nền tảng của mọi trang web. Không có HTML, không có World Wide Web như chúng ta biết
+                        ngày nay."</p>
+                    <cite>- Tim Berners-Lee, người phát minh ra HTML</cite>
+                </blockquote>
+
+                <h4>Lịch sử phát triển:</h4>
+                <ul>
+                    <li><strong>1991:</strong> HTML được tạo ra bởi Tim Berners-Lee</li>
+                    <li><strong>1995:</strong> HTML 2.0 được phát hành</li>
+                    <li><strong>1997:</strong> HTML 4.01 trở thành chuẩn</li>
+                    <li><strong>2014:</strong> HTML5 được hoàn thiện</li>
+                </ul>
+            </article>
+        </section>
+
+        <!-- Phần HTML cơ bản -->
+        <section id="co-ban">
+            <h2>HTML Cơ bản</h2>
+
+            <article>
+                <h3>Cấu trúc cơ bản của một tài liệu HTML</h3>
+                <p>Mọi tài liệu HTML đều có cấu trúc cơ bản như sau:</p>
+
+                <pre><code>&lt;!DOCTYPE html&gt;
+                &lt;html lang="vi"&gt;
+                &lt;head&gt;
+                &lt;meta charset="UTF-8"&gt;
+                &lt;title&gt;Tiêu đề trang&lt;/title&gt;
+                &lt;/head&gt;
+                &lt;body&gt;
+                &lt;h1&gt;Tiêu đề chính&lt;/h1&gt;
+                &lt;p&gt;Đây là đoạn văn đầu tiên.&lt;/p&gt;
+                &lt;/body&gt;
+                &lt;/html&gt;</code></pre>
+
+                <h4>Giải thích các thành phần:</h4>
+                <dl>
+                    <dt><code>&lt;!DOCTYPE html&gt;</code></dt>
+                    <dd>Khai báo loại tài liệu HTML5</dd>
+
+                    <dt><code>&lt;html&gt;</code></dt>
+                    <dd>Thẻ gốc của tài liệu HTML</dd>
+
+                    <dt><code>&lt;head&gt;</code></dt>
+                    <dd>Chứa thông tin meta về tài liệu</dd>
+
+                    <dt><code>&lt;body&gt;</code></dt>
+                    <dd>Chứa nội dung hiển thị của trang</dd>
+                </dl>
+            </article>
+
+            <article>
+                <h3>Các thẻ tiêu đề</h3>
+                <p>HTML cung cấp 6 cấp độ tiêu đề từ <code>&lt;h1&gt;</code> đến <code>&lt;h6&gt;</code>:</p>
+
+                <div>
+                    <h1>Tiêu đề cấp 1 (h1)</h1>
+                    <h2>Tiêu đề cấp 2 (h2)</h2>
+                    <h3>Tiêu đề cấp 3 (h3)</h3>
+                    <h4>Tiêu đề cấp 4 (h4)</h4>
+                    <h5>Tiêu đề cấp 5 (h5)</h5>
+                    <h6>Tiêu đề cấp 6 (h6)</h6>
+                </div>
+
+                <p><em>Lưu ý:</em> <mark>H1 nên được sử dụng cho tiêu đề chính của trang</mark>, và các cấp độ khác nên
+                    được sử dụng theo thứ tự logic.</p>
+            </article>
+        </section>
+
+        <!-- Phần các phần tử -->
+        <section id="phan-tu">
+            <h2>Các phần tử HTML quan trọng</h2>
+
+            <article>
+                <h3>Phần tử văn bản</h3>
+                <p>HTML cung cấp nhiều phần tử để định dạng văn bản:</p>
+
+                <ul>
+                    <li><strong>&lt;strong&gt;</strong> - Văn bản quan trọng: <strong>Văn bản này quan trọng</strong>
+                    </li>
+                    <li><strong>&lt;em&gt;</strong> - Văn bản nhấn mạnh: <em>Văn bản này được nhấn mạnh</em></li>
+                    <li><strong>&lt;mark&gt;</strong> - Văn bản được đánh dấu: <mark>Văn bản này được đánh dấu</mark>
+                    </li>
+                    <li><strong>&lt;small&gt;</strong> - Văn bản nhỏ: <small>Văn bản này nhỏ hơn</small></li>
+                    <li><strong>&lt;del&gt;</strong> - Văn bản bị xóa: <del>Văn bản này bị xóa</del></li>
+                    <li><strong>&lt;ins&gt;</strong> - Văn bản được thêm vào: <ins>Văn bản này được thêm vào</ins></li>
+                </ul>
+            </article>
+
+            <article>
+                <h3>Danh sách</h3>
+                <p>HTML hỗ trợ hai loại danh sách chính:</p>
+
+                <h4>Danh sách không có thứ tự (ul):</h4>
+                <ul>
+                    <li>Mục đầu tiên</li>
+                    <li>Mục thứ hai</li>
+                    <li>Mục thứ ba</li>
+                </ul>
+
+                <h4>Danh sách có thứ tự (ol):</h4>
+                <ol>
+                    <li>Bước đầu tiên</li>
+                    <li>Bước thứ hai</li>
+                    <li>Bước thứ ba</li>
+                </ol>
+
+                <h4>Danh sách định nghĩa (dl):</h4>
+                <dl>
+                    <dt>HTML</dt>
+                    <dd>HyperText Markup Language</dd>
+                    <dt>CSS</dt>
+                    <dd>Cascading Style Sheets</dd>
+                    <dt>JS</dt>
+                    <dd>JavaScript</dd>
+                </dl>
+            </article>
+
+            <article>
+                <h3>Liên kết và hình ảnh</h3>
+                <p>Các phần tử quan trọng để tạo liên kết và hiển thị hình ảnh:</p>
+
+                <ul>
+                    <li><strong>&lt;a&gt;</strong> - Tạo liên kết: <a href="#gioi-thieu">Liên kết đến phần giới
+                            thiệu</a></li>
+                    <li><strong>&lt;img&gt;</strong> - Hiển thị hình ảnh</li>
+                    <li><strong>&lt;figure&gt;</strong> và <strong>&lt;figcaption&gt;</strong> - Nhóm hình ảnh với chú
+                        thích</li>
+                </ul>
+
+                <figure>
+                    <figcaption>Ví dụ về hình ảnh với chú thích</figcaption>
+                    <p><em>(Hình ảnh sẽ được hiển thị ở đây)</em></p>
+                </figure>
+            </article>
+        </section>
+
+        <!-- Phần thuộc tính -->
+        <section id="thuoc-tinh">
+            <h2>Thuộc tính HTML</h2>
+
+            <article>
+                <h3>Thuộc tính cơ bản</h3>
+                <p>Thuộc tính cung cấp thông tin bổ sung về các phần tử HTML:</p>
+
+                <h4>Thuộc tính id và class:</h4>
+                <pre><code>&lt;div id="container" class="main-content"&gt;
+    &lt;p class="highlight"&gt;Nội dung với class highlight&lt;/p&gt;
+&lt;/div&gt;</code></pre>
+
+                <h4>Thuộc tính title:</h4>
+                <p title="Đây là tooltip">Di chuột vào văn bản này để xem tooltip</p>
+
+                <h4>Thuộc tính lang:</h4>
+                <p lang="en">This text is in English.</p>
+                <p lang="vi">Văn bản này bằng tiếng Việt.</p>
+            </article>
+        </section>
+
+        <!-- Phần bài tập -->
+        <section id="bai-tap">
+            <h2>Bài tập thực hành</h2>
+
+            <article>
+                <h3>Bài tập 1: Tạo trang web đầu tiên</h3>
+                <p><strong>Yêu cầu:</strong> Tạo một trang HTML đơn giản với:</p>
+                <ol>
+                    <li>Tiêu đề trang</li>
+                    <li>Một tiêu đề chính (h1)</li>
+                    <li>Hai đoạn văn</li>
+                    <li>Một danh sách có thứ tự</li>
+                    <li>Một liên kết</li>
+                </ol>
+
+                <details>
+                    <summary>Xem gợi ý giải</summary>
+                    <pre><code>&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+&lt;head&gt;
+    &lt;title&gt;Trang web đầu tiên&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+    &lt;h1&gt;Chào mừng đến với HTML!&lt;/h1&gt;
+    &lt;p&gt;Đây là đoạn văn đầu tiên.&lt;/p&gt;
+    &lt;p&gt;Đây là đoạn văn thứ hai.&lt;/p&gt;
+    &lt;ol&gt;
+        &lt;li&gt;Học HTML&lt;/li&gt;
+        &lt;li&gt;Học CSS&lt;/li&gt;
+        &lt;li&gt;Học JavaScript&lt;/li&gt;
+    &lt;/ol&gt;
+    &lt;a href="https://www.w3schools.com"&gt;Tham khảo W3Schools&lt;/a&gt;
+&lt;/body&gt;
+&lt;/html&gt;</code></pre>
+                </details>
+            </article>
+
+            <article>
+                <h3>Bài tập 2: Sử dụng các thẻ định dạng văn bản</h3>
+                <p>Tạo một đoạn văn sử dụng ít nhất 5 thẻ định dạng văn bản khác nhau.</p>
+            </article>
+        </section>
+
+        <!-- Sidebar với tài nguyên học tập -->
+        <aside>
+            <h3>Tài nguyên học tập</h3>
+
+            <h4>Liên kết hữu ích:</h4>
+            <ul>
+                <li><a href="https://www.w3schools.com/html/" target="_blank">W3Schools HTML Tutorial</a></li>
+                <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">MDN HTML
+                        Documentation</a></li>
+                <li><a href="https://html.spec.whatwg.org/" target="_blank">HTML Living Standard</a></li>
+            </ul>
+
+            <h4>Thẻ HTML thường dùng:</h4>
+            <dl>
+                <dt>&lt;div&gt;</dt>
+                <dd>Container chung</dd>
+                <dt>&lt;span&gt;</dt>
+                <dd>Container inline</dd>
+                <dt>&lt;br&gt;</dt>
+                <dd>Xuống dòng</dd>
+                <dt>&lt;hr&gt;</dt>
+                <dd>Đường kẻ ngang</dd>
+            </dl>
+
+            <h4>Mẹo học HTML:</h4>
+            <blockquote>
+                <p>"Thực hành thường xuyên là chìa khóa để thành thạo HTML. Hãy tạo nhiều trang web nhỏ để luyện tập."
+                </p>
+            </blockquote>
+        </aside>
+    </main>
+
+    <!-- Footer -->
+    <footer>
+        <p><small>&copy; 2024 Trang Web Giáo Dục Công Nghệ. Dành cho mục đích học tập.</small></p>
+
+        <address>
+            <p><strong>Liên hệ:</strong></p>
+            <p>Email: <a href="mailto:info@hochtml.vn">info@hochtml.vn</a></p>
+            <p>Website: <a href="https://www.hochtml.vn">www.hochtml.vn</a></p>
+        </address>
+
+        <nav>
+            <ul>
+                <li><a href="#gioi-thieu">Giới thiệu</a></li>
+                <li><a href="#co-ban">HTML Cơ bản</a></li>
+                <li><a href="#phan-tu">Các phần tử</a></li>
+                <li><a href="#thuoc-tinh">Thuộc tính</a></li>
+                <li><a href="#bai-tap">Bài tập</a></li>
+            </ul>
+        </nav>
+    </footer>
+</body>
+
+</html>

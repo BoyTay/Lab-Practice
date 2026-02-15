@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <title>Breadcrumbs</title>
+  <style>
+    .breadcrumbs {
+      background: #fff;
+      border: 1px solid #eee;
+      padding: 10px;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    }
+    .breadcrumbs ul {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+      display: flex;
+      align-items: center;
+    }
+    .breadcrumbs ul li {
+      margin-right: 8px;
+    }
+    .breadcrumbs ul li a {
+      text-decoration: none;
+      color: blue;
+      font-size: 16px;
+    }
+    .breadcrumbs ul li::after {
+      content: "/";
+      margin-left: 8px;
+      color: #666;
+    }
+    .breadcrumbs ul li:last-child::after {
+      content: ""; /* bỏ dấu "/" ở mục cuối */
+    }
+  </style>
+</head>
+<body>
+  <div class="breadcrumbs">
+    <ul>
+      <li><a href="#">Điện Tử</a></li>
+      <li><a href="#">Máy tính</a></li>
+      <li><a href="#">Laptop</a></li>
+      <li><a href="#">Dell</a></li>
+    </ul>
+  </div>
+</body>
+</html>

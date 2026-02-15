@@ -1,0 +1,16 @@
+D:\Bài lab\Nguyên Lí Hướng Đối Tượngg\De2_2312616_PhanTrungHieu\De2_2312616_PhanTrungHieu\obj\Debug\De2_2312616_PhanTrungHieu.csproj.AssemblyReference.cache
+D:\Bài lab\Nguyên Lí Hướng Đối Tượngg\De2_2312616_PhanTrungHieu\De2_2312616_PhanTrungHieu\obj\Debug\De2_2312616_PhanTrungHieu.csproj.CoreCompileInputs.cache
+D:\Bài lab\Nguyên Lí Hướng Đối Tượngg\De2_2312616_PhanTrungHieu\De2_2312616_PhanTrungHieu\bin\Debug\De2_2312616_PhanTrungHieu.exe.config
+D:\Bài lab\Nguyên Lí Hướng Đối Tượngg\De2_2312616_PhanTrungHieu\De2_2312616_PhanTrungHieu\bin\Debug\De2_2312616_PhanTrungHieu.exe
+D:\Bài lab\Nguyên Lí Hướng Đối Tượngg\De2_2312616_PhanTrungHieu\De2_2312616_PhanTrungHieu\bin\Debug\De2_2312616_PhanTrungHieu.pdb
+D:\Bài lab\Nguyên Lí Hướng Đối Tượngg\De2_2312616_PhanTrungHieu\De2_2312616_PhanTrungHieu\obj\Debug\De2_2312616_PhanTrungHieu.exe
+D:\Bài lab\Nguyên Lí Hướng Đối Tượngg\De2_2312616_PhanTrungHieu\De2_2312616_PhanTrungHieu\obj\Debug\De2_2312616_PhanTrungHieu.pdb
+D:\Bài lab\Nguyên Lí Hướng Đối Tượngg\De2_2312616_PhanTrungHieu\De2_2312616_PhanTrungHieu\bin\Debug\data.txt
+D:\Bài lab\Nguyên Lí Hướng Đối Tượng\De2_2312616_PhanTrungHieu\De2_2312616_PhanTrungHieu\bin\Debug\data.txt
+D:\Bài lab\Nguyên Lí Hướng Đối Tượng\De2_2312616_PhanTrungHieu\De2_2312616_PhanTrungHieu\bin\Debug\De2_2312616_PhanTrungHieu.exe.config
+D:\Bài lab\Nguyên Lí Hướng Đối Tượng\De2_2312616_PhanTrungHieu\De2_2312616_PhanTrungHieu\bin\Debug\De2_2312616_PhanTrungHieu.exe
+D:\Bài lab\Nguyên Lí Hướng Đối Tượng\De2_2312616_PhanTrungHieu\De2_2312616_PhanTrungHieu\bin\Debug\De2_2312616_PhanTrungHieu.pdb
+D:\Bài lab\Nguyên Lí Hướng Đối Tượng\De2_2312616_PhanTrungHieu\De2_2312616_PhanTrungHieu\obj\Debug\De2_2312616_PhanTrungHieu.csproj.AssemblyReference.cache
+D:\Bài lab\Nguyên Lí Hướng Đối Tượng\De2_2312616_PhanTrungHieu\De2_2312616_PhanTrungHieu\obj\Debug\De2_2312616_PhanTrungHieu.csproj.CoreCompileInputs.cache
+D:\Bài lab\Nguyên Lí Hướng Đối Tượng\De2_2312616_PhanTrungHieu\De2_2312616_PhanTrungHieu\obj\Debug\De2_2312616_PhanTrungHieu.exe
+D:\Bài lab\Nguyên Lí Hướng Đối Tượng\De2_2312616_PhanTrungHieu\De2_2312616_PhanTrungHieu\obj\Debug\De2_2312616_PhanTrungHieu.pdb

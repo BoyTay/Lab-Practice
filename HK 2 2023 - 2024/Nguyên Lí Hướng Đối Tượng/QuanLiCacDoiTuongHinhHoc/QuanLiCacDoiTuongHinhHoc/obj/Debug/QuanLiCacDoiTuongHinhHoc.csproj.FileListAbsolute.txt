@@ -1,0 +1,14 @@
+D:\Bài lab\Nguyên Lí Hướng Đối Tượngg\QuanLiCacDoiTuongHinhHoc\QuanLiCacDoiTuongHinhHoc\bin\Debug\QuanLiCacDoiTuongHinhHoc.exe.config
+D:\Bài lab\Nguyên Lí Hướng Đối Tượngg\QuanLiCacDoiTuongHinhHoc\QuanLiCacDoiTuongHinhHoc\bin\Debug\QuanLiCacDoiTuongHinhHoc.exe
+D:\Bài lab\Nguyên Lí Hướng Đối Tượngg\QuanLiCacDoiTuongHinhHoc\QuanLiCacDoiTuongHinhHoc\bin\Debug\QuanLiCacDoiTuongHinhHoc.pdb
+D:\Bài lab\Nguyên Lí Hướng Đối Tượngg\QuanLiCacDoiTuongHinhHoc\QuanLiCacDoiTuongHinhHoc\obj\Debug\QuanLiCacDoiTuongHinhHoc.csproj.AssemblyReference.cache
+D:\Bài lab\Nguyên Lí Hướng Đối Tượngg\QuanLiCacDoiTuongHinhHoc\QuanLiCacDoiTuongHinhHoc\obj\Debug\QuanLiCacDoiTuongHinhHoc.csproj.CoreCompileInputs.cache
+D:\Bài lab\Nguyên Lí Hướng Đối Tượngg\QuanLiCacDoiTuongHinhHoc\QuanLiCacDoiTuongHinhHoc\obj\Debug\QuanLiCacDoiTuongHinhHoc.exe
+D:\Bài lab\Nguyên Lí Hướng Đối Tượngg\QuanLiCacDoiTuongHinhHoc\QuanLiCacDoiTuongHinhHoc\obj\Debug\QuanLiCacDoiTuongHinhHoc.pdb
+C:\Users\CICT\Downloads\QuanLiCacDoiTuongHinhHoc\QuanLiCacDoiTuongHinhHoc\bin\Debug\QuanLiCacDoiTuongHinhHoc.exe.config
+C:\Users\CICT\Downloads\QuanLiCacDoiTuongHinhHoc\QuanLiCacDoiTuongHinhHoc\bin\Debug\QuanLiCacDoiTuongHinhHoc.exe
+C:\Users\CICT\Downloads\QuanLiCacDoiTuongHinhHoc\QuanLiCacDoiTuongHinhHoc\bin\Debug\QuanLiCacDoiTuongHinhHoc.pdb
+C:\Users\CICT\Downloads\QuanLiCacDoiTuongHinhHoc\QuanLiCacDoiTuongHinhHoc\obj\Debug\QuanLiCacDoiTuongHinhHoc.csprojAssemblyReference.cache
+C:\Users\CICT\Downloads\QuanLiCacDoiTuongHinhHoc\QuanLiCacDoiTuongHinhHoc\obj\Debug\QuanLiCacDoiTuongHinhHoc.csproj.CoreCompileInputs.cache
+C:\Users\CICT\Downloads\QuanLiCacDoiTuongHinhHoc\QuanLiCacDoiTuongHinhHoc\obj\Debug\QuanLiCacDoiTuongHinhHoc.exe
+C:\Users\CICT\Downloads\QuanLiCacDoiTuongHinhHoc\QuanLiCacDoiTuongHinhHoc\obj\Debug\QuanLiCacDoiTuongHinhHoc.pdb

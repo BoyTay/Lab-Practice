@@ -1,0 +1,5 @@
+﻿2000001|Nguyễn Văn A|Nam|15/09/2001|CTK44|0912.345.678|vana@gmail.com|5 Khe Sanh|C:\Images\sv1.jpg
+2000002|Trần Thị B|Nữ|20/10/2002|CTK44|098-765-4321|tranb@gmail.com|456 Trần Phú|C:\Images\sv2.jpg
+2000003|Lê Văn C|Nam|01/01/2003|CTK45|090-111-2222|levanc@gmail.com|789 Nguyễn Huệ|C:\Images\sv3.jpg
+2000004|Phạm Thị D|Nữ|12/12/2001|CTK46|093-333-4444|phamd@gmail.com|321 Hai Bà Trưng|C:\Images\sv4.jpg
+2000005|Hoàng Văn E|Nam|05/05/2002|CTK43|094-555-6666|hoange@gmail.com|654 Lý Thường Kiệt|C:\Images\sv5.jpg

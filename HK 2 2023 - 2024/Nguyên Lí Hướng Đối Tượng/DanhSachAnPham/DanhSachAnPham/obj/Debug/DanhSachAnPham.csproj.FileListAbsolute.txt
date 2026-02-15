@@ -1,0 +1,8 @@
+D:\Bài lab\Nguyên Lí Hướng Đối Tượngg\DanhSachAnPham\DanhSachAnPham\bin\Debug\DanhSachAnPham.exe.config
+D:\Bài lab\Nguyên Lí Hướng Đối Tượngg\DanhSachAnPham\DanhSachAnPham\bin\Debug\DanhSachAnPham.exe
+D:\Bài lab\Nguyên Lí Hướng Đối Tượngg\DanhSachAnPham\DanhSachAnPham\bin\Debug\DanhSachAnPham.pdb
+D:\Bài lab\Nguyên Lí Hướng Đối Tượngg\DanhSachAnPham\DanhSachAnPham\obj\Debug\DanhSachAnPham.csproj.AssemblyReference.cache
+D:\Bài lab\Nguyên Lí Hướng Đối Tượngg\DanhSachAnPham\DanhSachAnPham\obj\Debug\DanhSachAnPham.csproj.CoreCompileInputs.cache
+D:\Bài lab\Nguyên Lí Hướng Đối Tượngg\DanhSachAnPham\DanhSachAnPham\obj\Debug\DanhSachAnPham.exe
+D:\Bài lab\Nguyên Lí Hướng Đối Tượngg\DanhSachAnPham\DanhSachAnPham\obj\Debug\DanhSachAnPham.pdb
+D:\Bài lab\Nguyên Lí Hướng Đối Tượngg\DanhSachAnPham\DanhSachAnPham\bin\Debug\dsanpham.txt

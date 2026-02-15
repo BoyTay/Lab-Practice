@@ -1,0 +1,12 @@
+ID = 1
+Ho = Phan
+Ten = Hieu
+So nam lam viec = 12
+Luong = 21
+-------------------------
+ID = 1
+Ho = 213
+Ten = 3123
+So nam lam viec = 312
+Luong = 3123
+-------------------------

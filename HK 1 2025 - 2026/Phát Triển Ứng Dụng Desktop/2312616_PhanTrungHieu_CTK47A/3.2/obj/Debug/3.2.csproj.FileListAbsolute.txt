@@ -1,0 +1,13 @@
+C:\Users\Admin\OneDrive\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\2312616_PhanTrungHieu_CTK47A\3.2\bin\Debug\3.2.exe.config
+C:\Users\Admin\OneDrive\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\2312616_PhanTrungHieu_CTK47A\3.2\bin\Debug\3.2.exe
+C:\Users\Admin\OneDrive\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\2312616_PhanTrungHieu_CTK47A\3.2\bin\Debug\3.2.pdb
+C:\Users\Admin\OneDrive\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\2312616_PhanTrungHieu_CTK47A\3.2\obj\Debug\3.2.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\2312616_PhanTrungHieu_CTK47A\3.2\obj\Debug\_3._2.frmBai1.resources
+C:\Users\Admin\OneDrive\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\2312616_PhanTrungHieu_CTK47A\3.2\obj\Debug\_3._2.frmBai2.resources
+C:\Users\Admin\OneDrive\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\2312616_PhanTrungHieu_CTK47A\3.2\obj\Debug\_3._2.frmBai3.resources
+C:\Users\Admin\OneDrive\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\2312616_PhanTrungHieu_CTK47A\3.2\obj\Debug\_3._2.frmChinh.resources
+C:\Users\Admin\OneDrive\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\2312616_PhanTrungHieu_CTK47A\3.2\obj\Debug\_3._2.Properties.Resources.resources
+C:\Users\Admin\OneDrive\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\2312616_PhanTrungHieu_CTK47A\3.2\obj\Debug\3.2.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\2312616_PhanTrungHieu_CTK47A\3.2\obj\Debug\3.2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\2312616_PhanTrungHieu_CTK47A\3.2\obj\Debug\3.2.exe
+C:\Users\Admin\OneDrive\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\2312616_PhanTrungHieu_CTK47A\3.2\obj\Debug\3.2.pdb

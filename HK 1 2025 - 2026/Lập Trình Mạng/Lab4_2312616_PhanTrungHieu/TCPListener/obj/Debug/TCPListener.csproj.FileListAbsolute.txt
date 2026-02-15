@@ -1,0 +1,15 @@
+Z:\Lab4_2312616_PhanTrungHieu\TCPListener\bin\Debug\TCPListener.exe.config
+Z:\Lab4_2312616_PhanTrungHieu\TCPListener\bin\Debug\TCPListener.exe
+Z:\Lab4_2312616_PhanTrungHieu\TCPListener\bin\Debug\TCPListener.pdb
+Z:\Lab4_2312616_PhanTrungHieu\TCPListener\obj\Debug\TCPListener.csproj.AssemblyReference.cache
+Z:\Lab4_2312616_PhanTrungHieu\TCPListener\obj\Debug\TCPListener.csproj.CoreCompileInputs.cache
+Z:\Lab4_2312616_PhanTrungHieu\TCPListener\obj\Debug\TCPListener.exe
+Z:\Lab4_2312616_PhanTrungHieu\TCPListener\obj\Debug\TCPListener.pdb
+C:\Users\Admin\Documents\Data\Bài lab\Lập Trình Mạng\Lab4_2312616_PhanTrungHieu\TCPListener\bin\Debug\TCPListener.exe.config
+C:\Users\Admin\Documents\Data\Bài lab\Lập Trình Mạng\Lab4_2312616_PhanTrungHieu\TCPListener\bin\Debug\TCPListener.exe
+C:\Users\Admin\Documents\Data\Bài lab\Lập Trình Mạng\Lab4_2312616_PhanTrungHieu\TCPListener\bin\Debug\TCPListener.pdb
+C:\Users\Admin\Documents\Data\Bài lab\Lập Trình Mạng\Lab4_2312616_PhanTrungHieu\TCPListener\obj\Debug\TCPListener.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Data\Bài lab\Lập Trình Mạng\Lab4_2312616_PhanTrungHieu\TCPListener\obj\Debug\TCPListener.exe.config
+C:\Users\Admin\Documents\Data\Bài lab\Lập Trình Mạng\Lab4_2312616_PhanTrungHieu\TCPListener\obj\Debug\TCPListener.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Data\Bài lab\Lập Trình Mạng\Lab4_2312616_PhanTrungHieu\TCPListener\obj\Debug\TCPListener.exe
+C:\Users\Admin\Documents\Data\Bài lab\Lập Trình Mạng\Lab4_2312616_PhanTrungHieu\TCPListener\obj\Debug\TCPListener.pdb

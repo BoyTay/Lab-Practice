@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\Data\\B\u00E0i lab\\L\u1EADp Tr\u00ECnh M\u1EA1ng\\Lab1_2312616_PhanTrungHieu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B103DA0-E030-4CE5-969F-595D886CA371}|B\u00E0i 3\\B\u00E0i 3.csproj|c:\\users\\admin\\documents\\data\\b\u00E0i lab\\l\u1EADp tr\u00ECnh m\u1EA1ng\\lab1_2312616_phantrunghieu\\b\u00E0i 3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B103DA0-E030-4CE5-969F-595D886CA371}|B\u00E0i 3\\B\u00E0i 3.csproj|solutionrelative:b\u00E0i 3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B103DA0-E030-4CE5-969F-595D886CA371}|B\u00E0i 3\\B\u00E0i 3.csproj|c:\\users\\admin\\documents\\data\\b\u00E0i lab\\l\u1EADp tr\u00ECnh m\u1EA1ng\\lab1_2312616_phantrunghieu\\b\u00E0i 3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1B103DA0-E030-4CE5-969F-595D886CA371}|B\u00E0i 3\\B\u00E0i 3.csproj|solutionrelative:b\u00E0i 3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B103DA0-E030-4CE5-969F-595D886CA371}|B\u00E0i 3\\B\u00E0i 3.csproj|c:\\users\\admin\\documents\\data\\b\u00E0i lab\\l\u1EADp tr\u00ECnh m\u1EA1ng\\lab1_2312616_phantrunghieu\\b\u00E0i 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B103DA0-E030-4CE5-969F-595D886CA371}|B\u00E0i 3\\B\u00E0i 3.csproj|solutionrelative:b\u00E0i 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Data\\B\u00E0i lab\\L\u1EADp Tr\u00ECnh M\u1EA1ng\\Lab1_2312616_PhanTrungHieu\\B\u00E0i 3\\Form1.cs",
+              "RelativeDocumentMoniker": "B\u00E0i 3\\Form1.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Data\\B\u00E0i lab\\L\u1EADp Tr\u00ECnh M\u1EA1ng\\Lab1_2312616_PhanTrungHieu\\B\u00E0i 3\\Form1.cs",
+              "RelativeToolTip": "B\u00E0i 3\\Form1.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAUwFkAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T10:34:00.06Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Data\\B\u00E0i lab\\L\u1EADp Tr\u00ECnh M\u1EA1ng\\Lab1_2312616_PhanTrungHieu\\B\u00E0i 3\\Program.cs",
+              "RelativeDocumentMoniker": "B\u00E0i 3\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Data\\B\u00E0i lab\\L\u1EADp Tr\u00ECnh M\u1EA1ng\\Lab1_2312616_PhanTrungHieu\\B\u00E0i 3\\Program.cs",
+              "RelativeToolTip": "B\u00E0i 3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T10:33:55.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Data\\B\u00E0i lab\\L\u1EADp Tr\u00ECnh M\u1EA1ng\\Lab1_2312616_PhanTrungHieu\\B\u00E0i 3\\Form1.cs",
+              "RelativeDocumentMoniker": "B\u00E0i 3\\Form1.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Data\\B\u00E0i lab\\L\u1EADp Tr\u00ECnh M\u1EA1ng\\Lab1_2312616_PhanTrungHieu\\B\u00E0i 3\\Form1.cs [Design]",
+              "RelativeToolTip": "B\u00E0i 3\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T10:19:20.502Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

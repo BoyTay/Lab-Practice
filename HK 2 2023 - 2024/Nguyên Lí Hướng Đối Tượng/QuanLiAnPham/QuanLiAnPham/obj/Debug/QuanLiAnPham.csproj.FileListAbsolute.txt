@@ -1,0 +1,8 @@
+D:\Bài lab\Nguyên Lí Hướng Đối Tượng\QuanLiAnPham\QuanLiAnPham\bin\Debug\QuanLiAnPham.exe.config
+D:\Bài lab\Nguyên Lí Hướng Đối Tượng\QuanLiAnPham\QuanLiAnPham\bin\Debug\QuanLiAnPham.exe
+D:\Bài lab\Nguyên Lí Hướng Đối Tượng\QuanLiAnPham\QuanLiAnPham\bin\Debug\QuanLiAnPham.pdb
+D:\Bài lab\Nguyên Lí Hướng Đối Tượng\QuanLiAnPham\QuanLiAnPham\obj\Debug\QuanLiAnPham.csproj.AssemblyReference.cache
+D:\Bài lab\Nguyên Lí Hướng Đối Tượng\QuanLiAnPham\QuanLiAnPham\obj\Debug\QuanLiAnPham.csproj.CoreCompileInputs.cache
+D:\Bài lab\Nguyên Lí Hướng Đối Tượng\QuanLiAnPham\QuanLiAnPham\obj\Debug\QuanLiAnPham.exe
+D:\Bài lab\Nguyên Lí Hướng Đối Tượng\QuanLiAnPham\QuanLiAnPham\obj\Debug\QuanLiAnPham.pdb
+D:\Bài lab\Nguyên Lí Hướng Đối Tượng\QuanLiAnPham\QuanLiAnPham\bin\Debug\data.txt

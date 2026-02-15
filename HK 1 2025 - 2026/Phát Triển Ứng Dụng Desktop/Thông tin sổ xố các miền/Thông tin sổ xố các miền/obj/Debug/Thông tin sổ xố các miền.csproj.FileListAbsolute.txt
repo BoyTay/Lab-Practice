@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\Thông tin sổ xố các miền\Thông tin sổ xố các miền\bin\Debug\Thông tin sổ xố các miền.exe.config
+C:\Users\Admin\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\Thông tin sổ xố các miền\Thông tin sổ xố các miền\bin\Debug\Thông tin sổ xố các miền.exe
+C:\Users\Admin\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\Thông tin sổ xố các miền\Thông tin sổ xố các miền\bin\Debug\Thông tin sổ xố các miền.pdb
+C:\Users\Admin\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\Thông tin sổ xố các miền\Thông tin sổ xố các miền\obj\Debug\Thông tin sổ xố các miền.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\Thông tin sổ xố các miền\Thông tin sổ xố các miền\obj\Debug\Thông_tin_sổ_xố_các_miền.frmChinh.resources
+C:\Users\Admin\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\Thông tin sổ xố các miền\Thông tin sổ xố các miền\obj\Debug\Thông_tin_sổ_xố_các_miền.Properties.Resources.resources
+C:\Users\Admin\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\Thông tin sổ xố các miền\Thông tin sổ xố các miền\obj\Debug\Thông tin sổ xố các miền.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\Thông tin sổ xố các miền\Thông tin sổ xố các miền\obj\Debug\Thông tin sổ xố các miền.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\Thông tin sổ xố các miền\Thông tin sổ xố các miền\obj\Debug\Thông tin sổ xố các miền.exe
+C:\Users\Admin\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\Thông tin sổ xố các miền\Thông tin sổ xố các miền\obj\Debug\Thông tin sổ xố các miền.pdb
+C:\Users\Admin\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\Thông tin sổ xố các miền\Thông tin sổ xố các miền\obj\Debug\Thông tin sổ xố các miền.exe.config
+C:\Users\Admin\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\Thông tin sổ xố các miền\Thông tin sổ xố các miền\bin\Debug\System.ServiceModel.Syndication.dll
+C:\Users\Admin\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\Thông tin sổ xố các miền\Thông tin sổ xố các miền\bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\Admin\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\Thông tin sổ xố các miền\Thông tin sổ xố các miền\obj\Debug\Th_ng ti.FEF50E89.Up2Date

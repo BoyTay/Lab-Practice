@@ -1,0 +1,161 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\Data\\B\u00E0i lab\\L\u1EADp Tr\u00ECnh M\u1EA1ng\\Lab5_2312616_PhanTrungHieu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{469C985A-0B92-4E49-9F3F-58C772EA909E}|BT3\\BT3.csproj|c:\\users\\admin\\documents\\data\\b\u00E0i lab\\l\u1EADp tr\u00ECnh m\u1EA1ng\\lab5_2312616_phantrunghieu\\bt3\\tcpechoclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{469C985A-0B92-4E49-9F3F-58C772EA909E}|BT3\\BT3.csproj|solutionrelative:bt3\\tcpechoclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{819E3A89-A07E-428E-873A-14E4F68AB94D}|BT2\\BT2.csproj|C:\\Users\\Admin\\Documents\\Data\\B\u00E0i lab\\L\u1EADp Tr\u00ECnh M\u1EA1ng\\Lab5_2312616_PhanTrungHieu\\bt2\\tcpechoseverthread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{819E3A89-A07E-428E-873A-14E4F68AB94D}|BT2\\BT2.csproj|solutionrelative:bt2\\tcpechoseverthread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|BT3||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{819E3A89-A07E-428E-873A-14E4F68AB94D}|BT2\\BT2.csproj|c:\\users\\admin\\documents\\data\\b\u00E0i lab\\l\u1EADp tr\u00ECnh m\u1EA1ng\\lab5_2312616_phantrunghieu\\bt2\\filelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{819E3A89-A07E-428E-873A-14E4F68AB94D}|BT2\\BT2.csproj|solutionrelative:bt2\\filelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{819E3A89-A07E-428E-873A-14E4F68AB94D}|BT2\\BT2.csproj|c:\\users\\admin\\documents\\data\\b\u00E0i lab\\l\u1EADp tr\u00ECnh m\u1EA1ng\\lab5_2312616_phantrunghieu\\bt2\\consolelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{819E3A89-A07E-428E-873A-14E4F68AB94D}|BT2\\BT2.csproj|solutionrelative:bt2\\consolelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{819E3A89-A07E-428E-873A-14E4F68AB94D}|BT2\\BT2.csproj|c:\\users\\admin\\documents\\data\\b\u00E0i lab\\l\u1EADp tr\u00ECnh m\u1EA1ng\\lab5_2312616_phantrunghieu\\bt2\\ilogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{819E3A89-A07E-428E-873A-14E4F68AB94D}|BT2\\BT2.csproj|solutionrelative:bt2\\ilogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{819E3A89-A07E-428E-873A-14E4F68AB94D}|BT2\\BT2.csproj|c:\\users\\admin\\documents\\data\\b\u00E0i lab\\l\u1EADp tr\u00ECnh m\u1EA1ng\\lab5_2312616_phantrunghieu\\bt2\\echoprotocol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{819E3A89-A07E-428E-873A-14E4F68AB94D}|BT2\\BT2.csproj|solutionrelative:bt2\\echoprotocol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{819E3A89-A07E-428E-873A-14E4F68AB94D}|BT2\\BT2.csproj|c:\\users\\admin\\documents\\data\\b\u00E0i lab\\l\u1EADp tr\u00ECnh m\u1EA1ng\\lab5_2312616_phantrunghieu\\bt2\\iprotocol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{819E3A89-A07E-428E-873A-14E4F68AB94D}|BT2\\BT2.csproj|solutionrelative:bt2\\iprotocol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{469C985A-0B92-4E49-9F3F-58C772EA909E}|BT3\\BT3.csproj|c:\\users\\admin\\documents\\data\\b\u00E0i lab\\l\u1EADp tr\u00ECnh m\u1EA1ng\\lab5_2312616_phantrunghieu\\bt3\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|6185191f-1008-4fb2-a715-3a4e4f27e610"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BT3",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Data\\B\u00E0i lab\\L\u1EADp Tr\u00ECnh M\u1EA1ng\\Lab5_2312616_PhanTrungHieu\\BT3\\BT3.csproj",
+              "RelativeDocumentMoniker": "BT3\\BT3.csproj",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Data\\B\u00E0i lab\\L\u1EADp Tr\u00ECnh M\u1EA1ng\\Lab5_2312616_PhanTrungHieu\\BT3\\BT3.csproj",
+              "RelativeToolTip": "BT3\\BT3.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-09T14:41:36.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FileLogger.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Data\\B\u00E0i lab\\L\u1EADp Tr\u00ECnh M\u1EA1ng\\Lab5_2312616_PhanTrungHieu\\BT2\\FileLogger.cs",
+              "RelativeDocumentMoniker": "BT2\\FileLogger.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Data\\B\u00E0i lab\\L\u1EADp Tr\u00ECnh M\u1EA1ng\\Lab5_2312616_PhanTrungHieu\\BT2\\FileLogger.cs",
+              "RelativeToolTip": "BT2\\FileLogger.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAuwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T14:29:36.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConsoleLogger.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Data\\B\u00E0i lab\\L\u1EADp Tr\u00ECnh M\u1EA1ng\\Lab5_2312616_PhanTrungHieu\\BT2\\ConsoleLogger.cs",
+              "RelativeDocumentMoniker": "BT2\\ConsoleLogger.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Data\\B\u00E0i lab\\L\u1EADp Tr\u00ECnh M\u1EA1ng\\Lab5_2312616_PhanTrungHieu\\BT2\\ConsoleLogger.cs",
+              "RelativeToolTip": "BT2\\ConsoleLogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T14:28:51.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ILogger.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Data\\B\u00E0i lab\\L\u1EADp Tr\u00ECnh M\u1EA1ng\\Lab5_2312616_PhanTrungHieu\\BT2\\ILogger.cs",
+              "RelativeDocumentMoniker": "BT2\\ILogger.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Data\\B\u00E0i lab\\L\u1EADp Tr\u00ECnh M\u1EA1ng\\Lab5_2312616_PhanTrungHieu\\BT2\\ILogger.cs",
+              "RelativeToolTip": "BT2\\ILogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T14:27:01.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EchoProtocol.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Data\\B\u00E0i lab\\L\u1EADp Tr\u00ECnh M\u1EA1ng\\Lab5_2312616_PhanTrungHieu\\BT2\\EchoProtocol.cs",
+              "RelativeDocumentMoniker": "BT2\\EchoProtocol.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Data\\B\u00E0i lab\\L\u1EADp Tr\u00ECnh M\u1EA1ng\\Lab5_2312616_PhanTrungHieu\\BT2\\EchoProtocol.cs",
+              "RelativeToolTip": "BT2\\EchoProtocol.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAkwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T14:25:19.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IProtocol.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Data\\B\u00E0i lab\\L\u1EADp Tr\u00ECnh M\u1EA1ng\\Lab5_2312616_PhanTrungHieu\\BT2\\IProtocol.cs",
+              "RelativeDocumentMoniker": "BT2\\IProtocol.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Data\\B\u00E0i lab\\L\u1EADp Tr\u00ECnh M\u1EA1ng\\Lab5_2312616_PhanTrungHieu\\BT2\\IProtocol.cs",
+              "RelativeToolTip": "BT2\\IProtocol.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T14:24:23.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TcpEchoClient.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Data\\B\u00E0i lab\\L\u1EADp Tr\u00ECnh M\u1EA1ng\\Lab5_2312616_PhanTrungHieu\\BT3\\TcpEchoClient.cs",
+              "RelativeDocumentMoniker": "BT3\\TcpEchoClient.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Data\\B\u00E0i lab\\L\u1EADp Tr\u00ECnh M\u1EA1ng\\Lab5_2312616_PhanTrungHieu\\BT3\\TcpEchoClient.cs",
+              "RelativeToolTip": "BT3\\TcpEchoClient.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T14:22:50.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TcpEchoSeverThread.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Data\\B\u00E0i lab\\L\u1EADp Tr\u00ECnh M\u1EA1ng\\Lab5_2312616_PhanTrungHieu\\BT2\\TcpEchoSeverThread.cs",
+              "RelativeDocumentMoniker": "BT2\\TcpEchoSeverThread.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Data\\B\u00E0i lab\\L\u1EADp Tr\u00ECnh M\u1EA1ng\\Lab5_2312616_PhanTrungHieu\\BT2\\TcpEchoSeverThread.cs",
+              "RelativeToolTip": "BT2\\TcpEchoSeverThread.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAYwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T14:22:50.2Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

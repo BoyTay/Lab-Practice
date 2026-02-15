@@ -1,0 +1,14 @@
+C:\Bài lab\Nguyên Lí Hướng Đối Tượngg\CauTrucLenhCoBan\bin\Debug\net8.0\CauTrucLenhCoBan.exe
+C:\Bài lab\Nguyên Lí Hướng Đối Tượngg\CauTrucLenhCoBan\bin\Debug\net8.0\CauTrucLenhCoBan.deps.json
+C:\Bài lab\Nguyên Lí Hướng Đối Tượngg\CauTrucLenhCoBan\bin\Debug\net8.0\CauTrucLenhCoBan.runtimeconfig.json
+C:\Bài lab\Nguyên Lí Hướng Đối Tượngg\CauTrucLenhCoBan\bin\Debug\net8.0\CauTrucLenhCoBan.dll
+C:\Bài lab\Nguyên Lí Hướng Đối Tượngg\CauTrucLenhCoBan\bin\Debug\net8.0\CauTrucLenhCoBan.pdb
+C:\Bài lab\Nguyên Lí Hướng Đối Tượngg\CauTrucLenhCoBan\obj\Debug\net8.0\CauTrucLenhCoBan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Bài lab\Nguyên Lí Hướng Đối Tượngg\CauTrucLenhCoBan\obj\Debug\net8.0\CauTrucLenhCoBan.AssemblyInfoInputs.cache
+C:\Bài lab\Nguyên Lí Hướng Đối Tượngg\CauTrucLenhCoBan\obj\Debug\net8.0\CauTrucLenhCoBan.AssemblyInfo.cs
+C:\Bài lab\Nguyên Lí Hướng Đối Tượngg\CauTrucLenhCoBan\obj\Debug\net8.0\CauTrucLenhCoBan.csproj.CoreCompileInputs.cache
+C:\Bài lab\Nguyên Lí Hướng Đối Tượngg\CauTrucLenhCoBan\obj\Debug\net8.0\CauTrucLenhCoBan.dll
+C:\Bài lab\Nguyên Lí Hướng Đối Tượngg\CauTrucLenhCoBan\obj\Debug\net8.0\refint\CauTrucLenhCoBan.dll
+C:\Bài lab\Nguyên Lí Hướng Đối Tượngg\CauTrucLenhCoBan\obj\Debug\net8.0\CauTrucLenhCoBan.pdb
+C:\Bài lab\Nguyên Lí Hướng Đối Tượngg\CauTrucLenhCoBan\obj\Debug\net8.0\CauTrucLenhCoBan.genruntimeconfig.cache
+C:\Bài lab\Nguyên Lí Hướng Đối Tượngg\CauTrucLenhCoBan\obj\Debug\net8.0\ref\CauTrucLenhCoBan.dll

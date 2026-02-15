@@ -1,0 +1,15 @@
+Z:\Lab4_2312616_PhanTrungHieu\Bài 3.UDP Sever\bin\Debug\Bài 3.UDP Sever.exe.config
+Z:\Lab4_2312616_PhanTrungHieu\Bài 3.UDP Sever\bin\Debug\Bài 3.UDP Sever.exe
+Z:\Lab4_2312616_PhanTrungHieu\Bài 3.UDP Sever\bin\Debug\Bài 3.UDP Sever.pdb
+Z:\Lab4_2312616_PhanTrungHieu\Bài 3.UDP Sever\obj\Debug\Bài 3.UDP Sever.csproj.AssemblyReference.cache
+Z:\Lab4_2312616_PhanTrungHieu\Bài 3.UDP Sever\obj\Debug\Bài 3.UDP Sever.csproj.CoreCompileInputs.cache
+Z:\Lab4_2312616_PhanTrungHieu\Bài 3.UDP Sever\obj\Debug\Bài 3.UDP Sever.exe
+Z:\Lab4_2312616_PhanTrungHieu\Bài 3.UDP Sever\obj\Debug\Bài 3.UDP Sever.pdb
+C:\Users\Admin\Documents\Data\Bài lab\Lập Trình Mạng\Lab4_2312616_PhanTrungHieu\Bài 3.UDP Sever\bin\Debug\Bài 3.UDP Sever.exe.config
+C:\Users\Admin\Documents\Data\Bài lab\Lập Trình Mạng\Lab4_2312616_PhanTrungHieu\Bài 3.UDP Sever\bin\Debug\Bài 3.UDP Sever.exe
+C:\Users\Admin\Documents\Data\Bài lab\Lập Trình Mạng\Lab4_2312616_PhanTrungHieu\Bài 3.UDP Sever\bin\Debug\Bài 3.UDP Sever.pdb
+C:\Users\Admin\Documents\Data\Bài lab\Lập Trình Mạng\Lab4_2312616_PhanTrungHieu\Bài 3.UDP Sever\obj\Debug\Bài 3.UDP Sever.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Data\Bài lab\Lập Trình Mạng\Lab4_2312616_PhanTrungHieu\Bài 3.UDP Sever\obj\Debug\Bài 3.UDP Sever.exe.config
+C:\Users\Admin\Documents\Data\Bài lab\Lập Trình Mạng\Lab4_2312616_PhanTrungHieu\Bài 3.UDP Sever\obj\Debug\Bài 3.UDP Sever.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Data\Bài lab\Lập Trình Mạng\Lab4_2312616_PhanTrungHieu\Bài 3.UDP Sever\obj\Debug\Bài 3.UDP Sever.exe
+C:\Users\Admin\Documents\Data\Bài lab\Lập Trình Mạng\Lab4_2312616_PhanTrungHieu\Bài 3.UDP Sever\obj\Debug\Bài 3.UDP Sever.pdb

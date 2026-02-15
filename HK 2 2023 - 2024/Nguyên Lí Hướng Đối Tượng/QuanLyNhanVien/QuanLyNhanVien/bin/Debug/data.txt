@@ -1,0 +1,20 @@
+﻿Nhan Vien,HCM,Le Thi B,25,1523.75,NV123,Nhan vien ke toan,
+Nhan Vien,HCM,Phan Thi C,28,1834.22,NV124,Nhan vien kinh doanh,
+Quan Ly,Da Nang,Tran Van D,40,2520.45,QL456,Truong phong,Phong Kinh Doanh
+Quan Ly,Ha Noi,Vuong Van E,35,2735.19,QL789,Giam doc,Phong Giam Doc
+Nhan Vien,HCM,Nguyen Van F,32,1614.88,NV125,Nhan vien IT,
+Nhan Vien,Hai Phong,Tran Thi G,27,1573.46,NV126,Nhan vien marketing,
+Nhan Vien,Da Nang,Le Van H,29,1728.39,NV127,Nhan vien ban hang,
+Nhan Vien,Ha Noi,Nguyen Thi I,26,1678.91,NV128,Nhan vien phap ly,
+Quan Ly,HCM,Pham Van J,45,3034.67,QL457,Truong phong,Phong IT
+Quan Ly,Hai Phong,Hoang Thi K,38,2842.18,QL790,Giam doc,Phong Marketing
+Nhan Vien,Da Nang,Do Van L,31,1782.99,NV129,Nhan vien kho,
+Nhan Vien,Ha Noi,Vu Thi M,33,1687.43,NV130,Nhan vien nhan su,
+Quan Ly,HCM,Nguyen Van N,42,2935.88,QL458,Truong phong,Phong Ban Hang
+Quan Ly,Hai Phong,Le Thi O,39,2798.57,QL791,Giam doc,Phong Nhan Su
+Nhan Vien,HCM,Phan Van P,34,1632.48,NV131,Nhan vien ban hang,
+Nhan Vien,Da Nang,Tran Thi Q,28,1740.13,NV132,Nhan vien ke toan,
+Quan Ly,Ha Noi,Nguyen Thi R,41,2976.12,QL459,Truong phong,Phong Phap Ly
+Quan Ly,HCM,Le Van S,37,2887.93,QL792,Giam doc,Phong IT
+Nhan Vien,Hai Phong,Pham Thi T,30,1837.61,NV133,Nhan vien marketing,
+Nhan Vien,Da Nang,Nguyen Van U,29,1789.54,NV134,Nhan vien IT,

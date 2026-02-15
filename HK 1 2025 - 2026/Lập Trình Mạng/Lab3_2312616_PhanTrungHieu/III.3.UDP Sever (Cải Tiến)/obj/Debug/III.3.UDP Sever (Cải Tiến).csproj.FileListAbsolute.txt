@@ -1,0 +1,7 @@
+Z:\Lab3_2312616_PhanTrungHieu\III.3.UDP Sever (Cải Tiến)\bin\Debug\III.3.UDP Sever (Cải Tiến).exe.config
+Z:\Lab3_2312616_PhanTrungHieu\III.3.UDP Sever (Cải Tiến)\bin\Debug\III.3.UDP Sever (Cải Tiến).exe
+Z:\Lab3_2312616_PhanTrungHieu\III.3.UDP Sever (Cải Tiến)\bin\Debug\III.3.UDP Sever (Cải Tiến).pdb
+Z:\Lab3_2312616_PhanTrungHieu\III.3.UDP Sever (Cải Tiến)\obj\Debug\III.3.UDP Sever (Cải Tiến).csproj.AssemblyReference.cache
+Z:\Lab3_2312616_PhanTrungHieu\III.3.UDP Sever (Cải Tiến)\obj\Debug\III.3.UDP Sever (Cải Tiến).csproj.CoreCompileInputs.cache
+Z:\Lab3_2312616_PhanTrungHieu\III.3.UDP Sever (Cải Tiến)\obj\Debug\III.3.UDP Sever (Cải Tiến).exe
+Z:\Lab3_2312616_PhanTrungHieu\III.3.UDP Sever (Cải Tiến)\obj\Debug\III.3.UDP Sever (Cải Tiến).pdb

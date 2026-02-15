@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "Bài 3.UDP Sever\\Bài 3.UDP Sever.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Bài 3.UDP Client\\Bài 3.UDP Client.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

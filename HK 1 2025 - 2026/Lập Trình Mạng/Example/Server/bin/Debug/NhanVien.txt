@@ -1,0 +1,18 @@
+ID = 1
+Ho = da
+Ten = d?
+So nam lam viec = 1
+Luong = 2
+-------------------------
+ID = 1
+Ho = Phan
+Ten = Hieu
+So nam lam viec = 3
+Luong = 31
+-------------------------
+ID = 2
+Ho = Nguyen
+Ten = Huy
+So nam lam viec = 1
+Luong = 21
+-------------------------

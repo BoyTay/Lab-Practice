@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36408.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab3_2312616_PhanTrungHieu", "Lab3_2312616_PhanTrungHieu\Lab3_2312616_PhanTrungHieu.csproj", "{EBC31CFD-0125-47F6-B63C-A795C4C3902A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Đọc tập tin JSON", "Đọc tập tin JSON\Đọc tập tin JSON.csproj", "{33F7E06D-D549-47DA-9D28-D4CAEB6518F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Đọc tập tin XML", "Đọc và ghi tập tin XML\Đọc tập tin XML.csproj", "{EFEC6E82-74F5-40F1-A03B-08C6C0442810}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ghi tập tin XML", "Ghi tập tin XML\Ghi tập tin XML.csproj", "{0A06F454-9B14-4F6B-87A5-10C1350BDE1F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ứng dụng nhập thông tin sinh viên", "Ứng dụng nhập thông tin sinh viên\Ứng dụng nhập thông tin sinh viên.csproj", "{9072A0F6-8DC3-4F67-9BF2-62A314043FE2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBC31CFD-0125-47F6-B63C-A795C4C3902A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBC31CFD-0125-47F6-B63C-A795C4C3902A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBC31CFD-0125-47F6-B63C-A795C4C3902A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBC31CFD-0125-47F6-B63C-A795C4C3902A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33F7E06D-D549-47DA-9D28-D4CAEB6518F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33F7E06D-D549-47DA-9D28-D4CAEB6518F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33F7E06D-D549-47DA-9D28-D4CAEB6518F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33F7E06D-D549-47DA-9D28-D4CAEB6518F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFEC6E82-74F5-40F1-A03B-08C6C0442810}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFEC6E82-74F5-40F1-A03B-08C6C0442810}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFEC6E82-74F5-40F1-A03B-08C6C0442810}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFEC6E82-74F5-40F1-A03B-08C6C0442810}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A06F454-9B14-4F6B-87A5-10C1350BDE1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A06F454-9B14-4F6B-87A5-10C1350BDE1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A06F454-9B14-4F6B-87A5-10C1350BDE1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A06F454-9B14-4F6B-87A5-10C1350BDE1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9072A0F6-8DC3-4F67-9BF2-62A314043FE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9072A0F6-8DC3-4F67-9BF2-62A314043FE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9072A0F6-8DC3-4F67-9BF2-62A314043FE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9072A0F6-8DC3-4F67-9BF2-62A314043FE2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C2EB549-839E-40A0-8C7F-BF6658F6E440}
+	EndGlobalSection
+EndGlobal

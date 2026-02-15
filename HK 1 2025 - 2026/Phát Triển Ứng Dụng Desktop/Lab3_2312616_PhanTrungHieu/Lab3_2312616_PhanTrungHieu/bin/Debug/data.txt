@@ -1,0 +1,4 @@
+Xin chào
+Đây là dòng thứ 2
+Học C# thật vui
+Phan Trung Hiếu - 2312616

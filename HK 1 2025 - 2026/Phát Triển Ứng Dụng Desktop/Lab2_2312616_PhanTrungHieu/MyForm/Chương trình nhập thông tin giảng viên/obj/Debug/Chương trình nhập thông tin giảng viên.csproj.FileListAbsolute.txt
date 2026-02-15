@@ -1,0 +1,13 @@
+C:\Users\Admin\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\MyForm\Chương trình nhập thông tin giảng viên\bin\Debug\Chương trình nhập thông tin giảng viên.exe.config
+C:\Users\Admin\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\MyForm\Chương trình nhập thông tin giảng viên\bin\Debug\Chương trình nhập thông tin giảng viên.exe
+C:\Users\Admin\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\MyForm\Chương trình nhập thông tin giảng viên\bin\Debug\Chương trình nhập thông tin giảng viên.pdb
+C:\Users\Admin\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\MyForm\Chương trình nhập thông tin giảng viên\obj\Debug\Chương trình nhập thông tin giảng viên.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\MyForm\Chương trình nhập thông tin giảng viên\obj\Debug\Chương_trình_nhập_thông_tin_giảng_viên.frmTBGiangVien.resources
+C:\Users\Admin\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\MyForm\Chương trình nhập thông tin giảng viên\obj\Debug\Chương_trình_nhập_thông_tin_giảng_viên.frmGiangVien.resources
+C:\Users\Admin\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\MyForm\Chương trình nhập thông tin giảng viên\obj\Debug\Chương_trình_nhập_thông_tin_giảng_viên.Properties.Resources.resources
+C:\Users\Admin\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\MyForm\Chương trình nhập thông tin giảng viên\obj\Debug\Chương trình nhập thông tin giảng viên.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\MyForm\Chương trình nhập thông tin giảng viên\obj\Debug\Chương trình nhập thông tin giảng viên.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\MyForm\Chương trình nhập thông tin giảng viên\obj\Debug\Chương trình nhập thông tin giảng viên.exe
+C:\Users\Admin\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\MyForm\Chương trình nhập thông tin giảng viên\obj\Debug\Chương trình nhập thông tin giảng viên.pdb
+C:\Users\Admin\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\MyForm\Chương trình nhập thông tin giảng viên\obj\Debug\Chương trình nhập thông tin giảng viên.exe.config
+C:\Users\Admin\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\MyForm\Chương trình nhập thông tin giảng viên\obj\Debug\Chương_trình_nhập_thông_tin_giảng_viên.frmTimGiangVien.resources

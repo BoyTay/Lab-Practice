@@ -1,0 +1,36 @@
+C:\Users\PC602\Downloads\Lab3_2312616_PhanTrungHieu\Ứng dụng nhập thông tin sinh viên\bin\Debug\Ứng dụng nhập thông tin sinh viên.exe.config
+C:\Users\PC602\Downloads\Lab3_2312616_PhanTrungHieu\Ứng dụng nhập thông tin sinh viên\bin\Debug\Ứng dụng nhập thông tin sinh viên.exe
+C:\Users\PC602\Downloads\Lab3_2312616_PhanTrungHieu\Ứng dụng nhập thông tin sinh viên\bin\Debug\Ứng dụng nhập thông tin sinh viên.pdb
+C:\Users\PC602\Downloads\Lab3_2312616_PhanTrungHieu\Ứng dụng nhập thông tin sinh viên\obj\Debug\Ứng dụng nhập thông tin sinh viên.csproj.AssemblyReference.cache
+C:\Users\PC602\Downloads\Lab3_2312616_PhanTrungHieu\Ứng dụng nhập thông tin sinh viên\obj\Debug\Ứng_dụng_nhập_thông_tin_sinh_viên.frmChinh.resources
+C:\Users\PC602\Downloads\Lab3_2312616_PhanTrungHieu\Ứng dụng nhập thông tin sinh viên\obj\Debug\Ứng_dụng_nhập_thông_tin_sinh_viên.Properties.Resources.resources
+C:\Users\PC602\Downloads\Lab3_2312616_PhanTrungHieu\Ứng dụng nhập thông tin sinh viên\obj\Debug\Ứng dụng nhập thông tin sinh viên.csproj.GenerateResource.cache
+C:\Users\PC602\Downloads\Lab3_2312616_PhanTrungHieu\Ứng dụng nhập thông tin sinh viên\obj\Debug\Ứng dụng nhập thông tin sinh viên.csproj.CoreCompileInputs.cache
+C:\Users\PC602\Downloads\Lab3_2312616_PhanTrungHieu\Ứng dụng nhập thông tin sinh viên\obj\Debug\Ứng dụng nhập thông tin sinh viên.exe
+C:\Users\PC602\Downloads\Lab3_2312616_PhanTrungHieu\Ứng dụng nhập thông tin sinh viên\obj\Debug\Ứng dụng nhập thông tin sinh viên.pdb
+C:\Users\Admin\Downloads\Lab3_2312616_PhanTrungHieu\Ứng dụng nhập thông tin sinh viên\bin\Debug\Ứng dụng nhập thông tin sinh viên.exe.config
+C:\Users\Admin\Downloads\Lab3_2312616_PhanTrungHieu\Ứng dụng nhập thông tin sinh viên\bin\Debug\Ứng dụng nhập thông tin sinh viên.exe
+C:\Users\Admin\Downloads\Lab3_2312616_PhanTrungHieu\Ứng dụng nhập thông tin sinh viên\bin\Debug\Ứng dụng nhập thông tin sinh viên.pdb
+C:\Users\Admin\Downloads\Lab3_2312616_PhanTrungHieu\Ứng dụng nhập thông tin sinh viên\obj\Debug\Ứng dụng nhập thông tin sinh viên.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\Lab3_2312616_PhanTrungHieu\Ứng dụng nhập thông tin sinh viên\obj\Debug\Ứng dụng nhập thông tin sinh viên.exe.config
+C:\Users\Admin\Downloads\Lab3_2312616_PhanTrungHieu\Ứng dụng nhập thông tin sinh viên\obj\Debug\Ứng_dụng_nhập_thông_tin_sinh_viên.frmChinh.resources
+C:\Users\Admin\Downloads\Lab3_2312616_PhanTrungHieu\Ứng dụng nhập thông tin sinh viên\obj\Debug\Ứng_dụng_nhập_thông_tin_sinh_viên.Properties.Resources.resources
+C:\Users\Admin\Downloads\Lab3_2312616_PhanTrungHieu\Ứng dụng nhập thông tin sinh viên\obj\Debug\Ứng dụng nhập thông tin sinh viên.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\Lab3_2312616_PhanTrungHieu\Ứng dụng nhập thông tin sinh viên\obj\Debug\Ứng dụng nhập thông tin sinh viên.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Lab3_2312616_PhanTrungHieu\Ứng dụng nhập thông tin sinh viên\obj\Debug\Ứng dụng nhập thông tin sinh viên.exe
+C:\Users\Admin\Downloads\Lab3_2312616_PhanTrungHieu\Ứng dụng nhập thông tin sinh viên\obj\Debug\Ứng dụng nhập thông tin sinh viên.pdb
+C:\Users\Admin\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\Lab3_2312616_PhanTrungHieu\Ứng dụng nhập thông tin sinh viên\bin\Debug\Ứng dụng nhập thông tin sinh viên.exe.config
+C:\Users\Admin\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\Lab3_2312616_PhanTrungHieu\Ứng dụng nhập thông tin sinh viên\bin\Debug\Ứng dụng nhập thông tin sinh viên.exe
+C:\Users\Admin\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\Lab3_2312616_PhanTrungHieu\Ứng dụng nhập thông tin sinh viên\bin\Debug\Ứng dụng nhập thông tin sinh viên.pdb
+C:\Users\Admin\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\Lab3_2312616_PhanTrungHieu\Ứng dụng nhập thông tin sinh viên\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\Lab3_2312616_PhanTrungHieu\Ứng dụng nhập thông tin sinh viên\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\Lab3_2312616_PhanTrungHieu\Ứng dụng nhập thông tin sinh viên\obj\Debug\Ứng dụng nhập thông tin sinh viên.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\Lab3_2312616_PhanTrungHieu\Ứng dụng nhập thông tin sinh viên\obj\Debug\Ứng_dụng_nhập_thông_tin_sinh_viên.frmChinh.resources
+C:\Users\Admin\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\Lab3_2312616_PhanTrungHieu\Ứng dụng nhập thông tin sinh viên\obj\Debug\Ứng_dụng_nhập_thông_tin_sinh_viên.frmTimKiem.resources
+C:\Users\Admin\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\Lab3_2312616_PhanTrungHieu\Ứng dụng nhập thông tin sinh viên\obj\Debug\Ứng_dụng_nhập_thông_tin_sinh_viên.Properties.Resources.resources
+C:\Users\Admin\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\Lab3_2312616_PhanTrungHieu\Ứng dụng nhập thông tin sinh viên\obj\Debug\Ứng dụng nhập thông tin sinh viên.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\Lab3_2312616_PhanTrungHieu\Ứng dụng nhập thông tin sinh viên\obj\Debug\Ứng dụng nhập thông tin sinh viên.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\Lab3_2312616_PhanTrungHieu\Ứng dụng nhập thông tin sinh viên\obj\Debug\_ng d_ng.1834BE82.Up2Date
+C:\Users\Admin\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\Lab3_2312616_PhanTrungHieu\Ứng dụng nhập thông tin sinh viên\obj\Debug\Ứng dụng nhập thông tin sinh viên.exe
+C:\Users\Admin\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\Lab3_2312616_PhanTrungHieu\Ứng dụng nhập thông tin sinh viên\obj\Debug\Ứng dụng nhập thông tin sinh viên.pdb
+C:\Users\Admin\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\Lab3_2312616_PhanTrungHieu\Ứng dụng nhập thông tin sinh viên\obj\Debug\Ứng dụng nhập thông tin sinh viên.exe.config

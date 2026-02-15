@@ -1,0 +1,13 @@
+C:\Users\Admin\OneDrive\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\2312616_PhanTrungHieu_CTK47A\3.BTWindowsForm\bin\Debug\3.BTWindowsForm.exe.config
+C:\Users\Admin\OneDrive\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\2312616_PhanTrungHieu_CTK47A\3.BTWindowsForm\bin\Debug\3.BTWindowsForm.exe
+C:\Users\Admin\OneDrive\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\2312616_PhanTrungHieu_CTK47A\3.BTWindowsForm\bin\Debug\3.BTWindowsForm.pdb
+C:\Users\Admin\OneDrive\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\2312616_PhanTrungHieu_CTK47A\3.BTWindowsForm\obj\Debug\3.BTWindowsForm.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\2312616_PhanTrungHieu_CTK47A\3.BTWindowsForm\obj\Debug\_3.BTWindowsForm.frmBai1.resources
+C:\Users\Admin\OneDrive\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\2312616_PhanTrungHieu_CTK47A\3.BTWindowsForm\obj\Debug\_3.BTWindowsForm.frmBai2.resources
+C:\Users\Admin\OneDrive\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\2312616_PhanTrungHieu_CTK47A\3.BTWindowsForm\obj\Debug\_3.BTWindowsForm.frmBai3.resources
+C:\Users\Admin\OneDrive\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\2312616_PhanTrungHieu_CTK47A\3.BTWindowsForm\obj\Debug\_3.BTWindowsForm.frmChinh.resources
+C:\Users\Admin\OneDrive\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\2312616_PhanTrungHieu_CTK47A\3.BTWindowsForm\obj\Debug\_3.BTWindowsForm.Properties.Resources.resources
+C:\Users\Admin\OneDrive\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\2312616_PhanTrungHieu_CTK47A\3.BTWindowsForm\obj\Debug\3.BTWindowsForm.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\2312616_PhanTrungHieu_CTK47A\3.BTWindowsForm\obj\Debug\3.BTWindowsForm.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\2312616_PhanTrungHieu_CTK47A\3.BTWindowsForm\obj\Debug\3.BTWindowsForm.exe
+C:\Users\Admin\OneDrive\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\2312616_PhanTrungHieu_CTK47A\3.BTWindowsForm\obj\Debug\3.BTWindowsForm.pdb

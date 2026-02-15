@@ -1,0 +1,12 @@
+Z:\Lab6.1_2312616_PhanTrungHieu\AsyncSocketTCP\bin\Debug\AsyncSocketTCP.dll
+Z:\Lab6.1_2312616_PhanTrungHieu\AsyncSocketTCP\bin\Debug\AsyncSocketTCP.pdb
+Z:\Lab6.1_2312616_PhanTrungHieu\AsyncSocketTCP\obj\Debug\AsyncSocketTCP.csproj.CoreCompileInputs.cache
+Z:\Lab6.1_2312616_PhanTrungHieu\AsyncSocketTCP\obj\Debug\AsyncSocketTCP.dll
+Z:\Lab6.1_2312616_PhanTrungHieu\AsyncSocketTCP\obj\Debug\AsyncSocketTCP.pdb
+Z:\Lab6.1_2312616_PhanTrungHieu\AsyncSocketTCP\obj\Debug\AsyncSocketTCP.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\Data\Bài lab\Lập Trình Mạng\Lab6.1_2312616_PhanTrungHieu\AsyncSocketTCP\bin\Debug\AsyncSocketTCP.dll
+C:\Users\Admin\Documents\Data\Bài lab\Lập Trình Mạng\Lab6.1_2312616_PhanTrungHieu\AsyncSocketTCP\bin\Debug\AsyncSocketTCP.pdb
+C:\Users\Admin\Documents\Data\Bài lab\Lập Trình Mạng\Lab6.1_2312616_PhanTrungHieu\AsyncSocketTCP\obj\Debug\AsyncSocketTCP.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Data\Bài lab\Lập Trình Mạng\Lab6.1_2312616_PhanTrungHieu\AsyncSocketTCP\obj\Debug\AsyncSocketTCP.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Data\Bài lab\Lập Trình Mạng\Lab6.1_2312616_PhanTrungHieu\AsyncSocketTCP\obj\Debug\AsyncSocketTCP.dll
+C:\Users\Admin\Documents\Data\Bài lab\Lập Trình Mạng\Lab6.1_2312616_PhanTrungHieu\AsyncSocketTCP\obj\Debug\AsyncSocketTCP.pdb

@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\Data\\B\u00E0i lab\\L\u1EADp Tr\u00ECnh M\u1EA1ng\\Lab6.1_2312616_PhanTrungHieu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93CF1B7A-E2D2-444A-95A6-18854263D780}|AsyncSocketClient\\AsyncSocketClient.csproj|C:\\Users\\Admin\\Documents\\Data\\B\u00E0i lab\\L\u1EADp Tr\u00ECnh M\u1EA1ng\\Lab6.1_2312616_PhanTrungHieu\\asyncsocketclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93CF1B7A-E2D2-444A-95A6-18854263D780}|AsyncSocketClient\\AsyncSocketClient.csproj|solutionrelative:asyncsocketclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDB71DE1-B293-4B7A-8FDB-B2DD8A93B830}|AsyncSocketServer\\AsyncSocketServer.csproj|c:\\users\\admin\\documents\\data\\b\u00E0i lab\\l\u1EADp tr\u00ECnh m\u1EA1ng\\lab6.1_2312616_phantrunghieu\\asyncsocketserver\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDB71DE1-B293-4B7A-8FDB-B2DD8A93B830}|AsyncSocketServer\\AsyncSocketServer.csproj|solutionrelative:asyncsocketserver\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77CFE2DC-3635-4330-B69F-45D35F654022}|AsyncSocketTCP\\AsyncSocketTCP.csproj|C:\\Users\\Admin\\Documents\\Data\\B\u00E0i lab\\L\u1EADp Tr\u00ECnh M\u1EA1ng\\Lab6.1_2312616_PhanTrungHieu\\asyncsockettcp\\asyncsockettcpserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77CFE2DC-3635-4330-B69F-45D35F654022}|AsyncSocketTCP\\AsyncSocketTCP.csproj|solutionrelative:asyncsockettcp\\asyncsockettcpserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77CFE2DC-3635-4330-B69F-45D35F654022}|AsyncSocketTCP\\AsyncSocketTCP.csproj|C:\\Users\\Admin\\Documents\\Data\\B\u00E0i lab\\L\u1EADp Tr\u00ECnh M\u1EA1ng\\Lab6.1_2312616_PhanTrungHieu\\asyncsockettcp\\asyncsockettcpclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77CFE2DC-3635-4330-B69F-45D35F654022}|AsyncSocketTCP\\AsyncSocketTCP.csproj|solutionrelative:asyncsockettcp\\asyncsockettcpclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E707F7-9F8C-4721-9DD9-F5493910EEE7}|BT3.AsyncSocketClientForm\\BT3.AsyncSocketClientForm.csproj|C:\\Users\\Admin\\Documents\\Data\\B\u00E0i lab\\L\u1EADp Tr\u00ECnh M\u1EA1ng\\Lab6.1_2312616_PhanTrungHieu\\bt3.asyncsocketclientform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E707F7-9F8C-4721-9DD9-F5493910EEE7}|BT3.AsyncSocketClientForm\\BT3.AsyncSocketClientForm.csproj|solutionrelative:bt3.asyncsocketclientform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77CFE2DC-3635-4330-B69F-45D35F654022}|AsyncSocketTCP\\AsyncSocketTCP.csproj|C:\\Users\\Admin\\Documents\\Data\\B\u00E0i lab\\L\u1EADp Tr\u00ECnh M\u1EA1ng\\Lab6.1_2312616_PhanTrungHieu\\asyncsockettcp\\customeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77CFE2DC-3635-4330-B69F-45D35F654022}|AsyncSocketTCP\\AsyncSocketTCP.csproj|solutionrelative:asyncsockettcp\\customeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E707F7-9F8C-4721-9DD9-F5493910EEE7}|BT3.AsyncSocketClientForm\\BT3.AsyncSocketClientForm.csproj|C:\\Users\\Admin\\Documents\\Data\\B\u00E0i lab\\L\u1EADp Tr\u00ECnh M\u1EA1ng\\Lab6.1_2312616_PhanTrungHieu\\bt3.asyncsocketclientform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F9E707F7-9F8C-4721-9DD9-F5493910EEE7}|BT3.AsyncSocketClientForm\\BT3.AsyncSocketClientForm.csproj|solutionrelative:bt3.asyncsocketclientform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AsyncSocketTCPClient.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Data\\B\u00E0i lab\\L\u1EADp Tr\u00ECnh M\u1EA1ng\\Lab6.1_2312616_PhanTrungHieu\\AsyncSocketTCP\\AsyncSocketTCPClient.cs",
+              "RelativeDocumentMoniker": "AsyncSocketTCP\\AsyncSocketTCPClient.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Data\\B\u00E0i lab\\L\u1EADp Tr\u00ECnh M\u1EA1ng\\Lab6.1_2312616_PhanTrungHieu\\AsyncSocketTCP\\AsyncSocketTCPClient.cs",
+              "RelativeToolTip": "AsyncSocketTCP\\AsyncSocketTCPClient.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAAwJAAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T11:41:41.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Data\\B\u00E0i lab\\L\u1EADp Tr\u00ECnh M\u1EA1ng\\Lab6.1_2312616_PhanTrungHieu\\AsyncSocketServer\\Form1.cs",
+              "RelativeDocumentMoniker": "AsyncSocketServer\\Form1.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Data\\B\u00E0i lab\\L\u1EADp Tr\u00ECnh M\u1EA1ng\\Lab6.1_2312616_PhanTrungHieu\\AsyncSocketServer\\Form1.cs",
+              "RelativeToolTip": "AsyncSocketServer\\Form1.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAmwFQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T05:52:38.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AsyncSocketTCPServer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Data\\B\u00E0i lab\\L\u1EADp Tr\u00ECnh M\u1EA1ng\\Lab6.1_2312616_PhanTrungHieu\\AsyncSocketTCP\\AsyncSocketTCPServer.cs",
+              "RelativeDocumentMoniker": "AsyncSocketTCP\\AsyncSocketTCPServer.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Data\\B\u00E0i lab\\L\u1EADp Tr\u00ECnh M\u1EA1ng\\Lab6.1_2312616_PhanTrungHieu\\AsyncSocketTCP\\AsyncSocketTCPServer.cs",
+              "RelativeToolTip": "AsyncSocketTCP\\AsyncSocketTCPServer.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAvwH4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T06:14:27.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Data\\B\u00E0i lab\\L\u1EADp Tr\u00ECnh M\u1EA1ng\\Lab6.1_2312616_PhanTrungHieu\\AsyncSocketClient\\Program.cs",
+              "RelativeDocumentMoniker": "AsyncSocketClient\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Data\\B\u00E0i lab\\L\u1EADp Tr\u00ECnh M\u1EA1ng\\Lab6.1_2312616_PhanTrungHieu\\AsyncSocketClient\\Program.cs",
+              "RelativeToolTip": "AsyncSocketClient\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T06:54:43.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomEventArgs.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Data\\B\u00E0i lab\\L\u1EADp Tr\u00ECnh M\u1EA1ng\\Lab6.1_2312616_PhanTrungHieu\\AsyncSocketTCP\\CustomEventArgs.cs",
+              "RelativeDocumentMoniker": "AsyncSocketTCP\\CustomEventArgs.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Data\\B\u00E0i lab\\L\u1EADp Tr\u00ECnh M\u1EA1ng\\Lab6.1_2312616_PhanTrungHieu\\AsyncSocketTCP\\CustomEventArgs.cs",
+              "RelativeToolTip": "AsyncSocketTCP\\CustomEventArgs.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAcwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T06:50:31.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Data\\B\u00E0i lab\\L\u1EADp Tr\u00ECnh M\u1EA1ng\\Lab6.1_2312616_PhanTrungHieu\\BT3.AsyncSocketClientForm\\Form1.cs",
+              "RelativeDocumentMoniker": "BT3.AsyncSocketClientForm\\Form1.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Data\\B\u00E0i lab\\L\u1EADp Tr\u00ECnh M\u1EA1ng\\Lab6.1_2312616_PhanTrungHieu\\BT3.AsyncSocketClientForm\\Form1.cs",
+              "RelativeToolTip": "BT3.AsyncSocketClientForm\\Form1.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAgwDwAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T11:40:05.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Data\\B\u00E0i lab\\L\u1EADp Tr\u00ECnh M\u1EA1ng\\Lab6.1_2312616_PhanTrungHieu\\BT3.AsyncSocketClientForm\\Form1.cs",
+              "RelativeDocumentMoniker": "BT3.AsyncSocketClientForm\\Form1.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Data\\B\u00E0i lab\\L\u1EADp Tr\u00ECnh M\u1EA1ng\\Lab6.1_2312616_PhanTrungHieu\\BT3.AsyncSocketClientForm\\Form1.cs [Design]",
+              "RelativeToolTip": "BT3.AsyncSocketClientForm\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T11:31:31.991Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

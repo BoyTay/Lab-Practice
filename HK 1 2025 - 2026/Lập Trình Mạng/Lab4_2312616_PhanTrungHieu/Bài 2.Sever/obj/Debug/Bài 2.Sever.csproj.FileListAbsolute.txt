@@ -1,0 +1,7 @@
+Z:\Lab4_2312616_PhanTrungHieu\Bài 2.Sever\bin\Debug\Bài 2.Sever.exe.config
+Z:\Lab4_2312616_PhanTrungHieu\Bài 2.Sever\bin\Debug\Bài 2.Sever.exe
+Z:\Lab4_2312616_PhanTrungHieu\Bài 2.Sever\bin\Debug\Bài 2.Sever.pdb
+Z:\Lab4_2312616_PhanTrungHieu\Bài 2.Sever\obj\Debug\Bài 2.Sever.csproj.AssemblyReference.cache
+Z:\Lab4_2312616_PhanTrungHieu\Bài 2.Sever\obj\Debug\Bài 2.Sever.csproj.CoreCompileInputs.cache
+Z:\Lab4_2312616_PhanTrungHieu\Bài 2.Sever\obj\Debug\Bài 2.Sever.exe
+Z:\Lab4_2312616_PhanTrungHieu\Bài 2.Sever\obj\Debug\Bài 2.Sever.pdb

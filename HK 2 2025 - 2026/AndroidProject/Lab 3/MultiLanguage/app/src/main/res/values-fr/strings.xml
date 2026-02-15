@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Application multilingue</string>
+    <string name="txt_welcome">accueil</string>
+    <string name="hint_email">adresse e-mail</string>
+    <string name="hint_pass">mot de passe</string>
+    <string name="btn_login">CONNEXION</string>
+    <string name="txt_signup">Ne pas avoir un compte? signer</string>
+    <string name="menu_language">Langue</string>
+    <string name="lang_en">Anglais</string>
+    <string name="lang_vi">Vietnamien</string>
+    <string name="lang_fr">Français</string>
+</resources>

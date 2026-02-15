@@ -1,0 +1,10 @@
+C:\Users\PC602\Downloads\Lab3_2312616_PhanTrungHieu\Ghi tập tin XML\bin\Debug\Ghi tập tin XML.exe.config
+C:\Users\PC602\Downloads\Lab3_2312616_PhanTrungHieu\Ghi tập tin XML\bin\Debug\Ghi tập tin XML.exe
+C:\Users\PC602\Downloads\Lab3_2312616_PhanTrungHieu\Ghi tập tin XML\bin\Debug\Ghi tập tin XML.pdb
+C:\Users\PC602\Downloads\Lab3_2312616_PhanTrungHieu\Ghi tập tin XML\bin\Debug\Newtonsoft.Json.dll
+C:\Users\PC602\Downloads\Lab3_2312616_PhanTrungHieu\Ghi tập tin XML\bin\Debug\Newtonsoft.Json.xml
+C:\Users\PC602\Downloads\Lab3_2312616_PhanTrungHieu\Ghi tập tin XML\obj\Debug\Ghi tập tin XML.csproj.AssemblyReference.cache
+C:\Users\PC602\Downloads\Lab3_2312616_PhanTrungHieu\Ghi tập tin XML\obj\Debug\Ghi tập tin XML.csproj.CoreCompileInputs.cache
+C:\Users\PC602\Downloads\Lab3_2312616_PhanTrungHieu\Ghi tập tin XML\obj\Debug\Ghi tập tin XML.csproj.CopyComplete
+C:\Users\PC602\Downloads\Lab3_2312616_PhanTrungHieu\Ghi tập tin XML\obj\Debug\Ghi tập tin XML.exe
+C:\Users\PC602\Downloads\Lab3_2312616_PhanTrungHieu\Ghi tập tin XML\obj\Debug\Ghi tập tin XML.pdb

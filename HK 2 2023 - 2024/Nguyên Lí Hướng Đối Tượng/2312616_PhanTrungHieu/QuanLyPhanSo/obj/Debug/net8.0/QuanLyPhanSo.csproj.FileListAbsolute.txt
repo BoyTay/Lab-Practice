@@ -1,0 +1,14 @@
+C:\Bài lab\Nguyên Lí Hướng Đối Tượngg\2312616_PhanTrungHieu\QuanLyPhanSo\bin\Debug\net8.0\QuanLyPhanSo.exe
+C:\Bài lab\Nguyên Lí Hướng Đối Tượngg\2312616_PhanTrungHieu\QuanLyPhanSo\bin\Debug\net8.0\QuanLyPhanSo.deps.json
+C:\Bài lab\Nguyên Lí Hướng Đối Tượngg\2312616_PhanTrungHieu\QuanLyPhanSo\bin\Debug\net8.0\QuanLyPhanSo.runtimeconfig.json
+C:\Bài lab\Nguyên Lí Hướng Đối Tượngg\2312616_PhanTrungHieu\QuanLyPhanSo\bin\Debug\net8.0\QuanLyPhanSo.dll
+C:\Bài lab\Nguyên Lí Hướng Đối Tượngg\2312616_PhanTrungHieu\QuanLyPhanSo\bin\Debug\net8.0\QuanLyPhanSo.pdb
+C:\Bài lab\Nguyên Lí Hướng Đối Tượngg\2312616_PhanTrungHieu\QuanLyPhanSo\obj\Debug\net8.0\QuanLyPhanSo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Bài lab\Nguyên Lí Hướng Đối Tượngg\2312616_PhanTrungHieu\QuanLyPhanSo\obj\Debug\net8.0\QuanLyPhanSo.AssemblyInfoInputs.cache
+C:\Bài lab\Nguyên Lí Hướng Đối Tượngg\2312616_PhanTrungHieu\QuanLyPhanSo\obj\Debug\net8.0\QuanLyPhanSo.AssemblyInfo.cs
+C:\Bài lab\Nguyên Lí Hướng Đối Tượngg\2312616_PhanTrungHieu\QuanLyPhanSo\obj\Debug\net8.0\QuanLyPhanSo.csproj.CoreCompileInputs.cache
+C:\Bài lab\Nguyên Lí Hướng Đối Tượngg\2312616_PhanTrungHieu\QuanLyPhanSo\obj\Debug\net8.0\QuanLyPhanSo.dll
+C:\Bài lab\Nguyên Lí Hướng Đối Tượngg\2312616_PhanTrungHieu\QuanLyPhanSo\obj\Debug\net8.0\refint\QuanLyPhanSo.dll
+C:\Bài lab\Nguyên Lí Hướng Đối Tượngg\2312616_PhanTrungHieu\QuanLyPhanSo\obj\Debug\net8.0\QuanLyPhanSo.pdb
+C:\Bài lab\Nguyên Lí Hướng Đối Tượngg\2312616_PhanTrungHieu\QuanLyPhanSo\obj\Debug\net8.0\QuanLyPhanSo.genruntimeconfig.cache
+C:\Bài lab\Nguyên Lí Hướng Đối Tượngg\2312616_PhanTrungHieu\QuanLyPhanSo\obj\Debug\net8.0\ref\QuanLyPhanSo.dll

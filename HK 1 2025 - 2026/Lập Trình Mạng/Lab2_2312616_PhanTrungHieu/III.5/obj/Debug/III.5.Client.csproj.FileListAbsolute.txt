@@ -1,0 +1,7 @@
+C:\Users\PC602\Downloads\Lab2_2312616_PhanTrungHieu\III.5\bin\Debug\III.5.exe.config
+C:\Users\PC602\Downloads\Lab2_2312616_PhanTrungHieu\III.5\bin\Debug\III.5.exe
+C:\Users\PC602\Downloads\Lab2_2312616_PhanTrungHieu\III.5\bin\Debug\III.5.pdb
+C:\Users\PC602\Downloads\Lab2_2312616_PhanTrungHieu\III.5\obj\Debug\III.5.Client.csproj.AssemblyReference.cache
+C:\Users\PC602\Downloads\Lab2_2312616_PhanTrungHieu\III.5\obj\Debug\III.5.Client.csproj.CoreCompileInputs.cache
+C:\Users\PC602\Downloads\Lab2_2312616_PhanTrungHieu\III.5\obj\Debug\III.5.exe
+C:\Users\PC602\Downloads\Lab2_2312616_PhanTrungHieu\III.5\obj\Debug\III.5.pdb

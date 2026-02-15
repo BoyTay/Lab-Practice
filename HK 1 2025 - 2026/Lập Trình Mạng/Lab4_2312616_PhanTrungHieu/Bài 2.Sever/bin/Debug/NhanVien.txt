@@ -1,0 +1,18 @@
+ID = 2
+Ho = Nguyen
+Ten = Van A
+So nam lam viec = 3
+Luong = 18.3
+-------------------------
+ID = 1
+Ho = Phan
+Ten = Hieu
+So nam lam viec = 2
+Luong = 12
+-------------------------
+ID = 1
+Ho = Nguyen
+Ten = Huy
+So nam lam viec = 1
+Luong = 31
+-------------------------

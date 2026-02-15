@@ -1,0 +1,21 @@
+Z:\Lab6.1_2312616_PhanTrungHieu\AsyncSocketClient\bin\Debug\AsyncSocketClient.exe.config
+Z:\Lab6.1_2312616_PhanTrungHieu\AsyncSocketClient\bin\Debug\AsyncSocketClient.exe
+Z:\Lab6.1_2312616_PhanTrungHieu\AsyncSocketClient\bin\Debug\AsyncSocketClient.pdb
+Z:\Lab6.1_2312616_PhanTrungHieu\AsyncSocketClient\bin\Debug\AsyncSocketTCP.dll
+Z:\Lab6.1_2312616_PhanTrungHieu\AsyncSocketClient\bin\Debug\AsyncSocketTCP.pdb
+Z:\Lab6.1_2312616_PhanTrungHieu\AsyncSocketClient\obj\Debug\AsyncSocketClient.csproj.CoreCompileInputs.cache
+Z:\Lab6.1_2312616_PhanTrungHieu\AsyncSocketClient\obj\Debug\AsyncSocketClient.csproj.CopyComplete
+Z:\Lab6.1_2312616_PhanTrungHieu\AsyncSocketClient\obj\Debug\AsyncSocketClient.exe
+Z:\Lab6.1_2312616_PhanTrungHieu\AsyncSocketClient\obj\Debug\AsyncSocketClient.pdb
+C:\Users\Admin\Documents\Data\Bài lab\Lập Trình Mạng\Lab6.1_2312616_PhanTrungHieu\AsyncSocketClient\bin\Debug\AsyncSocketClient.exe.config
+C:\Users\Admin\Documents\Data\Bài lab\Lập Trình Mạng\Lab6.1_2312616_PhanTrungHieu\AsyncSocketClient\bin\Debug\AsyncSocketClient.exe
+C:\Users\Admin\Documents\Data\Bài lab\Lập Trình Mạng\Lab6.1_2312616_PhanTrungHieu\AsyncSocketClient\bin\Debug\AsyncSocketClient.pdb
+C:\Users\Admin\Documents\Data\Bài lab\Lập Trình Mạng\Lab6.1_2312616_PhanTrungHieu\AsyncSocketClient\bin\Debug\AsyncSocketTCP.dll
+C:\Users\Admin\Documents\Data\Bài lab\Lập Trình Mạng\Lab6.1_2312616_PhanTrungHieu\AsyncSocketClient\bin\Debug\AsyncSocketTCP.pdb
+C:\Users\Admin\Documents\Data\Bài lab\Lập Trình Mạng\Lab6.1_2312616_PhanTrungHieu\AsyncSocketClient\obj\Debug\AsyncSocketClient.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Data\Bài lab\Lập Trình Mạng\Lab6.1_2312616_PhanTrungHieu\AsyncSocketClient\obj\Debug\AsyncSocketClient.exe.config
+C:\Users\Admin\Documents\Data\Bài lab\Lập Trình Mạng\Lab6.1_2312616_PhanTrungHieu\AsyncSocketClient\obj\Debug\AsyncSocketClient.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Data\Bài lab\Lập Trình Mạng\Lab6.1_2312616_PhanTrungHieu\AsyncSocketClient\obj\Debug\AsyncSoc.75C4534A.Up2Date
+C:\Users\Admin\Documents\Data\Bài lab\Lập Trình Mạng\Lab6.1_2312616_PhanTrungHieu\AsyncSocketClient\obj\Debug\AsyncSocketClient.exe
+C:\Users\Admin\Documents\Data\Bài lab\Lập Trình Mạng\Lab6.1_2312616_PhanTrungHieu\AsyncSocketClient\obj\Debug\AsyncSocketClient.pdb
+Z:\Lab6.1_2312616_PhanTrungHieu\AsyncSocketClient\obj\Debug\AsyncSocketClient.csprojAssemblyReference.cache

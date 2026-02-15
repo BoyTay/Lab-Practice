@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_subjects"
+        android:icon="@android:drawable/ic_menu_view"
+        android:title="Môn học" />
+    <item
+        android:id="@+id/nav_assignments"
+        android:icon="@android:drawable/ic_menu_edit"
+        android:title="Bài tập" />
+    <item
+        android:id="@+id/nav_groups"
+        android:icon="@android:drawable/ic_menu_myplaces"
+        android:title="Nhóm" />
+    <item
+        android:id="@+id/nav_statistics"
+        android:icon="@android:drawable/ic_menu_info_details"
+        android:title="Thống kê" />
+</menu>

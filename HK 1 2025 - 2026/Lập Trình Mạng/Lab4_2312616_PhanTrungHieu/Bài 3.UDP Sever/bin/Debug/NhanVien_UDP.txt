@@ -1,0 +1,6 @@
+ID = 1
+Ho = Nguyen
+Ten = Van A
+So nam lam viec = 3
+Luong = 12.3
+-------------------------

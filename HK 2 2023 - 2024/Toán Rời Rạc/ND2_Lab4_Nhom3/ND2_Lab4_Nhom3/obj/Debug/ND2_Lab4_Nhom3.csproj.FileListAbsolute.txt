@@ -1,0 +1,7 @@
+D:\Bài lab\Toán Rời Rạc\ND2_Lab4_Nhom3\ND2_Lab4_Nhom3\bin\Debug\ND2_Lab4_Nhom3.exe.config
+D:\Bài lab\Toán Rời Rạc\ND2_Lab4_Nhom3\ND2_Lab4_Nhom3\bin\Debug\ND2_Lab4_Nhom3.exe
+D:\Bài lab\Toán Rời Rạc\ND2_Lab4_Nhom3\ND2_Lab4_Nhom3\bin\Debug\ND2_Lab4_Nhom3.pdb
+D:\Bài lab\Toán Rời Rạc\ND2_Lab4_Nhom3\ND2_Lab4_Nhom3\obj\Debug\ND2_Lab4_Nhom3.csproj.AssemblyReference.cache
+D:\Bài lab\Toán Rời Rạc\ND2_Lab4_Nhom3\ND2_Lab4_Nhom3\obj\Debug\ND2_Lab4_Nhom3.csproj.CoreCompileInputs.cache
+D:\Bài lab\Toán Rời Rạc\ND2_Lab4_Nhom3\ND2_Lab4_Nhom3\obj\Debug\ND2_Lab4_Nhom3.exe
+D:\Bài lab\Toán Rời Rạc\ND2_Lab4_Nhom3\ND2_Lab4_Nhom3\obj\Debug\ND2_Lab4_Nhom3.pdb

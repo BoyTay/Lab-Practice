@@ -1,0 +1,21 @@
+D:\Bài lab\Nguyên Lí Hướng Đối Tượngg\QuanLiXe\QuanLiXe\bin\Debug\QuanLiXe.exe.config
+D:\Bài lab\Nguyên Lí Hướng Đối Tượngg\QuanLiXe\QuanLiXe\bin\Debug\QuanLiXe.exe
+D:\Bài lab\Nguyên Lí Hướng Đối Tượngg\QuanLiXe\QuanLiXe\bin\Debug\QuanLiXe.pdb
+D:\Bài lab\Nguyên Lí Hướng Đối Tượngg\QuanLiXe\QuanLiXe\obj\Debug\QuanLiXe.csproj.AssemblyReference.cache
+D:\Bài lab\Nguyên Lí Hướng Đối Tượngg\QuanLiXe\QuanLiXe\obj\Debug\QuanLiXe.csproj.CoreCompileInputs.cache
+D:\Bài lab\Nguyên Lí Hướng Đối Tượngg\QuanLiXe\QuanLiXe\obj\Debug\QuanLiXe.exe
+D:\Bài lab\Nguyên Lí Hướng Đối Tượngg\QuanLiXe\QuanLiXe\obj\Debug\QuanLiXe.pdb
+Z:\QuanLiXe\QuanLiXe\bin\Debug\QuanLiXe.exe.config
+Z:\QuanLiXe\QuanLiXe\bin\Debug\QuanLiXe.exe
+Z:\QuanLiXe\QuanLiXe\bin\Debug\QuanLiXe.pdb
+Z:\QuanLiXe\QuanLiXe\obj\Debug\QuanLiXe.csproj.CoreCompileInputs.cache
+Z:\QuanLiXe\QuanLiXe\obj\Debug\QuanLiXe.exe
+Z:\QuanLiXe\QuanLiXe\obj\Debug\QuanLiXe.pdb
+Z:\QuanLiXe\QuanLiXe\obj\Debug\QuanLiXe.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\QuanLiXe\QuanLiXe\bin\Debug\QuanLiXe.exe.config
+C:\Users\Admin\Downloads\QuanLiXe\QuanLiXe\bin\Debug\QuanLiXe.exe
+C:\Users\Admin\Downloads\QuanLiXe\QuanLiXe\bin\Debug\QuanLiXe.pdb
+C:\Users\Admin\Downloads\QuanLiXe\QuanLiXe\obj\Debug\QuanLiXe.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\QuanLiXe\QuanLiXe\obj\Debug\QuanLiXe.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\QuanLiXe\QuanLiXe\obj\Debug\QuanLiXe.exe
+C:\Users\Admin\Downloads\QuanLiXe\QuanLiXe\obj\Debug\QuanLiXe.pdb

@@ -1,0 +1,8 @@
+C:\Users\Admin\Documents\Data\Bài lab\Lập Trình Mạng\Lab4_2312616_PhanTrungHieu\Bài 2.Client\bin\Debug\Bài 2.Client.exe.config
+C:\Users\Admin\Documents\Data\Bài lab\Lập Trình Mạng\Lab4_2312616_PhanTrungHieu\Bài 2.Client\bin\Debug\Bài 2.Client.exe
+C:\Users\Admin\Documents\Data\Bài lab\Lập Trình Mạng\Lab4_2312616_PhanTrungHieu\Bài 2.Client\bin\Debug\Bài 2.Client.pdb
+C:\Users\Admin\Documents\Data\Bài lab\Lập Trình Mạng\Lab4_2312616_PhanTrungHieu\Bài 2.Client\obj\Debug\Bài 2.TCP Client.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Data\Bài lab\Lập Trình Mạng\Lab4_2312616_PhanTrungHieu\Bài 2.Client\obj\Debug\Bài 2.Client.exe.config
+C:\Users\Admin\Documents\Data\Bài lab\Lập Trình Mạng\Lab4_2312616_PhanTrungHieu\Bài 2.Client\obj\Debug\Bài 2.TCP Client.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Data\Bài lab\Lập Trình Mạng\Lab4_2312616_PhanTrungHieu\Bài 2.Client\obj\Debug\Bài 2.Client.exe
+C:\Users\Admin\Documents\Data\Bài lab\Lập Trình Mạng\Lab4_2312616_PhanTrungHieu\Bài 2.Client\obj\Debug\Bài 2.Client.pdb

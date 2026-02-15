@@ -1,0 +1,10 @@
+C:\Users\Admin\OneDrive\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\2312616_PhanTrungHieu_CTK47A\1.HuongDanCoBan\bin\Debug\1.HuongDanCoBan.exe.config
+C:\Users\Admin\OneDrive\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\2312616_PhanTrungHieu_CTK47A\1.HuongDanCoBan\bin\Debug\1.HuongDanCoBan.exe
+C:\Users\Admin\OneDrive\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\2312616_PhanTrungHieu_CTK47A\1.HuongDanCoBan\bin\Debug\1.HuongDanCoBan.pdb
+C:\Users\Admin\OneDrive\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\2312616_PhanTrungHieu_CTK47A\1.HuongDanCoBan\obj\Debug\1.HuongDanCoBan.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\2312616_PhanTrungHieu_CTK47A\1.HuongDanCoBan\obj\Debug\_1.HuongDanCoBan.MainForm.resources
+C:\Users\Admin\OneDrive\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\2312616_PhanTrungHieu_CTK47A\1.HuongDanCoBan\obj\Debug\_1.HuongDanCoBan.Properties.Resources.resources
+C:\Users\Admin\OneDrive\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\2312616_PhanTrungHieu_CTK47A\1.HuongDanCoBan\obj\Debug\1.HuongDanCoBan.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\2312616_PhanTrungHieu_CTK47A\1.HuongDanCoBan\obj\Debug\1.HuongDanCoBan.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\2312616_PhanTrungHieu_CTK47A\1.HuongDanCoBan\obj\Debug\1.HuongDanCoBan.exe
+C:\Users\Admin\OneDrive\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\2312616_PhanTrungHieu_CTK47A\1.HuongDanCoBan\obj\Debug\1.HuongDanCoBan.pdb

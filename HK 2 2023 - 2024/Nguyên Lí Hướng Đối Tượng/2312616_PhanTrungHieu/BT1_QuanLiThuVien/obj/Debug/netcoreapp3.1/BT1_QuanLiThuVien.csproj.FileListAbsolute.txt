@@ -1,0 +1,13 @@
+Z:\2312616_PhanTrungHieu\BT1_QuanLiThuVien\bin\Debug\netcoreapp3.1\BT1_QuanLiThuVien.exe
+Z:\2312616_PhanTrungHieu\BT1_QuanLiThuVien\bin\Debug\netcoreapp3.1\BT1_QuanLiThuVien.deps.json
+Z:\2312616_PhanTrungHieu\BT1_QuanLiThuVien\bin\Debug\netcoreapp3.1\BT1_QuanLiThuVien.runtimeconfig.json
+Z:\2312616_PhanTrungHieu\BT1_QuanLiThuVien\bin\Debug\netcoreapp3.1\BT1_QuanLiThuVien.runtimeconfig.dev.json
+Z:\2312616_PhanTrungHieu\BT1_QuanLiThuVien\bin\Debug\netcoreapp3.1\BT1_QuanLiThuVien.dll
+Z:\2312616_PhanTrungHieu\BT1_QuanLiThuVien\bin\Debug\netcoreapp3.1\BT1_QuanLiThuVien.pdb
+Z:\2312616_PhanTrungHieu\BT1_QuanLiThuVien\obj\Debug\netcoreapp3.1\BT1_QuanLiThuVien.csprojAssemblyReference.cache
+Z:\2312616_PhanTrungHieu\BT1_QuanLiThuVien\obj\Debug\netcoreapp3.1\BT1_QuanLiThuVien.AssemblyInfoInputs.cache
+Z:\2312616_PhanTrungHieu\BT1_QuanLiThuVien\obj\Debug\netcoreapp3.1\BT1_QuanLiThuVien.AssemblyInfo.cs
+Z:\2312616_PhanTrungHieu\BT1_QuanLiThuVien\obj\Debug\netcoreapp3.1\BT1_QuanLiThuVien.csproj.CoreCompileInputs.cache
+Z:\2312616_PhanTrungHieu\BT1_QuanLiThuVien\obj\Debug\netcoreapp3.1\BT1_QuanLiThuVien.dll
+Z:\2312616_PhanTrungHieu\BT1_QuanLiThuVien\obj\Debug\netcoreapp3.1\BT1_QuanLiThuVien.pdb
+Z:\2312616_PhanTrungHieu\BT1_QuanLiThuVien\obj\Debug\netcoreapp3.1\BT1_QuanLiThuVien.genruntimeconfig.cache

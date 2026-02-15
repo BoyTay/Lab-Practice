@@ -1,0 +1,42 @@
+C:\Bài lab\TapConNhom3\bin\Debug\net8.0\TapConNhom3.exe
+C:\Bài lab\TapConNhom3\bin\Debug\net8.0\TapConNhom3.deps.json
+C:\Bài lab\TapConNhom3\bin\Debug\net8.0\TapConNhom3.runtimeconfig.json
+C:\Bài lab\TapConNhom3\bin\Debug\net8.0\TapConNhom3.dll
+C:\Bài lab\TapConNhom3\bin\Debug\net8.0\TapConNhom3.pdb
+C:\Bài lab\TapConNhom3\obj\Debug\net8.0\TapConNhom3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Bài lab\TapConNhom3\obj\Debug\net8.0\TapConNhom3.AssemblyInfoInputs.cache
+C:\Bài lab\TapConNhom3\obj\Debug\net8.0\TapConNhom3.AssemblyInfo.cs
+C:\Bài lab\TapConNhom3\obj\Debug\net8.0\TapConNhom3.csproj.CoreCompileInputs.cache
+C:\Bài lab\TapConNhom3\obj\Debug\net8.0\TapConNhom3.dll
+C:\Bài lab\TapConNhom3\obj\Debug\net8.0\refint\TapConNhom3.dll
+C:\Bài lab\TapConNhom3\obj\Debug\net8.0\TapConNhom3.pdb
+C:\Bài lab\TapConNhom3\obj\Debug\net8.0\TapConNhom3.genruntimeconfig.cache
+C:\Bài lab\TapConNhom3\obj\Debug\net8.0\ref\TapConNhom3.dll
+D:\Bài lab\Toán Rời Rạc\TapConNhom3\bin\Debug\net8.0\TapConNhom3.exe
+D:\Bài lab\Toán Rời Rạc\TapConNhom3\bin\Debug\net8.0\TapConNhom3.deps.json
+D:\Bài lab\Toán Rời Rạc\TapConNhom3\bin\Debug\net8.0\TapConNhom3.runtimeconfig.json
+D:\Bài lab\Toán Rời Rạc\TapConNhom3\bin\Debug\net8.0\TapConNhom3.dll
+D:\Bài lab\Toán Rời Rạc\TapConNhom3\bin\Debug\net8.0\TapConNhom3.pdb
+D:\Bài lab\Toán Rời Rạc\TapConNhom3\obj\Debug\net8.0\TapConNhom3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bài lab\Toán Rời Rạc\TapConNhom3\obj\Debug\net8.0\TapConNhom3.AssemblyInfoInputs.cache
+D:\Bài lab\Toán Rời Rạc\TapConNhom3\obj\Debug\net8.0\TapConNhom3.AssemblyInfo.cs
+D:\Bài lab\Toán Rời Rạc\TapConNhom3\obj\Debug\net8.0\TapConNhom3.csproj.CoreCompileInputs.cache
+D:\Bài lab\Toán Rời Rạc\TapConNhom3\obj\Debug\net8.0\TapConNhom3.dll
+D:\Bài lab\Toán Rời Rạc\TapConNhom3\obj\Debug\net8.0\refint\TapConNhom3.dll
+D:\Bài lab\Toán Rời Rạc\TapConNhom3\obj\Debug\net8.0\TapConNhom3.pdb
+D:\Bài lab\Toán Rời Rạc\TapConNhom3\obj\Debug\net8.0\TapConNhom3.genruntimeconfig.cache
+D:\Bài lab\Toán Rời Rạc\TapConNhom3\obj\Debug\net8.0\ref\TapConNhom3.dll
+D:\Bài lab\Toán Rời Rạc\ND2_Lab1_Nhom3\bin\Debug\net8.0\TapConNhom3.exe
+D:\Bài lab\Toán Rời Rạc\ND2_Lab1_Nhom3\bin\Debug\net8.0\TapConNhom3.deps.json
+D:\Bài lab\Toán Rời Rạc\ND2_Lab1_Nhom3\bin\Debug\net8.0\TapConNhom3.runtimeconfig.json
+D:\Bài lab\Toán Rời Rạc\ND2_Lab1_Nhom3\bin\Debug\net8.0\TapConNhom3.dll
+D:\Bài lab\Toán Rời Rạc\ND2_Lab1_Nhom3\bin\Debug\net8.0\TapConNhom3.pdb
+D:\Bài lab\Toán Rời Rạc\ND2_Lab1_Nhom3\obj\Debug\net8.0\TapConNhom3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bài lab\Toán Rời Rạc\ND2_Lab1_Nhom3\obj\Debug\net8.0\TapConNhom3.AssemblyInfoInputs.cache
+D:\Bài lab\Toán Rời Rạc\ND2_Lab1_Nhom3\obj\Debug\net8.0\TapConNhom3.AssemblyInfo.cs
+D:\Bài lab\Toán Rời Rạc\ND2_Lab1_Nhom3\obj\Debug\net8.0\TapConNhom3.csproj.CoreCompileInputs.cache
+D:\Bài lab\Toán Rời Rạc\ND2_Lab1_Nhom3\obj\Debug\net8.0\TapConNhom3.dll
+D:\Bài lab\Toán Rời Rạc\ND2_Lab1_Nhom3\obj\Debug\net8.0\refint\TapConNhom3.dll
+D:\Bài lab\Toán Rời Rạc\ND2_Lab1_Nhom3\obj\Debug\net8.0\TapConNhom3.pdb
+D:\Bài lab\Toán Rời Rạc\ND2_Lab1_Nhom3\obj\Debug\net8.0\TapConNhom3.genruntimeconfig.cache
+D:\Bài lab\Toán Rời Rạc\ND2_Lab1_Nhom3\obj\Debug\net8.0\ref\TapConNhom3.dll

@@ -1,0 +1,21 @@
+C:\Users\PC602\source\repos\MyForm\MyForm\bin\Debug\MyForm.exe.config
+C:\Users\PC602\source\repos\MyForm\MyForm\bin\Debug\MyForm.exe
+C:\Users\PC602\source\repos\MyForm\MyForm\bin\Debug\MyForm.pdb
+C:\Users\PC602\source\repos\MyForm\MyForm\obj\Debug\MyForm.csproj.AssemblyReference.cache
+C:\Users\PC602\source\repos\MyForm\MyForm\obj\Debug\MyForm.MainForm.resources
+C:\Users\PC602\source\repos\MyForm\MyForm\obj\Debug\MyForm.Properties.Resources.resources
+C:\Users\PC602\source\repos\MyForm\MyForm\obj\Debug\MyForm.csproj.GenerateResource.cache
+C:\Users\PC602\source\repos\MyForm\MyForm\obj\Debug\MyForm.csproj.CoreCompileInputs.cache
+C:\Users\PC602\source\repos\MyForm\MyForm\obj\Debug\MyForm.exe
+C:\Users\PC602\source\repos\MyForm\MyForm\obj\Debug\MyForm.pdb
+C:\Users\Admin\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\MyForm\MyForm\bin\Debug\MyForm.exe.config
+C:\Users\Admin\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\MyForm\MyForm\bin\Debug\MyForm.exe
+C:\Users\Admin\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\MyForm\MyForm\bin\Debug\MyForm.pdb
+C:\Users\Admin\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\MyForm\MyForm\obj\Debug\MyForm.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\MyForm\MyForm\obj\Debug\MyForm.exe.config
+C:\Users\Admin\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\MyForm\MyForm\obj\Debug\MyForm.MainForm.resources
+C:\Users\Admin\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\MyForm\MyForm\obj\Debug\MyForm.Properties.Resources.resources
+C:\Users\Admin\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\MyForm\MyForm\obj\Debug\MyForm.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\MyForm\MyForm\obj\Debug\MyForm.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\MyForm\MyForm\obj\Debug\MyForm.exe
+C:\Users\Admin\Documents\Data\Bài lab\Phát Triển Ứng Dụng Desktop\MyForm\MyForm\obj\Debug\MyForm.pdb

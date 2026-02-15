@@ -1,0 +1,157 @@
+<html>
+
+<head>
+    <title>BT3.2a</title>
+    <style>
+        a:link {
+
+            color: maroon;
+        }
+
+        a:visited {
+
+            color: gray;
+
+        }
+
+        a:hover {
+
+            color: maroon;
+
+            background-color: #ffd9d9;
+
+        }
+
+        a:active {
+
+            color: red;
+
+            background-color: #ffd9d9;
+
+        }
+
+        a:focus {
+            color: maroon;
+            background-color: #ffd9d9;
+        }
+
+        li:first-child {
+            color: red;
+        }
+
+        li:last-child {
+            color: blue;
+        }
+
+        li:nth-child(2) {
+            color: green;
+        }
+
+        li:nth-child(3) {
+            color: yellow;
+        }
+
+        li:nth-child(4) {
+            color: purple;
+        }
+
+        li:nth-child(5) {
+            color: orange;
+        }
+
+        li:nth-child(6) {
+            color: brown;
+        }
+
+        li:nth-child(7) {
+            color: pink;
+        }
+
+        /* Định dạng label khi người dùng đánh dấu chọn */
+
+        input:checked+label {
+
+            color: red;
+
+        }
+
+        /* Định dạng ô chọn khi được chọn */
+
+        input[type="checkbox"]:checked {
+
+            box-shadow: 0 0 0 3px hotpink;
+
+        }
+
+        p::first-letter {
+
+            color: white;
+
+            background-color: #333;
+
+            border-radius: 2px;
+
+            font-size: 200%;
+
+            box-shadow: 3px 3px 0 yellow;
+
+            padding: 6px 3px;
+
+            margin-right: 5px;
+
+        }
+
+        p::before {
+
+            content: "Đọc thêm: ";
+
+            color: red;
+
+            font-weight: bold;
+
+        }
+
+        p::after {
+
+            content: "(Kết thúc)";
+
+            color: red;
+
+            font-weight: bold;
+
+        }
+
+        .xanh {
+
+            color: blue;
+
+        }
+    </style>
+</head>
+
+<body>
+    <a href="https://www.google.com">example</a>
+    <p>Một số nội dung cần học để làm web front-end</p>
+
+    <ul>
+
+        <li>HTML</li>
+
+        <li>CSS</li>
+
+        <li>JS</li>
+
+        <li>React</li>
+
+    </ul>
+    <div>
+
+        <input type="checkbox" name="my-checkbox" id="opt-in">
+
+        <label for="opt-in">Chọn</label>
+
+    </div>
+    <p>Ví dụ, <span class="xanh">chúng ta</span> sẽ làm nổi chữ cái đầu tiên của một đoạn </p>
+</body>
+
+</html>

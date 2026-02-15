@@ -1,0 +1,7 @@
+D:\Bài lab\Nguyên Lí Hướng Đối Tượngg\QuanLyDanhBa\QuanLyDanhBa\bin\Debug\QuanLyDanhBa.exe.config
+D:\Bài lab\Nguyên Lí Hướng Đối Tượngg\QuanLyDanhBa\QuanLyDanhBa\bin\Debug\QuanLyDanhBa.exe
+D:\Bài lab\Nguyên Lí Hướng Đối Tượngg\QuanLyDanhBa\QuanLyDanhBa\bin\Debug\QuanLyDanhBa.pdb
+D:\Bài lab\Nguyên Lí Hướng Đối Tượngg\QuanLyDanhBa\QuanLyDanhBa\obj\Debug\QuanLyDanhBa.csproj.AssemblyReference.cache
+D:\Bài lab\Nguyên Lí Hướng Đối Tượngg\QuanLyDanhBa\QuanLyDanhBa\obj\Debug\QuanLyDanhBa.csproj.CoreCompileInputs.cache
+D:\Bài lab\Nguyên Lí Hướng Đối Tượngg\QuanLyDanhBa\QuanLyDanhBa\obj\Debug\QuanLyDanhBa.exe
+D:\Bài lab\Nguyên Lí Hướng Đối Tượngg\QuanLyDanhBa\QuanLyDanhBa\obj\Debug\QuanLyDanhBa.pdb

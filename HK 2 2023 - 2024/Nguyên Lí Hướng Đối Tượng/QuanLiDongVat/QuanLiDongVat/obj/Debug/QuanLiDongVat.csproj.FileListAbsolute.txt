@@ -1,0 +1,14 @@
+Z:\QuanLiDongVat\QuanLiDongVat\bin\Debug\QuanLiDongVat.exe.config
+Z:\QuanLiDongVat\QuanLiDongVat\bin\Debug\QuanLiDongVat.exe
+Z:\QuanLiDongVat\QuanLiDongVat\bin\Debug\QuanLiDongVat.pdb
+Z:\QuanLiDongVat\QuanLiDongVat\obj\Debug\QuanLiDongVat.csproj.CoreCompileInputs.cache
+Z:\QuanLiDongVat\QuanLiDongVat\obj\Debug\QuanLiDongVat.exe
+Z:\QuanLiDongVat\QuanLiDongVat\obj\Debug\QuanLiDongVat.pdb
+D:\Bài lab\Nguyên Lí Hướng Đối Tượngg\QuanLiDongVat\QuanLiDongVat\bin\Debug\QuanLiDongVat.exe.config
+D:\Bài lab\Nguyên Lí Hướng Đối Tượngg\QuanLiDongVat\QuanLiDongVat\bin\Debug\QuanLiDongVat.exe
+D:\Bài lab\Nguyên Lí Hướng Đối Tượngg\QuanLiDongVat\QuanLiDongVat\bin\Debug\QuanLiDongVat.pdb
+D:\Bài lab\Nguyên Lí Hướng Đối Tượngg\QuanLiDongVat\QuanLiDongVat\obj\Debug\QuanLiDongVat.csproj.AssemblyReference.cache
+D:\Bài lab\Nguyên Lí Hướng Đối Tượngg\QuanLiDongVat\QuanLiDongVat\obj\Debug\QuanLiDongVat.csproj.CoreCompileInputs.cache
+D:\Bài lab\Nguyên Lí Hướng Đối Tượngg\QuanLiDongVat\QuanLiDongVat\obj\Debug\QuanLiDongVat.exe
+D:\Bài lab\Nguyên Lí Hướng Đối Tượngg\QuanLiDongVat\QuanLiDongVat\obj\Debug\QuanLiDongVat.pdb
+Z:\QuanLiDongVat\QuanLiDongVat\obj\Debug\QuanLiDongVat.csprojAssemblyReference.cache

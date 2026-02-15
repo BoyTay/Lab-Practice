@@ -1,0 +1,21 @@
+C:\Users\CICT\Downloads\Lab1_2312616_PhanTrungHieu\Bài 3\bin\Debug\Bài 3.exe.config
+C:\Users\CICT\Downloads\Lab1_2312616_PhanTrungHieu\Bài 3\bin\Debug\Bài 3.exe
+C:\Users\CICT\Downloads\Lab1_2312616_PhanTrungHieu\Bài 3\bin\Debug\Bài 3.pdb
+C:\Users\CICT\Downloads\Lab1_2312616_PhanTrungHieu\Bài 3\obj\Debug\Bài 3.csprojAssemblyReference.cache
+C:\Users\CICT\Downloads\Lab1_2312616_PhanTrungHieu\Bài 3\obj\Debug\Bài_3.Form1.resources
+C:\Users\CICT\Downloads\Lab1_2312616_PhanTrungHieu\Bài 3\obj\Debug\Bài_3.Properties.Resources.resources
+C:\Users\CICT\Downloads\Lab1_2312616_PhanTrungHieu\Bài 3\obj\Debug\Bài 3.csproj.GenerateResource.cache
+C:\Users\CICT\Downloads\Lab1_2312616_PhanTrungHieu\Bài 3\obj\Debug\Bài 3.csproj.CoreCompileInputs.cache
+C:\Users\CICT\Downloads\Lab1_2312616_PhanTrungHieu\Bài 3\obj\Debug\Bài 3.exe
+C:\Users\CICT\Downloads\Lab1_2312616_PhanTrungHieu\Bài 3\obj\Debug\Bài 3.pdb
+C:\Users\Admin\Documents\Data\Bài lab\Lập Trình Mạng\Lab1_2312616_PhanTrungHieu\Bài 3\bin\Debug\Bài 3.exe.config
+C:\Users\Admin\Documents\Data\Bài lab\Lập Trình Mạng\Lab1_2312616_PhanTrungHieu\Bài 3\bin\Debug\Bài 3.exe
+C:\Users\Admin\Documents\Data\Bài lab\Lập Trình Mạng\Lab1_2312616_PhanTrungHieu\Bài 3\bin\Debug\Bài 3.pdb
+C:\Users\Admin\Documents\Data\Bài lab\Lập Trình Mạng\Lab1_2312616_PhanTrungHieu\Bài 3\obj\Debug\Bài 3.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Data\Bài lab\Lập Trình Mạng\Lab1_2312616_PhanTrungHieu\Bài 3\obj\Debug\Bài 3.exe.config
+C:\Users\Admin\Documents\Data\Bài lab\Lập Trình Mạng\Lab1_2312616_PhanTrungHieu\Bài 3\obj\Debug\Bài_3.Form1.resources
+C:\Users\Admin\Documents\Data\Bài lab\Lập Trình Mạng\Lab1_2312616_PhanTrungHieu\Bài 3\obj\Debug\Bài_3.Properties.Resources.resources
+C:\Users\Admin\Documents\Data\Bài lab\Lập Trình Mạng\Lab1_2312616_PhanTrungHieu\Bài 3\obj\Debug\Bài 3.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\Data\Bài lab\Lập Trình Mạng\Lab1_2312616_PhanTrungHieu\Bài 3\obj\Debug\Bài 3.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Data\Bài lab\Lập Trình Mạng\Lab1_2312616_PhanTrungHieu\Bài 3\obj\Debug\Bài 3.exe
+C:\Users\Admin\Documents\Data\Bài lab\Lập Trình Mạng\Lab1_2312616_PhanTrungHieu\Bài 3\obj\Debug\Bài 3.pdb

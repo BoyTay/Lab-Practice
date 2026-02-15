@@ -1,0 +1,11 @@
+Car,Vinfast,11,4
+Motorcycle,Asama,5
+Motorcycle,Txed,6
+Car,Honda,34,6
+Car,Mazda,56,4
+Car,Mazda,34,5
+Car,Honda,25,6
+Motorcycle,Asama,10
+Motorcycle,Asama,5
+Car,BMW,56,4
+Car,Vinfast,11,4

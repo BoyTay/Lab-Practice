@@ -1,0 +1,93 @@
+﻿[
+  {
+    "MSSV": "2310001",
+    "HoLot": "Nguyen Van",
+    "Ten": "Huy",
+    "NgaySinh": "2002-03-15T00:00:00",
+    "Lop": "CTK23",
+    "GioiTinh": "Nam",
+    "CMND": "123456789",
+    "DienThoai": "0912345678",
+    "DiaChi": "123 Le Loi, Q1, HCM",
+    "MonHoc": [
+      "Mạng máy tính",
+      "Hệ điều hành"
+    ]
+  },
+  {
+    "MSSV": "2310002",
+    "HoLot": "Tran Thi",
+    "Ten": "Bich",
+    "NgaySinh": "2002-08-20T00:00:00",
+    "Lop": "CTK23",
+    "GioiTinh": "Nữ",
+    "CMND": "234567891",
+    "DienThoai": "0987654321",
+    "DiaChi": "45 Tran Hung Dao, Q5, HCM",
+    "MonHoc": [
+      "Lập trình CSDL",
+      "Đồ án cơ sở"
+    ]
+  },
+  {
+    "MSSV": "2310003",
+    "HoLot": "Le Hoang",
+    "Ten": "Cuong",
+    "NgaySinh": "2001-12-05T00:00:00",
+    "Lop": "CTK23",
+    "GioiTinh": "Nam",
+    "CMND": "345678912",
+    "DienThoai": "0909123456",
+    "DiaChi": "67 Nguyen Trai, Q3, HCM",
+    "MonHoc": [
+      "Lập trình mạng",
+      "An toàn và bảo mật hệ thống"
+    ]
+  },
+  {
+    "MSSV": "2310004",
+    "HoLot": "Pham Ngoc",
+    "Ten": "Dung",
+    "NgaySinh": "2003-07-11T00:00:00",
+    "Lop": "CTK23",
+    "GioiTinh": "Nữ",
+    "CMND": "456789123",
+    "DienThoai": "0938123456",
+    "DiaChi": "89 Cach Mang Thang 8, Q10, HCM",
+    "MonHoc": [
+      "Phương pháp NCKH",
+      "Lập trình trên thiết bị di động"
+    ]
+  },
+  {
+    "MSSV": "2310005",
+    "HoLot": "Vo Quang",
+    "Ten": "Em",
+    "NgaySinh": "2002-01-25T00:00:00",
+    "Lop": "CTK23",
+    "GioiTinh": "Nam",
+    "CMND": "567891234",
+    "DienThoai": "0977123456",
+    "DiaChi": "12 Vo Van Tan, Q3, HCM",
+    "MonHoc": [
+      "Mạng máy tính",
+      "Lập trình mạng",
+      "An toàn và bảo mật hệ thống"
+    ]
+  },
+  {
+    "MSSV": "2310006",
+    "HoLot": "Phan Trung",
+    "Ten": "Hieu",
+    "NgaySinh": "2005-03-18T00:00:00",
+    "Lop": "CTK23",
+    "GioiTinh": "Nam",
+    "CMND": "421842184",
+    "DienThoai": "0947636963",
+    "DiaChi": "5 Khe Sanh",
+    "MonHoc": [
+      "Mạng máy tính",
+      "Lập trình mạng"
+    ]
+  }
+]

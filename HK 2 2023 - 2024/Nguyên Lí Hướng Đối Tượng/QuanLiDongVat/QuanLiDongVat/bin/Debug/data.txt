@@ -1,0 +1,8 @@
+Lion,John,25
+Bird,Emily,30
+Bat,Michael,22
+Lion,John,28
+Bird,David,35
+Bat,Emily,27
+Lion,Dylan,12
+Bat,Phil,13

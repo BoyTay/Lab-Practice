@@ -1,0 +1,5 @@
+﻿  Program.cpp
+C:\Bài lab\Nguyên Lí Lập Trình\2312616_PTHieu_QLThietBi\BT Mang\ThuVien.h(30,44): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Bài lab\Nguyên Lí Lập Trình\2312616_PTHieu_QLThietBi\BT Mang\ThuVien.h(31,45): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Bài lab\Nguyên Lí Lập Trình\2312616_PTHieu_QLThietBi\BT Mang\Menu.h(36,6): warning C4101: 'vt': unreferenced local variable
+  BT Mang.vcxproj -> C:\Bài lab\Nguyên Lí Lập Trình\2312616_PTHieu_QLThietBi\x64\Debug\QLTB.exe
