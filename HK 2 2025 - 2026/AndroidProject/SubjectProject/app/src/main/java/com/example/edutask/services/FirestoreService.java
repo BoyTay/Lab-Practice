@@ -40,6 +40,23 @@ public class FirestoreService {
         db.collection("users").document(userId).get().addOnCompleteListener(listener);
     }
 
+    /**
+     * Convenience API: returns a Task so callers can attach listeners in their preferred style.
+     */
+    public Task<DocumentSnapshot> getUser(String userId) {
+        return db.collection("users").document(userId).get();
+    }
+
+    public Task<QuerySnapshot> getAllUsers() {
+        return db.collection("users").get();
+    }
+
+    public void getAllUsers(OnCompleteListener<QuerySnapshot> listener) {
+        db.collection("users")
+                .get()
+                .addOnCompleteListener(listener);
+    }
+
     // Subject operations
     public void addSubject(Subject subject, OnSuccessListener<Void> onSuccess, OnFailureListener onFailure) {
         Map<String, Object> subjectMap = new HashMap<>();
@@ -147,6 +164,15 @@ public class FirestoreService {
                 .get()
                 .addOnCompleteListener(listener);
     }
+    
+    public void getAssignmentsByUserAndStatus(String userId, String status, OnCompleteListener<QuerySnapshot> listener) {
+        db.collection("assignments")
+                .whereEqualTo("userId", userId)
+                .whereEqualTo("status", status)
+                .orderBy("deadline", Query.Direction.ASCENDING)
+                .get()
+                .addOnCompleteListener(listener);
+    }
 
     public void updateAssignmentStatus(String assignmentId, String status, OnSuccessListener<Void> onSuccess, OnFailureListener onFailure) {
         db.collection("assignments").document(assignmentId)
@@ -167,6 +193,7 @@ public class FirestoreService {
         Map<String, Object> groupMap = new HashMap<>();
         groupMap.put("groupId", group.getGroupId());
         groupMap.put("groupName", group.getGroupName());
+        groupMap.put("groupDesc", group.getGroupDesc());
         groupMap.put("members", group.getMembers());
         groupMap.put("leaderId", group.getLeaderId());
 

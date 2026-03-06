@@ -111,7 +111,7 @@ public class MLHUIMiner extends JFrame {
         // 2️⃣ α(level)
         Map<Integer, Integer> levelThr = new HashMap<>();
         levelThr.put(0, minUtil);
-        levelThr.put(1, (int) (1.5 * minUtil));
+        levelThr.put(1, (int) ( minUtil));
 
         // 3️⃣ Filter by TWU per level
         Map<Integer, List<String>> itemsByLevel = new HashMap<>();
@@ -237,27 +237,53 @@ public class MLHUIMiner extends JFrame {
 
     private UtilityList construct(UtilityList X, UtilityList Y) {
 
-        UtilityList XY = new UtilityList(Y.item);
+    UtilityList XY = new UtilityList(Y.item);
 
-        int i = 0, j = 0;
+    int i = 0, j = 0;
 
-        while (i < X.nodes.size() && j < Y.nodes.size()) {
+    while (i < X.nodes.size() && j < Y.nodes.size()) {
 
-            ULNode nx = X.nodes.get(i);
-            ULNode ny = Y.nodes.get(j);
+        ULNode nx = X.nodes.get(i);
+        ULNode ny = Y.nodes.get(j);
 
-            if (nx.tid == ny.tid) {
-                XY.add(new ULNode(nx.tid, nx.iutil + ny.iutil, ny.rutil));
-                i++; j++;
-            } else if (nx.tid < ny.tid) {
-                i++;
-            } else {
-                j++;
-            }
+        if (nx.tid == ny.tid) {
+
+            // FIX DOUBLE COUNT PREFIX
+            int newIutil = nx.iutil + ny.iutil - getCommonUtility(nx.tid, X);
+
+            XY.add(new ULNode(
+                    nx.tid,
+                    newIutil,
+                    ny.rutil
+            ));
+
+            i++;
+            j++;
+
+        } else if (nx.tid < ny.tid) {
+            i++;
+        } else {
+            j++;
         }
-
-        return XY;
     }
+
+    return XY;
+}
+    private int getCommonUtility(int tid, UtilityList X) {
+
+    // Với implementation hiện tại của bạn,
+    // prefix utility chính là phần đã được tính trong X trước đó.
+    // Để tránh double count trong level ≥ 3,
+    // ta trừ phần utility của prefix (đã có trong X)
+
+    for (ULNode n : X.nodes) {
+        if (n.tid == tid) {
+            return n.iutil - utilityOf(X.item, database.get(tid));
+        }
+    }
+
+    return 0;
+}
 
     // =========================================================
     // ====================== TWU ==============================
@@ -386,6 +412,7 @@ public class MLHUIMiner extends JFrame {
             sumRutil += n.rutil;
         }
     }
+    
 
     // =========================================================
 

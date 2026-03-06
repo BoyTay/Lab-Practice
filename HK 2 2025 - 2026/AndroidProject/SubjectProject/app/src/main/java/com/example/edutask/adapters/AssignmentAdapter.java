@@ -1,16 +1,21 @@
 package com.example.edutask.adapters;
 
+import android.content.Context;
+import android.content.res.ColorStateList;
 import android.graphics.Color;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.ImageView;
 import android.widget.TextView;
 
 import androidx.annotation.NonNull;
+import androidx.core.content.ContextCompat;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.example.edutask.R;
 import com.example.edutask.models.Assignment;
+import com.google.android.material.chip.Chip;
 
 import java.text.SimpleDateFormat;
 import java.util.List;
@@ -45,6 +50,8 @@ public class AssignmentAdapter extends RecyclerView.Adapter<AssignmentAdapter.As
     @Override
     public void onBindViewHolder(@NonNull AssignmentViewHolder holder, int position) {
         Assignment assignment = assignmentList.get(position);
+        Context context = holder.itemView.getContext();
+
         holder.tvTitle.setText(assignment.getTitle());
         holder.tvDescription.setText(assignment.getDescription());
 
@@ -54,32 +61,36 @@ public class AssignmentAdapter extends RecyclerView.Adapter<AssignmentAdapter.As
         }
 
         // Status display
-        String statusText = "";
-        int statusColor = Color.GRAY;
+        String statusText;
+        int statusColorRes;
         switch (assignment.getStatus()) {
-            case Assignment.STATUS_NOT_STARTED:
-                statusText = "Chưa làm";
-                statusColor = Color.RED;
+            case Assignment.STATUS_COMPLETED:
+                statusText = "Hoàn thành";
+                statusColorRes = R.color.status_completed;
                 break;
             case Assignment.STATUS_DOING:
                 statusText = "Đang làm";
-                statusColor = Color.YELLOW;
+                statusColorRes = R.color.status_in_progress;
                 break;
-            case Assignment.STATUS_COMPLETED:
-                statusText = "Hoàn thành";
-                statusColor = Color.GREEN;
+            default:
+                statusText = "Chưa làm";
+                statusColorRes = R.color.status_not_started;
                 break;
         }
-        holder.tvStatus.setText(statusText);
-        holder.tvStatus.setTextColor(statusColor);
+        holder.chipStatus.setText(statusText);
+        holder.chipStatus.setChipBackgroundColor(ColorStateList.valueOf(ContextCompat.getColor(context, statusColorRes)));
 
         // Overdue indicator
         if (assignment.isOverdue()) {
-            holder.tvDeadline.setTextColor(Color.RED);
+            holder.tvDeadline.setTextColor(ContextCompat.getColor(context, R.color.status_overdue));
             holder.tvDeadline.setText(holder.tvDeadline.getText() + " (QUÁ HẠN)");
+            holder.ivCalendar.setImageTintList(ColorStateList.valueOf(ContextCompat.getColor(context, R.color.status_overdue)));
+        } else {
+            holder.tvDeadline.setTextColor(Color.GRAY);
+            holder.ivCalendar.setImageTintList(ColorStateList.valueOf(Color.GRAY));
         }
 
-        holder.tvIsGroup.setText(assignment.isGroup() ? "Nhóm" : "Cá nhân");
+        holder.chipType.setText(assignment.isGroup() ? "Nhóm" : "Cá nhân");
 
         // Status change buttons
         holder.itemView.setOnClickListener(v -> {
@@ -107,15 +118,18 @@ public class AssignmentAdapter extends RecyclerView.Adapter<AssignmentAdapter.As
     }
 
     static class AssignmentViewHolder extends RecyclerView.ViewHolder {
-        TextView tvTitle, tvDescription, tvDeadline, tvStatus, tvIsGroup;
+        TextView tvTitle, tvDescription, tvDeadline;
+        Chip chipStatus, chipType;
+        ImageView ivCalendar;
 
         AssignmentViewHolder(@NonNull View itemView) {
             super(itemView);
             tvTitle = itemView.findViewById(R.id.tvTitle);
             tvDescription = itemView.findViewById(R.id.tvDescription);
             tvDeadline = itemView.findViewById(R.id.tvDeadline);
-            tvStatus = itemView.findViewById(R.id.tvStatus);
-            tvIsGroup = itemView.findViewById(R.id.tvIsGroup);
+            chipStatus = itemView.findViewById(R.id.chipStatus);
+            chipType = itemView.findViewById(R.id.chipType);
+            ivCalendar = itemView.findViewById(R.id.ivCalendar);
         }
     }
 }

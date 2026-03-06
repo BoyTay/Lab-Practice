@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_home_24"
+        android:title="Trang chủ" />
+    <item
+        android:id="@+id/navigation_group"
+        android:icon="@drawable/ic_group_24"
+        android:title="Nhóm" />
+    <item
+        android:id="@+id/placeholder"
+        android:title="" 
+        android:enabled="false"/>
+    <item
+        android:id="@+id/navigation_calendar"
+        android:icon="@drawable/ic_calendar_month_24"
+        android:title="Lịch" />
+    <item
+        android:id="@+id/navigation_profile"
+        android:icon="@drawable/ic_person_24"
+        android:title="Hồ sơ" />
+</menu>

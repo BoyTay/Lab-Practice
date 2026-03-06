@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
-<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+<com.google.android.material.card.MaterialCardView xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    android:layout_margin="8dp"
-    app:cardCornerRadius="8dp"
-    app:cardElevation="4dp">
+    android:layout_marginStart="16dp"
+    android:layout_marginTop="8dp"
+    android:layout_marginEnd="16dp"
+    android:layout_marginBottom="8dp"
+    app:cardCornerRadius="12dp"
+    app:cardElevation="4dp"
+    app:strokeWidth="1dp"
+    app:strokeColor="#E0E0E0">
 
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="match_parent"
@@ -16,57 +22,78 @@
             android:id="@+id/tvTitle"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
-            android:text="Tên bài tập"
+            android:ellipsize="end"
+            android:maxLines="1"
+            android:textColor="@color/black"
             android:textSize="18sp"
             android:textStyle="bold"
-            app:layout_constraintEnd_toStartOf="@+id/tvStatus"
+            app:layout_constraintEnd_toStartOf="@+id/chipStatus"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toTopOf="parent" />
-
-        <TextView
-            android:id="@+id/tvStatus"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="Chưa làm"
-            android:textSize="12sp"
-            android:textStyle="bold"
-            app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintTop_toTopOf="parent" />
+            app:layout_constraintTop_toTopOf="parent"
+            tools:text="Tên bài tập rất là dài để test ellipsize" />
 
         <TextView
             android:id="@+id/tvDescription"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
-            android:text="Mô tả bài tập"
+            android:layout_marginTop="4dp"
+            android:ellipsize="end"
+            android:maxLines="2"
             android:textSize="14sp"
-            android:layout_marginTop="8dp"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/tvTitle" />
+            app:layout_constraintTop_toBottomOf="@id/tvTitle"
+            tools:text="Mô tả chi tiết của bài tập này để xem nó hiển thị như thế nào trên giao diện người dùng." />
+
+        <ImageView
+            android:id="@+id/ivCalendar"
+            android:layout_width="16dp"
+            android:layout_height="16dp"
+            android:layout_marginTop="12dp"
+            android:src="@drawable/ic_baseline_calendar_today_24"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/tvDescription"
+            app:tint="@color/status_overdue" />
 
         <TextView
             android:id="@+id/tvDeadline"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
-            android:text="Deadline: 20/01/2026"
+            android:layout_marginStart="8dp"
+            android:textColor="@color/status_overdue"
             android:textSize="14sp"
             android:textStyle="bold"
-            android:layout_marginTop="8dp"
-            app:layout_constraintEnd_toStartOf="@+id/tvIsGroup"
-            app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/tvDescription" />
-
-        <TextView
-            android:id="@+id/tvIsGroup"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="Cá nhân"
-            android:textSize="12sp"
-            android:background="#E0E0E0"
-            android:padding="4dp"
+            app:layout_constraintBottom_toBottomOf="@id/ivCalendar"
             app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/tvTitle" />
+            app:layout_constraintStart_toEndOf="@id/ivCalendar"
+            app:layout_constraintTop_toTopOf="@id/ivCalendar"
+            tools:text="Deadline: 20/01/2026 (QUÁ HẠN)" />
+
+        <com.google.android.material.chip.Chip
+            android:id="@+id/chipStatus"
+            android:layout_width="wrap_content"
+            android:layout_height="28dp"
+            android:textSize="12sp"
+            android:textStyle="bold"
+            app:chipBackgroundColor="@color/status_in_progress"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            tools:text="Đang làm" />
+
+        <com.google.android.material.chip.Chip
+            android:id="@+id/chipType"
+            android:layout_width="wrap_content"
+            android:layout_height="28dp"
+            android:layout_marginTop="8dp"
+            android:textSize="12sp"
+            app:chipBackgroundColor="@color/colorPrimary"
+            app:chipStartPadding="10dp"
+            app:chipEndPadding="10dp"
+            android:textColor="@color/white"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/chipStatus"
+            tools:text="Nhóm" />
 
     </androidx.constraintlayout.widget.ConstraintLayout>
 
-</androidx.cardview.widget.CardView>
+</com.google.android.material.card.MaterialCardView>

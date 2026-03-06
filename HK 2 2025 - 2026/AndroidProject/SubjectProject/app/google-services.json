@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "481647001316",
-    "project_id": "edutask-b4641",
-    "storage_bucket": "edutask-b4641.firebasestorage.app"
+    "project_number": "10085781516",
+    "project_id": "edutask-4fa62",
+    "storage_bucket": "edutask-4fa62.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:481647001316:android:0934a0c808e6dda79bf6f1",
+        "mobilesdk_app_id": "1:10085781516:android:d38c62eae5115aecf91e29",
         "android_client_info": {
           "package_name": "com.example.edutask"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyAMuYa90TCGoXh_OQYf6bV_zICAb0S0AiI"
+          "current_key": "AIzaSyDqnsegsftO1_Wi9fs982gXNND1PfO3N2s"
         }
       ],
       "services": {

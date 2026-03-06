@@ -3,6 +3,7 @@ package com.example.edutask.adapters;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.ImageView;
 import android.widget.TextView;
 
 import androidx.annotation.NonNull;
@@ -37,7 +38,7 @@ public class GroupAdapter extends RecyclerView.Adapter<GroupAdapter.GroupViewHol
     public void onBindViewHolder(@NonNull GroupViewHolder holder, int position) {
         Group group = groupList.get(position);
         holder.tvGroupName.setText(group.getGroupName());
-        holder.tvMemberCount.setText("Thành viên: " + (group.getMembers() != null ? group.getMembers().size() : 0));
+        holder.tvMemberCount.setText("👥 " + (group.getMembers() != null ? group.getMembers().size() : 0) + " thành viên");
 
         holder.itemView.setOnClickListener(v -> clickListener.onGroupClick(group));
     }

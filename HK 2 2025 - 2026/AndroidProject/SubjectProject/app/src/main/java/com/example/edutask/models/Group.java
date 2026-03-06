@@ -6,6 +6,7 @@ import java.util.List;
 public class Group implements Serializable {
     private String groupId;
     private String groupName;
+    private String groupDesc;
     private List<String> members; // List of user IDs
     private String leaderId; // Group leader/creator
 
@@ -13,9 +14,10 @@ public class Group implements Serializable {
         // Default constructor required for Firestore
     }
 
-    public Group(String groupId, String groupName, List<String> members, String leaderId) {
+    public Group(String groupId, String groupName, String groupDesc, List<String> members, String leaderId) {
         this.groupId = groupId;
         this.groupName = groupName;
+        this.groupDesc = groupDesc;
         this.members = members;
         this.leaderId = leaderId;
     }
@@ -34,6 +36,14 @@ public class Group implements Serializable {
 
     public void setGroupName(String groupName) {
         this.groupName = groupName;
+    }
+
+    public String getGroupDesc() {
+        return groupDesc;
+    }
+
+    public void setGroupDesc(String groupDesc) {
+        this.groupDesc = groupDesc;
     }
 
     public List<String> getMembers() {

@@ -1,11 +1,9 @@
 package com.example.edutask.fragments;
 
-import android.app.AlertDialog;
 import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.EditText;
 import android.widget.Toast;
 
 import androidx.annotation.NonNull;
@@ -19,43 +17,44 @@ import com.example.edutask.adapters.GroupAdapter;
 import com.example.edutask.models.Group;
 import com.example.edutask.services.FirebaseAuthService;
 import com.example.edutask.services.FirestoreService;
-import com.google.android.gms.tasks.OnCompleteListener;
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
 import com.google.firebase.auth.FirebaseUser;
 import com.google.firebase.firestore.QueryDocumentSnapshot;
-import com.google.firebase.firestore.QuerySnapshot;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
-import java.util.UUID;
 
 public class GroupsFragment extends Fragment {
+
     private RecyclerView recyclerView;
-    private FloatingActionButton fabAdd;
     private GroupAdapter adapter;
     private List<Group> groupList;
     private FirestoreService firestoreService;
     private FirebaseAuthService authService;
+    private View emptyStateView;
+    private FloatingActionButton fabCreateGroup;
 
     @Nullable
     @Override
     public View onCreateView(@NonNull LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
         View view = inflater.inflate(R.layout.fragment_groups, container, false);
 
+        // Initialize views and services
         recyclerView = view.findViewById(R.id.recyclerView);
-        fabAdd = view.findViewById(R.id.fabAdd);
-
+        emptyStateView = view.findViewById(R.id.layoutEmptyState);
+        fabCreateGroup = view.findViewById(R.id.fabCreateGroup);
         firestoreService = new FirestoreService();
         authService = new FirebaseAuthService();
 
+        // Setup RecyclerView
         groupList = new ArrayList<>();
         adapter = new GroupAdapter(groupList, this::showGroupDetails);
         recyclerView.setLayoutManager(new LinearLayoutManager(getContext()));
         recyclerView.setAdapter(adapter);
 
-        fabAdd.setOnClickListener(v -> showCreateGroupDialog());
+        fabCreateGroup.setOnClickListener(v -> openCreateGroupScreen());
 
+        // Load groups from Firestore
         loadGroups();
 
         return view;
@@ -63,84 +62,46 @@ public class GroupsFragment extends Fragment {
 
     private void loadGroups() {
         FirebaseUser user = authService.getCurrentUser();
-        if (user == null) return;
+        if (user == null) {
+            updateEmptyState();
+            return;
+        }
 
         firestoreService.getGroupsByMember(user.getUid(), task -> {
             if (task.isSuccessful()) {
                 groupList.clear();
                 for (QueryDocumentSnapshot document : task.getResult()) {
-                    Group group = new Group(
-                            document.getId(),
-                            document.getString("groupName"),
-                            (List<String>) document.get("members"),
-                            document.getString("leaderId")
-                    );
+                    Group group = document.toObject(Group.class);
+                    group.setGroupId(document.getId());
                     groupList.add(group);
                 }
                 adapter.notifyDataSetChanged();
+                updateEmptyState();
+            } else {
+                Toast.makeText(getContext(), "Không thể tải danh sách nhóm", Toast.LENGTH_SHORT).show();
+                updateEmptyState();
             }
         });
     }
 
-    private void showCreateGroupDialog() {
-        AlertDialog.Builder builder = new AlertDialog.Builder(getContext());
-        View dialogView = LayoutInflater.from(getContext()).inflate(R.layout.dialog_create_group, null);
-        builder.setView(dialogView);
+    private void updateEmptyState() {
+        if (emptyStateView == null || recyclerView == null) return;
+        boolean isEmpty = groupList == null || groupList.isEmpty();
+        emptyStateView.setVisibility(isEmpty ? View.VISIBLE : View.GONE);
+        recyclerView.setVisibility(isEmpty ? View.GONE : View.VISIBLE);
+    }
 
-        EditText etGroupName = dialogView.findViewById(R.id.etGroupName);
-
-        builder.setPositiveButton("Tạo", (dialog, which) -> {
-            String groupName = etGroupName.getText().toString().trim();
-
-            if (groupName.isEmpty()) {
-                Toast.makeText(getContext(), "Vui lòng nhập tên nhóm", Toast.LENGTH_SHORT).show();
-                return;
-            }
-
-            FirebaseUser user = authService.getCurrentUser();
-            if (user == null) return;
-
-            Group group = new Group(
-                    UUID.randomUUID().toString(),
-                    groupName,
-                    Arrays.asList(user.getUid()),
-                    user.getUid()
-            );
-
-            firestoreService.createGroup(group,
-                    documentReference -> {
-                        Toast.makeText(getContext(), "Tạo nhóm thành công!", Toast.LENGTH_SHORT).show();
-                        loadGroups();
-                    },
-                    e -> Toast.makeText(getContext(), "Lỗi: " + e.getMessage(), Toast.LENGTH_SHORT).show()
-            );
-        });
-
-        builder.setNegativeButton("Hủy", null);
-        builder.show();
+    private void openCreateGroupScreen() {
+        if (getActivity() == null) return;
+        getActivity().getSupportFragmentManager()
+                .beginTransaction()
+                .replace(R.id.fragment_container, new CreateGroupFragment())
+                .addToBackStack(null)
+                .commit();
     }
 
     private void showGroupDetails(Group group) {
-        FirebaseUser user = authService.getCurrentUser();
-        if (user == null) return;
-
-        AlertDialog.Builder builder = new AlertDialog.Builder(getContext());
-        builder.setTitle(group.getGroupName());
-        builder.setMessage("Thành viên: " + (group.getMembers() != null ? group.getMembers().size() : 0) + " người");
-
-        if (group.getLeaderId().equals(user.getUid())) {
-            // Show invite option for leader
-            EditText etEmail = new EditText(getContext());
-            etEmail.setHint("Email thành viên");
-            builder.setView(etEmail);
-            builder.setPositiveButton("Mời", (dialog, which) -> {
-                String email = etEmail.getText().toString().trim();
-                // In a real app, you would look up user by email and add to group
-                Toast.makeText(getContext(), "Tính năng mời thành viên đang được phát triển", Toast.LENGTH_SHORT).show();
-            });
-        }
-
-        builder.setNegativeButton("Đóng", null);
-        builder.show();
+        // In a real app, you would navigate to a new fragment to show group details.
+        Toast.makeText(getContext(), "Xem chi tiết nhóm: " + group.getGroupName(), Toast.LENGTH_SHORT).show();
     }
 }

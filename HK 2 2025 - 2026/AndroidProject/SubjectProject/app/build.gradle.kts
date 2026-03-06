@@ -44,6 +44,7 @@ dependencies {
     implementation(libs.firebase.firestore)
     implementation(libs.firebase.messaging)
     implementation("com.google.firebase:firebase-analytics")
+
     
     // Navigation
     implementation(libs.navigation.fragment)
@@ -56,6 +57,7 @@ dependencies {
     // UI Components
     implementation(libs.recyclerview)
     implementation(libs.cardview)
+    implementation("de.hdodenhof:circleimageview:3.1.0")
     
     // Testing
     testImplementation(libs.junit)

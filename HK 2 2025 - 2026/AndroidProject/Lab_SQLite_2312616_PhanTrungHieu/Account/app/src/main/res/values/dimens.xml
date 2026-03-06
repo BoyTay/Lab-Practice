@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="toast_horizontal_padding">20dp</dimen>
+    <dimen name="toast_vertical_padding">12dp</dimen>
+    <dimen name="toast_icon_size">20dp</dimen>
+    <dimen name="toast_icon_spacing">12dp</dimen>
+    <dimen name="toast_bottom_offset">120dp</dimen>
+</resources>
+

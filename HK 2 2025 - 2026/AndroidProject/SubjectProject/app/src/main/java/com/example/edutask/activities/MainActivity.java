@@ -1,25 +1,47 @@
 package com.example.edutask.activities;
 
+import android.app.AlertDialog;
+import android.app.DatePickerDialog;
 import android.content.Intent;
 import android.os.Bundle;
-import android.view.Menu;
-import android.view.MenuItem;
+import android.view.View;
+import android.widget.ArrayAdapter;
+import android.widget.EditText;
+import android.widget.Spinner;
+import android.widget.Toast;
 
-import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.fragment.app.Fragment;
 
 import com.example.edutask.R;
-import com.example.edutask.fragments.AssignmentsFragment;
+import com.example.edutask.fragments.CalendarFragment;
+import com.example.edutask.fragments.CreateGroupFragment;
 import com.example.edutask.fragments.GroupsFragment;
-import com.example.edutask.fragments.StatisticsFragment;
-import com.example.edutask.fragments.SubjectsFragment;
+import com.example.edutask.fragments.HomeFragment;
+import com.example.edutask.fragments.ProfileFragment;
+import com.example.edutask.models.Assignment;
+import com.example.edutask.models.Subject;
 import com.example.edutask.services.FirebaseAuthService;
+import com.example.edutask.services.FirestoreService;
+import com.example.edutask.services.NotificationService;
 import com.google.android.material.bottomnavigation.BottomNavigationView;
+import com.google.android.material.floatingactionbutton.FloatingActionButton;
+import com.google.firebase.auth.FirebaseUser;
+import com.google.firebase.firestore.QueryDocumentSnapshot;
+
+import java.text.SimpleDateFormat;
+import java.util.ArrayList;
+import java.util.Calendar;
+import java.util.List;
+import java.util.Locale;
+import java.util.UUID;
 
 public class MainActivity extends AppCompatActivity {
-    private BottomNavigationView bottomNavigationView;
+
     private FirebaseAuthService authService;
+    private FirestoreService firestoreService;
+    private NotificationService notificationService;
+    private List<Subject> subjectList;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -27,67 +49,126 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         authService = new FirebaseAuthService();
+        firestoreService = new FirestoreService();
+        notificationService = new NotificationService(this);
+        subjectList = new ArrayList<>();
 
-        // Check if user is logged in
         if (!authService.isLoggedIn()) {
             startActivity(new Intent(this, LoginActivity.class));
             finish();
             return;
         }
 
-        bottomNavigationView = findViewById(R.id.bottomNavigationView);
+        BottomNavigationView bottomNavigationView = findViewById(R.id.bottomNavigationView);
+        FloatingActionButton fab = findViewById(R.id.fab);
 
-        // Nút đăng xuất rõ ràng trên UI
-        findViewById(R.id.btnLogout).setOnClickListener(v -> {
-            authService.logout();
-            startActivity(new Intent(this, LoginActivity.class));
-            finish();
+        bottomNavigationView.setBackground(null);
+        bottomNavigationView.getMenu().getItem(2).setEnabled(false);
+
+        fab.setOnClickListener(v -> {
+            Fragment currentFragment = getSupportFragmentManager().findFragmentById(R.id.fragment_container);
+            if (currentFragment instanceof GroupsFragment) {
+                getSupportFragmentManager().beginTransaction()
+                        .replace(R.id.fragment_container, new CreateGroupFragment())
+                        .addToBackStack(null)
+                        .commit();
+            } else {
+                showAddAssignmentDialog();
+            }
         });
+
         bottomNavigationView.setOnItemSelectedListener(item -> {
             Fragment selectedFragment = null;
             int itemId = item.getItemId();
 
-            if (itemId == R.id.nav_subjects) {
-                selectedFragment = new SubjectsFragment();
-            } else if (itemId == R.id.nav_assignments) {
-                selectedFragment = new AssignmentsFragment();
-            } else if (itemId == R.id.nav_groups) {
+            if (itemId == R.id.navigation_home) {
+                selectedFragment = new HomeFragment();
+            } else if (itemId == R.id.navigation_group) {
                 selectedFragment = new GroupsFragment();
-            } else if (itemId == R.id.nav_statistics) {
-                selectedFragment = new StatisticsFragment();
+            } else if (itemId == R.id.navigation_calendar) {
+                selectedFragment = new CalendarFragment();
+            } else if (itemId == R.id.navigation_profile) {
+                selectedFragment = new ProfileFragment();
             }
 
             if (selectedFragment != null) {
-                getSupportFragmentManager().beginTransaction()
-                        .replace(R.id.fragmentContainer, selectedFragment)
-                        .commit();
+                getSupportFragmentManager().beginTransaction().replace(R.id.fragment_container, selectedFragment).commit();
                 return true;
             }
             return false;
         });
 
-        // Load default fragment
         if (savedInstanceState == null) {
-            getSupportFragmentManager().beginTransaction()
-                    .replace(R.id.fragmentContainer, new SubjectsFragment())
-                    .commit();
+            bottomNavigationView.setSelectedItemId(R.id.navigation_home);
         }
+        
+        loadSubjects();
     }
 
-    @Override
-    public boolean onCreateOptionsMenu(Menu menu) {
-        getMenuInflater().inflate(R.menu.main_menu, menu);
-        return true;
+    private void loadSubjects() {
+        FirebaseUser user = authService.getCurrentUser();
+        if (user == null) return;
+
+        firestoreService.getSubjectsByUser(user.getUid(), task -> {
+            if (task.isSuccessful()) {
+                subjectList.clear();
+                for (QueryDocumentSnapshot document : task.getResult()) {
+                    subjectList.add(document.toObject(Subject.class));
+                }
+            }
+        });
     }
 
-    @Override
-    public boolean onOptionsItemSelected(@NonNull MenuItem item) {
-        if (item.getItemId() == R.id.menu_logout) {
-            authService.logout();
-            startActivity(new Intent(this, LoginActivity.class));
-            finish();
-            return true;
+    private void showAddAssignmentDialog() {
+        if (subjectList.isEmpty()) {
+            Toast.makeText(this, "Vui lòng thêm môn học trước!", Toast.LENGTH_SHORT).show();
+            return;
         }
-        return super.onOptionsItemSelected(item);
+
+        AlertDialog.Builder builder = new AlertDialog.Builder(this);
+        View dialogView = getLayoutInflater().inflate(R.layout.dialog_add_assignment, null);
+        builder.setView(dialogView);
+
+        final EditText etTitle = dialogView.findViewById(R.id.etTitle);
+        final EditText etDeadline = dialogView.findViewById(R.id.etDeadline);
+        final Spinner spinnerSubject = dialogView.findViewById(R.id.spinnerSubject);
+
+        ArrayAdapter<Subject> subjectAdapter = new ArrayAdapter<>(this, android.R.layout.simple_spinner_item, subjectList);
+        subjectAdapter.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item);
+        spinnerSubject.setAdapter(subjectAdapter);
+
+        final Calendar calendar = Calendar.getInstance();
+        etDeadline.setOnClickListener(v -> {
+            new DatePickerDialog(this, (view, year, month, day) -> {
+                calendar.set(year, month, day);
+                SimpleDateFormat sdf = new SimpleDateFormat("dd/MM/yyyy", Locale.getDefault());
+                etDeadline.setText(sdf.format(calendar.getTime()));
+            }, calendar.get(Calendar.YEAR), calendar.get(Calendar.MONTH), calendar.get(Calendar.DAY_OF_MONTH)).show();
+        });
+
+        builder.setPositiveButton("Thêm", (dialog, which) -> {
+            String title = etTitle.getText().toString().trim();
+            if (title.isEmpty() || etDeadline.getText().toString().isEmpty()) {
+                Toast.makeText(this, "Vui lòng điền đầy đủ thông tin", Toast.LENGTH_SHORT).show();
+                return;
+            }
+            Subject selectedSubject = (Subject) spinnerSubject.getSelectedItem();
+            FirebaseUser user = authService.getCurrentUser();
+            if (user == null) return;
+
+            Assignment assignment = new Assignment(UUID.randomUUID().toString(), selectedSubject.getSubjectId(), title, "", calendar.getTime(), Assignment.STATUS_NOT_STARTED, false, user.getUid());
+
+            firestoreService.addAssignment(assignment,
+                    documentReference -> {
+                        Toast.makeText(this, "Thêm bài tập thành công!", Toast.LENGTH_SHORT).show();
+                        notificationService.scheduleDeadlineReminders(assignment);
+                        Fragment currentFragment = getSupportFragmentManager().findFragmentById(R.id.fragment_container);
+                        if (currentFragment instanceof HomeFragment) {
+                            ((HomeFragment) currentFragment).refreshData();
+                        }
+                    },
+                    e -> Toast.makeText(this, "Lỗi: " + e.getMessage(), Toast.LENGTH_SHORT).show());
+        });
+        builder.setNegativeButton("Hủy", null).show();
     }
 }

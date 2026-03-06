@@ -9,9 +9,9 @@
               <option name="connection">
                 <ConnectionSetting>
                   <option name="appId" value="com.example.edutask" />
-                  <option name="mobileSdkAppId" value="1:481647001316:android:0934a0c808e6dda79bf6f1" />
-                  <option name="projectId" value="edutask-b4641" />
-                  <option name="projectNumber" value="481647001316" />
+                  <option name="mobileSdkAppId" value="1:10085781516:android:d38c62eae5115aecf91e29" />
+                  <option name="projectId" value="edutask-4fa62" />
+                  <option name="projectNumber" value="10085781516" />
                 </ConnectionSetting>
               </option>
               <option name="signal" value="SIGNAL_UNSPECIFIED" />

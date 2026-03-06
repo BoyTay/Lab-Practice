@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Base Colors -->
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <!-- App Theme Colors (Orange Palette) -->
+    <color name="colorPrimary">#F9A825</color>
+    <color name="colorPrimaryDark">#C77C02</color>
+    <color name="colorAccent">#FFC107</color>
+    <color name="colorBackground">#FFFAF5</color>
+    <color name="colorSurface">#FFFFFF</color>
+    <color name="colorOnPrimary">#FFFFFF</color>
+    <color name="colorOnBackground">#333333</color>
+    <color name="colorOnSurface">#333333</color>
+    <color name="textColorPrimary">#212121</color>
+    <color name="textColorSecondary">#757575</color>
+    <color name="colorLogout">#FF4949</color>
+
+    <!-- Status Colors -->
+    <color name="status_completed">#28A745</color>
+    <color name="status_in_progress">#FFC107</color>
+    <color name="status_not_started">#6C757D</color>
+    <color name="status_overdue">#DC3545</color>
 </resources>
