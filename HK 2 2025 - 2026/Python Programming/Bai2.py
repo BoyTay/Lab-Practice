@@ -183,40 +183,33 @@ def is_prime(n):
 def is_fib(n):
     return la_so_chinh_phuong(5*n*n + 4) or la_so_chinh_phuong(5*n*n - 4)
 
-# ── Hàm chính dùng match case ────────────────────────────
+# ── Hàm xử lý match case ────────────────────────────────
 def xu_ly_mang(arr, chuc_nang, *args):
     match chuc_nang:
         case "a":
             return [x for x in arr if x % 2 != 0 and x % 5 != 0]
-
         case "b":
             return [x for x in arr if is_fib(x)]
-
         case "c":
             primes = [x for x in arr if is_prime(x)]
             return max(primes) if primes else None
-
         case "d":
             fibs = [x for x in arr if is_fib(x)]
             return min(fibs) if fibs else None
-
         case "e":
             les = [x for x in arr if x % 2 != 0]
             return sum(les) / len(les) if les else 0
-
         case "f":
             result = 1
             for x in arr:
                 if x % 2 != 0 and x % 3 != 0:
                     result *= x
             return result
-
         case "g":
             i, j = args[0], args[1]
             arr = arr.copy()
             arr[i], arr[j] = arr[j], arr[i]
             return arr
-
         case "h":
             match args[0] if args else 1:
                 case 1: return arr[::-1]
@@ -225,45 +218,73 @@ def xu_ly_mang(arr, chuc_nang, *args):
                     arr = arr.copy()
                     arr.reverse()
                     return arr
-
         case "i":
             unique = sorted(set(arr), reverse=True)
             if len(unique) < 2: return None
             return [x for x in arr if x == unique[1]]
-
         case "j":
             return sum(int(d) for x in arr for d in str(abs(x)))
-
         case "k":
             so = args[0]
             return arr.count(so)
-
         case "l":
             n = args[0]
             counter = Counter(arr)
             return [k for k, v in counter.items() if v == n]
-
         case "m":
             counter = Counter(arr)
             max_count = max(counter.values())
             return [k for k, v in counter.items() if v == max_count]
-
         case _:
             return "Chức năng không hợp lệ!"
 
-# ── TEST ─────────────────────────────────────────────────
-print("a)", xu_ly_mang(arr, "a"))
-print("b)", xu_ly_mang(arr, "b"))
-print("c)", xu_ly_mang(arr, "c"))
-print("d)", xu_ly_mang(arr, "d"))
-print("e)", xu_ly_mang(arr, "e"))
-print("f)", xu_ly_mang(arr, "f"))
-print("g)", xu_ly_mang(arr, "g", 0, 3))
-print("h)", xu_ly_mang(arr, "h", 1))   # đổi số 1/2/3 để thử 3 cách
-print("i)", xu_ly_mang(arr, "i"))
-print("j)", xu_ly_mang(arr, "j"))
-print("k)", xu_ly_mang(arr, "k", 3))
-print("l)", xu_ly_mang(arr, "l", 2))
-print("m)", xu_ly_mang(arr, "m"))
+# ── Menu nhập từ bàn phím ────────────────────────────────
+def menu():
+    print("\n===== MENU CHỨC NĂNG =====")
+    print("a) Số lẻ không chia hết cho 5")
+    print("b) Các số Fibonacci trong mảng")
+    print("c) Số nguyên tố lớn nhất")
+    print("d) Số Fibonacci bé nhất")
+    print("e) Trung bình các số lẻ")
+    print("f) Tích số lẻ không chia hết cho 3")
+    print("g) Đổi chỗ 2 phần tử")
+    print("h) Đảo ngược mảng")
+    print("i) Số lớn thứ nhì")
+    print("j) Tổng các chữ số")
+    print("k) Đếm số lần xuất hiện của một số")
+    print("l) Các số xuất hiện đúng n lần")
+    print("m) Số xuất hiện nhiều nhất")
+    print("q) Thoát")
+    print("==========================")
+    print(f"Mảng hiện tại: {arr}")
+
+# ── Vòng lặp chính ──────────────────────────────────────
+while True:
+    menu()
+    chon = input("Nhập chức năng (a-m, q để thoát): ").strip().lower()
+
+    match chon:
+        case "g":
+            i = int(input("Nhập vị trí thứ nhất: "))
+            j = int(input("Nhập vị trí thứ hai: "))
+            print("Kết quả:", xu_ly_mang(arr, chon, i, j))
+        case "h":
+            cach = int(input("Chọn cách đảo ngược (1/2/3): "))
+            print("Kết quả:", xu_ly_mang(arr, chon, cach))
+        case "k":
+            so = int(input("Nhập số cần đếm: "))
+            print("Kết quả:", xu_ly_mang(arr, chon, so))
+        case "l":
+            n = int(input("Nhập số lần xuất hiện n: "))
+            print("Kết quả:", xu_ly_mang(arr, chon, n))
+        case "q":
+            print("Thoát chương trình!")
+            break
+        case _:
+            ket_qua = xu_ly_mang(arr, chon)
+            if ket_qua == "Chức năng không hợp lệ!":
+                print("⚠️  Vui lòng nhập từ a đến m!")
+            else:
+                print("Kết quả:", ket_qua)
 
 
