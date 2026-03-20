@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    android:padding="20dp"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:id="@+id/iv_animal"
+        android:layout_width="128dp"
+        android:layout_height="128dp"
+        android:layout_marginTop="50dp"
+        android:src="@drawable/ic_elephant"
+        tools:ignore="ContentDescription" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="200dp"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/bt_alpha"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:backgroundTint="#6200EE"
+            android:text="@string/txt_alpha"
+            android:textAllCaps="true"
+            android:textColor="@color/white"
+            android:textSize="11sp" />
+
+        <Button
+            android:id="@+id/bt_scale"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_marginStart="4dp"
+            android:backgroundTint="#6200EE"
+            android:text="@string/txt_scale"
+            android:textAllCaps="true"
+            android:textColor="@color/white"
+            android:textSize="11sp" />
+
+        <Button
+            android:id="@+id/bt_trans"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_marginStart="4dp"
+            android:backgroundTint="#6200EE"
+            android:text="@string/txt_trans"
+            android:textAllCaps="true"
+            android:textColor="@color/white"
+            android:textSize="11sp" />
+
+        <Button
+            android:id="@+id/bt_rotate"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_marginStart="4dp"
+            android:backgroundTint="#6200EE"
+            android:text="@string/txt_rotate"
+            android:textAllCaps="true"
+            android:textColor="@color/white"
+            android:textSize="11sp" />
+    </LinearLayout>
+    <Button
+        android:id="@+id/bt_random"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:backgroundTint="#E91E63"
+        android:text="@string/txt_random"
+        android:textAllCaps="true"
+        android:textColor="@color/white"
+        android:textSize="14sp" />
+</LinearLayout>

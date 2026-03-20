@@ -89,5 +89,181 @@ print(f"Tổng {n} số Fibonacci đầu (không đệ quy): {tong_fib_khong_de_
 #Cau 7
 import  math
 def tong_can_bac_2(n):
-    
+    return sum(math.sqrt(i) for i in range(1, n + 1))
+n = 5
+print(f"Tổng căn bậc 2 của {n} số đầu: {tong_can_bac_2(n):.4f}")
+
+#Cau 8
+import math
+
+def giai_phuong_trinh_bac2(a,b,c):
+    if a == 0:
+        if b == 0:
+            return "Phương trình vô nghiệm hoặc vô số nghiệm"
+        return f"Phương trình bậc 1: x = {-c/b}"
+    delta = b**2 - 4*a*c
+    if delta > 0:
+        x1 = (-b + math.sqrt(delta))/(2*a)
+        x2 = (-b - math.sqrt(delta))/(2*a)
+        return f"Hai nghiệm phân biệt: x1 = {x1:.4f}, x2 = {x2:.4f}"
+    elif delta==0:
+        x = -b/(2*a)
+        return f"Nghiệm kép: x = {x:.4f}"
+    else:
+        return "Phương trình vô nghiệm thực (delta < 0)"
+
+print(giai_phuong_trinh_bac2(1,-5,6))
+print(giai_phuong_trinh_bac2(1,-2,1))
+print(giai_phuong_trinh_bac2(1,0,1))
+
+#Cau 9
+#Dùng đệ quy
+def giai_thua_de_quy(n):
+    if n < 0:
+        return "Không xác định"
+    if n == 0 or n == 1:
+        return 1
+    return n * giai_thua_de_quy(n-1)
+
+#Không dùng đệ quy
+def giai_thua(n):
+    if n < 0:
+        return "Không xác định"
+    result = 1
+    for i in range(2, n+1):
+        result *= i
+    return result
+
+print(giai_thua_de_quy(5))
+print(giai_thua(5))
+
+#Cau 10
+def in_tam_giac(n):
+    for i in range(n):
+        row = [' '] * n
+        if i == n - 1:
+            # Hàng cuối: in tất cả *
+            row = ['*'] * n
+        else:
+            row[0] = '*'   # Cột đầu
+            row[i] = '*'   # Đường chéo
+        print(' '.join(row))
+
+in_tam_giac(7)
+
+#Cau 11
+def doi_gio_phut_giay(so_giay):
+    gio = so_giay // 3600 # // chia lấy nguyên
+    phut = (so_giay % 3600) // 60
+    giay = so_giay % 60
+    return f"{gio}:{phut}:{giay}"
+
+ # Test
+print(doi_gio_phut_giay(3770))
+print(doi_gio_phut_giay(7384))
+print(doi_gio_phut_giay(60))
+
+#Cau 12
+import math
+from collections import Counter
+
+arr = [1, 3, 5, 7, 8, 13, 15, 21, 2, 4, 6, 9, 11, 3, 5, 3]
+
+# ── Hàm hỗ trợ ──────────────────────────────────────────
+def la_so_chinh_phuong(n):
+    can = int(math.sqrt(n))
+    return can * can == n
+
+def is_prime(n):
+    if n < 2: return False
+    for i in range(2, int(n**0.5) + 1):
+        if n % i == 0: return False
+    return True
+
+def is_fib(n):
+    return la_so_chinh_phuong(5*n*n + 4) or la_so_chinh_phuong(5*n*n - 4)
+
+# ── Hàm chính dùng match case ────────────────────────────
+def xu_ly_mang(arr, chuc_nang, *args):
+    match chuc_nang:
+        case "a":
+            return [x for x in arr if x % 2 != 0 and x % 5 != 0]
+
+        case "b":
+            return [x for x in arr if is_fib(x)]
+
+        case "c":
+            primes = [x for x in arr if is_prime(x)]
+            return max(primes) if primes else None
+
+        case "d":
+            fibs = [x for x in arr if is_fib(x)]
+            return min(fibs) if fibs else None
+
+        case "e":
+            les = [x for x in arr if x % 2 != 0]
+            return sum(les) / len(les) if les else 0
+
+        case "f":
+            result = 1
+            for x in arr:
+                if x % 2 != 0 and x % 3 != 0:
+                    result *= x
+            return result
+
+        case "g":
+            i, j = args[0], args[1]
+            arr = arr.copy()
+            arr[i], arr[j] = arr[j], arr[i]
+            return arr
+
+        case "h":
+            match args[0] if args else 1:
+                case 1: return arr[::-1]
+                case 2: return list(reversed(arr))
+                case 3:
+                    arr = arr.copy()
+                    arr.reverse()
+                    return arr
+
+        case "i":
+            unique = sorted(set(arr), reverse=True)
+            if len(unique) < 2: return None
+            return [x for x in arr if x == unique[1]]
+
+        case "j":
+            return sum(int(d) for x in arr for d in str(abs(x)))
+
+        case "k":
+            so = args[0]
+            return arr.count(so)
+
+        case "l":
+            n = args[0]
+            counter = Counter(arr)
+            return [k for k, v in counter.items() if v == n]
+
+        case "m":
+            counter = Counter(arr)
+            max_count = max(counter.values())
+            return [k for k, v in counter.items() if v == max_count]
+
+        case _:
+            return "Chức năng không hợp lệ!"
+
+# ── TEST ─────────────────────────────────────────────────
+print("a)", xu_ly_mang(arr, "a"))
+print("b)", xu_ly_mang(arr, "b"))
+print("c)", xu_ly_mang(arr, "c"))
+print("d)", xu_ly_mang(arr, "d"))
+print("e)", xu_ly_mang(arr, "e"))
+print("f)", xu_ly_mang(arr, "f"))
+print("g)", xu_ly_mang(arr, "g", 0, 3))
+print("h)", xu_ly_mang(arr, "h", 1))   # đổi số 1/2/3 để thử 3 cách
+print("i)", xu_ly_mang(arr, "i"))
+print("j)", xu_ly_mang(arr, "j"))
+print("k)", xu_ly_mang(arr, "k", 3))
+print("l)", xu_ly_mang(arr, "l", 2))
+print("m)", xu_ly_mang(arr, "m"))
+
 
