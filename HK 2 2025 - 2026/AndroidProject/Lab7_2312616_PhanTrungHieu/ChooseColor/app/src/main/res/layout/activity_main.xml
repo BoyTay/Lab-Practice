@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    android:padding="16dp"
+    tools:context=".MainActivity">
+
+    <!-- SeekBar và Text cho màu Đỏ -->
+    <TextView
+        android:id="@+id/tvR"
+        android:layout_width="60dp"
+        android:layout_height="wrap_content"
+        android:text="R = 0"
+        android:textColor="#F44336"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="@+id/sbR"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/sbR" />
+
+    <SeekBar
+        android:id="@+id/sbR"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="32dp"
+        android:max="255"
+        android:progressDrawable="@drawable/seekbar_red"
+        android:thumbTint="#F44336"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/tvR"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <!-- SeekBar và Text cho màu Xanh lá -->
+    <TextView
+        android:id="@+id/tvG"
+        android:layout_width="60dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dp"
+        android:text="G = 0"
+        android:textColor="#4CAF50"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="@+id/sbG"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/sbR" />
+
+    <SeekBar
+        android:id="@+id/sbG"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:max="255"
+        android:progressDrawable="@drawable/seekbar_green"
+        android:thumbTint="#4CAF50"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/tvG"
+        app:layout_constraintTop_toTopOf="@+id/tvG" />
+
+    <!-- SeekBar và Text cho màu Xanh dương -->
+    <TextView
+        android:id="@+id/tvB"
+        android:layout_width="60dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dp"
+        android:text="B = 0"
+        android:textColor="#2196F3"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="@+id/sbB"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/sbG" />
+
+    <SeekBar
+        android:id="@+id/sbB"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:max="255"
+        android:progressDrawable="@drawable/seekbar_blue"
+        android:thumbTint="#2196F3"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/tvB"
+        app:layout_constraintTop_toTopOf="@+id/tvB" />
+
+    <!-- Nhãn hiển thị tên màu -->
+    <TextView
+        android:id="@+id/labelRGB"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:text="RGB"
+        android:textAlignment="center"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/viewRGB"
+        app:layout_constraintEnd_toStartOf="@+id/labelCMY"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/labelCMY"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:text="CMY"
+        android:textAlignment="center"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/viewCMY"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/labelRGB" />
+
+    <!-- Vùng hiển thị màu thực tế -->
+    <View
+        android:id="@+id/viewRGB"
+        android:layout_width="0dp"
+        android:layout_height="120dp"
+        android:background="#000000"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/viewCMY"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <View
+        android:id="@+id/viewCMY"
+        android:layout_width="0dp"
+        android:layout_height="120dp"
+        android:background="#FFFFFF"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/viewRGB" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Đổi đơn vị đo chiều dài</string>
+    <string name="textbox_hint">Nhập số</string>
+    <string name="haily_name">Hải lý</string>
+    <string name="dam_name">Dặm</string>
+    <string name="km_name">Kilometer</string>
+    <string name="ly_name">Lý</string>
+    <string name="met_name">Met</string>
+    <string name="yard_name">Yard</string>
+    <string name="foot_name">Foot</string>
+    <string name="inch_name">Inches</string>
+
+    <string name="tuong_duong">Tương đương với</string>
+</resources>
