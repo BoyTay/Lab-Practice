@@ -138,7 +138,7 @@ while i < 6:
     print(i)
 
 #Cau 28
-def my_function(*kids): # *arg cho phép hàm nhận không giời hạn số lượng tham số truyền vào gom thành 1 tuple
+def my_function(*kids): # *arg cho phép hàm nhận không giới hạn số lượng tham số truyền vào gom thành 1 tuple
     print("The youngest child is " + kids[2])
 
 #Cau 29
